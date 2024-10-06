@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bot for Telegram on WooCommerce PRO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-01 07:13+0000\n"
+"PO-Revision-Date: 2021-11-06 09:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.1\n"
+"X-Domain: bot-for-telegram-on-woocommerce-pro"
+
+#. Name of the plugin
+msgid "Bot for Telegram on WooCommerce PRO"
+msgstr "Bot for Telegram on WooCommerce PRO"
+
+#. Description of the plugin
+msgid ""
+"Bot for Telegram on WooCommerce PRO is a plugin that allows you to create a "
+"telegram online store based on your website with WooCommerce."
+msgstr ""
+"Bot for Telegram on WooCommerce PRO это плагин, позволяющий создавать "
+"телеграм бот-магазин, основанный на вашем интернет магазине на WooCommerce "
+
+#: includes/BFTOW_PRO_Search.php:13
+msgid "Enter a search word"
+msgstr "Введите слово для поиска"
+
+#: includes/BFTOW_PRO_Notifications.php:59
+msgid "Error, please make sure you enter the correct public channel name"
+msgstr "Ошибка, убедитесь, что вы указали правильное имя публичного канала"
+
+#: includes/BFTOW_PRO_Search.php:54
+#, fuzzy, php-format
+#| msgid "Found %s posts"
+msgid "Found %s products"
+msgstr "Нашлось %s продуктов"
+
+#: includes/notices/install_free.php:4
+msgid "Free Download"
+msgstr "Скачать бесплатно"
+
+#. Author of the plugin
+msgid "guru-team"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wp-guruteam.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wp-guruteam.com/woocommerce-telegram/"
+msgstr ""
+
+#: includes/BFTOW_PRO_Account.php:23
+msgid "Information updated"
+msgstr "Информация обновлена"
+
+#: includes/BFTOW_PRO_Account.php:21
+msgid "Main menu"
+msgstr "Главное меню"
+
+#: includes/BFTOW_PRO_Account.php:17
+msgid "My account"
+msgstr "Мой профиль"
+
+#: includes/BFTOW_PRO_Account.php:22
+msgid "My account:"
+msgstr "Мой профиль:"
+
+#: includes/BFTOW_PRO_Account.php:18 includes/orders/orders.php:19
+msgid "My orders"
+msgstr "Мои заказы"
+
+#: includes/orders/orders.php:18
+msgid "No orders found"
+msgstr "Заказы не найдены"
+
+#: includes/BFTOW_PRO_Notifications.php:34
+#, php-format
+msgid "Order #%s status changed to %s"
+msgstr "Статус заказа #%s изменен на %s"
+
+#: includes/notices/install_free.php:3
+msgid "Please install Bot for Telegram on WooCommerce"
+msgstr ""
+"Пожалуйста установите бесплатную версию плагина Bot for Telegram on "
+"WooCommerce"
+
+#: includes/BFTOW_PRO_Search.php:14
+msgid "Products not found"
+msgstr "Продукты не найдены"
+
+#: includes/BFTOW_PRO_Search.php:12
+msgid "Search"
+msgstr "Поиск"
+
+#: includes/BFTOW_PRO_Search.php:48
+msgid "Show Results"
+msgstr "Показать результаты"
+
+#: includes/BFTOW_PRO_Search.php:15
+msgid "Show results"
+msgstr "Показать результаты"
+
+#: includes/BFTOW_PRO_Notifications.php:66
+msgid "Success"
+msgstr "Успешно"
+
+#: includes/BFTOW_PRO_Account.php:20
+msgid "Update location"
+msgstr "Обновите локацию"
+
+#: includes/BFTOW_PRO_Account.php:19
+msgid "Update phone"
+msgstr "Обновите телефон"
+
+#: includes/orders/orders.php:20
+msgid "Your Orders"
+msgstr "Ваши заказы"

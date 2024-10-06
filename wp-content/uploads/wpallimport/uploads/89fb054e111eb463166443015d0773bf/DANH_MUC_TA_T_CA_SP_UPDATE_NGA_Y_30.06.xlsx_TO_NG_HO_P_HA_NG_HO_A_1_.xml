@@ -1,0 +1,3275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[GT.5451.S.10A]]></mhng>
+		<tnhng><![CDATA[Gạo Thơm Lài, túi 10kg]]></tnhng>
+		<vt><![CDATA[kg]]></vt>
+		<nhmvthh><![CDATA[ 13,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[AAN]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[GT.ANLANH.S.05A]]></mhng>
+		<tnhng><![CDATA[Gạo An Lành, túi 05kg]]></tnhng>
+		<vt><![CDATA[kg]]></vt>
+		<nhmvthh><![CDATA[ 13,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[AAN]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[GT.ANLANH.S.10A]]></mhng>
+		<tnhng><![CDATA[Gạo An Lành, túi 10kg]]></tnhng>
+		<vt><![CDATA[kg]]></vt>
+		<nhmvthh><![CDATA[ 13,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[AAN]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[GT.DT8.S.05B]]></mhng>
+		<tnhng><![CDATA[Gạo Đài Thơm, túi 05kg]]></tnhng>
+		<vt><![CDATA[kg]]></vt>
+		<nhmvthh><![CDATA[ 20,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[AAN]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[GT.DT8.S.10A]]></mhng>
+		<tnhng><![CDATA[Gạo Đài Thơm, túi 10kg]]></tnhng>
+		<vt><![CDATA[kg]]></vt>
+		<nhmvthh><![CDATA[ 14,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[AAN]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[GT.JAPO.S.05B]]></mhng>
+		<tnhng><![CDATA[Gạo Japonica, túi 05kg]]></tnhng>
+		<vt><![CDATA[kg]]></vt>
+		<nhmvthh><![CDATA[ 22,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[AAN]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[GT.ST21.S.05D]]></mhng>
+		<tnhng><![CDATA[Gạo ST21, túi 05kg]]></tnhng>
+		<vt><![CDATA[kg]]></vt>
+		<nhmvthh><![CDATA[ 24,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[AAN]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[GT.ST24.S.05C]]></mhng>
+		<tnhng><![CDATA[Gạo ST24, túi 05kg]]></tnhng>
+		<vt><![CDATA[kg]]></vt>
+		<nhmvthh><![CDATA[ 33,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[AAN]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[GT.ST25.S.05C]]></mhng>
+		<tnhng><![CDATA[Gạo ST25, túi 05kg]]></tnhng>
+		<vt><![CDATA[kg]]></vt>
+		<nhmvthh><![CDATA[ 33,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[AAN]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[GT.ST25T.S.05B]]></mhng>
+		<tnhng><![CDATA[Gạo ST25 lúa tôm, túi 05kg]]></tnhng>
+		<vt><![CDATA[kg]]></vt>
+		<nhmvthh><![CDATA[ 40,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[AAN]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A11]]></mhng>
+		<tnhng><![CDATA[Bột giặt nhiệt Aba 1,15kg]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 46,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A2]]></mhng>
+		<tnhng><![CDATA[Bột giặt nhiệt Aba 2 kg]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 78,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A26]]></mhng>
+		<tnhng><![CDATA[Bột giặt nhiệt Aba Junco 2.6kg]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 114,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A29]]></mhng>
+		<tnhng><![CDATA[Bột giặt nhiệt Aba 2.9kg]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 114,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A291]]></mhng>
+		<tnhng><![CDATA[Bột giặt nhiệt Aba 2.9kg (giặt máy)]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 109,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A350]]></mhng>
+		<tnhng><![CDATA[Bột giặt nhiệt Aba Nước Hoa 350gr]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 17,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A380]]></mhng>
+		<tnhng><![CDATA[Bột giặt nhiệt Aba 380gr]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 17,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A4]]></mhng>
+		<tnhng><![CDATA[Bột giặt nhiệt Aba Nước Hoa 4kg]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 151,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A43]]></mhng>
+		<tnhng><![CDATA[Bột giặt nhiệt Aba 4,3 kg]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 151,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A53]]></mhng>
+		<tnhng><![CDATA[Bột giặt nhiệt Aba Junco 5,3 kg]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 201,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A57]]></mhng>
+		<tnhng><![CDATA[Bột giặt nhiệt Aba 5.7kg]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 201,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A700]]></mhng>
+		<tnhng><![CDATA[Bột giặt nhiệt Aba Nước Hoa 700gr]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 33,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A770]]></mhng>
+		<tnhng><![CDATA[Bột giặt nhiệt Aba 770gr]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 33,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[AN19H]]></mhng>
+		<tnhng><![CDATA[Nước giặt Aba Hồng 1.9kg]]></tnhng>
+		<vt><![CDATA[Túi]]></vt>
+		<nhmvthh><![CDATA[ 87,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[AN19V]]></mhng>
+		<tnhng><![CDATA[Nước giặt Aba Vàng 1.9kg]]></tnhng>
+		<vt><![CDATA[Túi]]></vt>
+		<nhmvthh><![CDATA[ 87,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[AN27]]></mhng>
+		<tnhng><![CDATA[Nước giặt Aba Matic 2.75L Đỏ ]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[ 112,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[AN271]]></mhng>
+		<tnhng><![CDATA[Nước giặt Aba Matic 2.75L Xanh ]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[ 112,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[AN36]]></mhng>
+		<tnhng><![CDATA[Nước giặt Aba Vàng 3.6kg]]></tnhng>
+		<vt><![CDATA[Túi]]></vt>
+		<nhmvthh><![CDATA[ 146,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[AN36H]]></mhng>
+		<tnhng><![CDATA[Nước giặt Aba Hồng 3.6kg]]></tnhng>
+		<vt><![CDATA[Túi]]></vt>
+		<nhmvthh><![CDATA[ 146,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[BK2]]></mhng>
+		<tnhng><![CDATA[Bột giặt Binky 2kg]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 50,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[BK23]]></mhng>
+		<tnhng><![CDATA[Nước giặt Binky Hồng 2.3L]]></tnhng>
+		<vt><![CDATA[Túi]]></vt>
+		<nhmvthh><![CDATA[ 71,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[BK231]]></mhng>
+		<tnhng><![CDATA[Nước giặt Binky Xanh 2.3L]]></tnhng>
+		<vt><![CDATA[Túi]]></vt>
+		<nhmvthh><![CDATA[ 71,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[BK311]]></mhng>
+		<tnhng><![CDATA[Nước giặt Binky 3.1L Hồng]]></tnhng>
+		<vt><![CDATA[Túi]]></vt>
+		<nhmvthh><![CDATA[ 90,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[BK312]]></mhng>
+		<tnhng><![CDATA[Nước giặt Binky 3.1L Xanh]]></tnhng>
+		<vt><![CDATA[Túi]]></vt>
+		<nhmvthh><![CDATA[ 90,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[BK33H]]></mhng>
+		<tnhng><![CDATA[Nước giặt Binky 3.3kg Hồng]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[ 108,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[BK33X]]></mhng>
+		<tnhng><![CDATA[Nước giặt Binky 3.3kg Xanh ]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[ 108,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[BK43]]></mhng>
+		<tnhng><![CDATA[Bột giặt Binky 4.3kg]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 106,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[BK520]]></mhng>
+		<tnhng><![CDATA[Bột giặt Binky 520g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 14,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[BK57]]></mhng>
+		<tnhng><![CDATA[Bột giặt Binky 5.7kg]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 136,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[EBNGH]]></mhng>
+		<tnhng><![CDATA[Kem Biona Nghệ]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[ 14,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[EKEN]]></mhng>
+		<tnhng><![CDATA[Kem bôi da Kentax 10%]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[ 9,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[ELOT]]></mhng>
+		<tnhng><![CDATA[Keo lột E100 lớn]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[ 18,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[EMUN]]></mhng>
+		<tnhng><![CDATA[Kem E100 Nghệ]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[ 14,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[ETOM]]></mhng>
+		<tnhng><![CDATA[Kem bôi da Tomax]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[ 8,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[JUNC82]]></mhng>
+		<tnhng><![CDATA[Nước xả vải Junco 800ml Xanh Dương]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[ 48,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[JUNC83]]></mhng>
+		<tnhng><![CDATA[Nước xả vải Junco 800ml Đen]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[ 48,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[JUNT4]]></mhng>
+		<tnhng><![CDATA[Nước xả vải Junco Hồng 800ml]]></tnhng>
+		<vt><![CDATA[Túi]]></vt>
+		<nhmvthh><![CDATA[ 42,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[KDR1]]></mhng>
+		<tnhng><![CDATA[Kem đánh răng Doreen Trà xanh 200gr]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[ 23,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[KDR7]]></mhng>
+		<tnhng><![CDATA[Kem đánh răng Doreen Xanh Ngọc 200gr]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[ 16,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[KDR8]]></mhng>
+		<tnhng><![CDATA[Kem đánh răng Doreen Tinh thể Băng 180g ]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[ 23,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[RC1]]></mhng>
+		<tnhng><![CDATA[Nước rửa chén Campax Chanh 400ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[ 11,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[RC3]]></mhng>
+		<tnhng><![CDATA[Nước rửa chén Campax Chanh 750ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[ 20,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ABA]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3921018]]></mhng>
+		<tnhng><![CDATA[bio-essence sữa rửa mặt gold 100g]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[ 136,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3921020]]></mhng>
+		<tnhng><![CDATA[bio-essence sữa rửa mặt da dau 100g ]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[ 145,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3921021]]></mhng>
+		<tnhng><![CDATA[bio-essence sữa rửa mặt da kho thuong 100g]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[ 145,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3921022]]></mhng>
+		<tnhng><![CDATA[bio-essence gel tẩy tế tế bào lão hóa 60g]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[ 258,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3921024]]></mhng>
+		<tnhng><![CDATA[bio-essence bird’s sữa rửa mặt nest collagen 100g]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[ 142,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3921026]]></mhng>
+		<tnhng><![CDATA[bio-essence water b5 foamy cleanser 100g]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[ 136,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3921028]]></mhng>
+		<tnhng><![CDATA[bio-essence sữa rửa mặt -white pro whitening 100g]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[ 146,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3937011]]></mhng>
+		<tnhng><![CDATA[bio-essence tinh chất trẻ hoa renew 40ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[ 449,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3937012]]></mhng>
+		<tnhng><![CDATA[bio-essence tinh chất bird’s nest collagen essence 30g]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[ 357,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3937013]]></mhng>
+		<tnhng><![CDATA[bio-essence water tinh chất vitamin b5 30ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[ 528,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3937016]]></mhng>
+		<tnhng><![CDATA[bio-essence tinh chất gold double serum 36g]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[ 539,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3937017]]></mhng>
+		<tnhng><![CDATA[bio-essence tinh chất -white pro whitening 30ml]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[ 570,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3938007]]></mhng>
+		<tnhng><![CDATA[bio-essence nước dưỡng gold 150ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[ 391,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3938010]]></mhng>
+		<tnhng><![CDATA[bio-essence nước hoa hong renew 100ml ]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[ 270,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3938011]]></mhng>
+		<tnhng><![CDATA[bio-essence nước khoang dưỡng da water 300ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[ 320,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3938012]]></mhng>
+		<tnhng><![CDATA[bio-essence nước khoang dưỡng da water 100ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[ 150,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3938014]]></mhng>
+		<tnhng><![CDATA[bio-essence nước tay trắng water 100ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[ 87,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3938015]]></mhng>
+		<tnhng><![CDATA[bio-essence nước tay trắng water 400ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[ 233,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3938017]]></mhng>
+		<tnhng><![CDATA[bio-essence nước can bang bird's nest]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[ 366,800 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3939015]]></mhng>
+		<tnhng><![CDATA[bio-essence kem ngay gold 40g]]></tnhng>
+		<vt><![CDATA[Hủ]]></vt>
+		<nhmvthh><![CDATA[ 456,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3939016]]></mhng>
+		<tnhng><![CDATA[bio-essence kem dem gold 40g]]></tnhng>
+		<vt><![CDATA[Hủ]]></vt>
+		<nhmvthh><![CDATA[ 456,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3939021]]></mhng>
+		<tnhng><![CDATA[bio-essence kem nâng cơ vlift flc brighteng 45g]]></tnhng>
+		<vt><![CDATA[Hủ]]></vt>
+		<nhmvthh><![CDATA[ 457,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3939022]]></mhng>
+		<tnhng><![CDATA[bio-essence kem ngày bird nest collagen 50g]]></tnhng>
+		<vt><![CDATA[Hủ]]></vt>
+		<nhmvthh><![CDATA[ 374,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3939023]]></mhng>
+		<tnhng><![CDATA[bio-essence kem dưỡng am water 50g]]></tnhng>
+		<vt><![CDATA[Hủ]]></vt>
+		<nhmvthh><![CDATA[ 368,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3939024]]></mhng>
+		<tnhng><![CDATA[bio-essence kem ngay -white pro whitening 50g]]></tnhng>
+		<vt><![CDATA[Hủ]]></vt>
+		<nhmvthh><![CDATA[ 431,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3939025]]></mhng>
+		<tnhng><![CDATA[bio-essence kem dem -white pro whitening 50g]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[ 431,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3939026]]></mhng>
+		<tnhng><![CDATA[bio-essence kem tri nam -white pro whitening 25g]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[ 359,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3939027]]></mhng>
+		<tnhng><![CDATA[bio-essence chong nắng -white pro whitening 40g]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[ 199,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3940005]]></mhng>
+		<tnhng><![CDATA[bio-essence mặt nạ dưỡng am 20ml]]></tnhng>
+		<vt><![CDATA[Miếng]]></vt>
+		<nhmvthh><![CDATA[ 24,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3940006]]></mhng>
+		<tnhng><![CDATA[bio-essence mặt nạ dưỡng trắng 20ml]]></tnhng>
+		<vt><![CDATA[Miếng]]></vt>
+		<nhmvthh><![CDATA[ 24,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3940007]]></mhng>
+		<tnhng><![CDATA[bio-essence mặt nạ dưỡng trẻ hoa 20ml]]></tnhng>
+		<vt><![CDATA[Miếng]]></vt>
+		<nhmvthh><![CDATA[ 24,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3940011]]></mhng>
+		<tnhng><![CDATA[bio-essence mặt nạ ngủ nest collagen 50g]]></tnhng>
+		<vt><![CDATA[Hủ]]></vt>
+		<nhmvthh><![CDATA[ 374,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3940013]]></mhng>
+		<tnhng><![CDATA[bio-essence trẻasure mặt nạ rau má 20ml ]]></tnhng>
+		<vt><![CDATA[Miếng]]></vt>
+		<nhmvthh><![CDATA[ 32,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3940015]]></mhng>
+		<tnhng><![CDATA[bio-essence trẻasure mặt nạ vitamin c 20ml ]]></tnhng>
+		<vt><![CDATA[Miếng]]></vt>
+		<nhmvthh><![CDATA[ 32,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3940016]]></mhng>
+		<tnhng><![CDATA[bio-essence mặt nạ cap am water b5 20ml]]></tnhng>
+		<vt><![CDATA[Miếng]]></vt>
+		<nhmvthh><![CDATA[ 25,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[3941003]]></mhng>
+		<tnhng><![CDATA[bio-essence kem chong nắng water 40ml ]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[ 179,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[08CF00451]]></mhng>
+		<tnhng><![CDATA[Cà phê Wake up Sài Gòn 24gói x 19gr]]></tnhng>
+		<vt><![CDATA[Bịch]]></vt>
+		<nhmvthh><![CDATA[ 35,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[MASSAN]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[08CF00456]]></mhng>
+		<tnhng><![CDATA[Cà phê VCF 3in1 Gold Original 24gói x 20gr]]></tnhng>
+		<vt><![CDATA[Bịch]]></vt>
+		<nhmvthh><![CDATA[ 57,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[MASSAN]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[09NC00096]]></mhng>
+		<tnhng><![CDATA[Sữa hạt ngũ cốc B'fast 20gói x 25gr]]></tnhng>
+		<vt><![CDATA[Bịch]]></vt>
+		<nhmvthh><![CDATA[ 52,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[MASSAN]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[BDSS]]></mhng>
+		<tnhng><![CDATA[Lộc Phát- Bí Đao Sương Sáo 500ml]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 182,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[LỘC PHÁT]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[CĐXL]]></mhng>
+		<tnhng><![CDATA[Lộc Phát-Cháo Đậu Xanh Ly 24ly/Thùng]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 165,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[LỘC PHÁT]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[CĐXT]]></mhng>
+		<tnhng><![CDATA[Lộc Phát- Cháo Sườn Hầm Đ.Xanh 50gx50gói/thùng]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 258,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[LỘC PHÁT]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[CĐXT1]]></mhng>
+		<tnhng><![CDATA[Lộc Phát- Cháo Đậu Xanh 30gói/thùng]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 155,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[LỘC PHÁT]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[CKIDT]]></mhng>
+		<tnhng><![CDATA[Lộc Phát- Cháo YẾN  KID IQ 30gói/Thùng]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 205,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[LỘC PHÁT]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[CTBL]]></mhng>
+		<tnhng><![CDATA[Lộc Phát-Cháo Thịt Bằm Ly 24Ly/thùng]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 114,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[LỘC PHÁT]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[CYCT]]></mhng>
+		<tnhng><![CDATA[Lộc Phát- Cháo yến chay nấm hương 30gói/Thùng]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 199,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[LỘC PHÁT]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[CYLTBT]]></mhng>
+		<tnhng><![CDATA[Lộc Phát-Cháo Yến Ly 24ly/Thùng]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 220,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[LỘC PHÁT]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[CYTBT1]]></mhng>
+		<tnhng><![CDATA[Lộc Phát- Cháo Yến 30gói/Thùng]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 211,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[LỘC PHÁT]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[NYNDT]]></mhng>
+		<tnhng><![CDATA[Lộc Phát-Nước Yến Nha đam 24chai/Thùng]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 182,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[LỘC PHÁT]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[TBT415]]></mhng>
+		<tnhng><![CDATA[Lộc Phát-Trà Bá Tước 415ml]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 170,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[LỘC PHÁT]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[I100G]]></mhng>
+		<tnhng><![CDATA[Bánh gạo ICHI vị mật ong 100g (nhỏ)]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 14,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ONEONE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[I140G]]></mhng>
+		<tnhng><![CDATA[Bánh gạo ICHI vị mật ong 140g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 19,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ONEONE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[I180G]]></mhng>
+		<tnhng><![CDATA[Bánh gạo ICHI vị mật ong 180g (lớn)]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 24,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ONEONE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[OB]]></mhng>
+		<tnhng><![CDATA[Bánh mặn One One vị Bò nướng 150g (nhỏ)]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 18,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ONEONE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[OB104]]></mhng>
+		<tnhng><![CDATA[Bánh gạo One One tảo biển bạch tuộc 104g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 14,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ONEONE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[OM118G]]></mhng>
+		<tnhng><![CDATA[Bánh mặn One One vị Pho mai Ngô 118g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 21,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ONEONE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[ON150]]></mhng>
+		<tnhng><![CDATA[Bánh ngọt One One 150g (nhỏ)]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 14,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ONEONE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[ON230G]]></mhng>
+		<tnhng><![CDATA[Bánh ngọt One One 230g (lớn)]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 20,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ONEONE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[OT]]></mhng>
+		<tnhng><![CDATA[Bánh mặn One One vị tôm nướng 150gr (nhỏ)]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 18,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ONEONE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[PMS118G]]></mhng>
+		<tnhng><![CDATA[Bánh Gạo One One Phô Mai Sữa 118g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 21,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ONEONE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[SN120G]]></mhng>
+		<tnhng><![CDATA[Bánh One One sữa ngô 120g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 14,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[ONEONE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[1B123039163]]></mhng>
+		<tnhng><![CDATA[Lays Bò nướng 42g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 8,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[1G123048125]]></mhng>
+		<tnhng><![CDATA[Lays Gà cay Hàn Quốc 42g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 8,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[1H123019163]]></mhng>
+		<tnhng><![CDATA[Lays Tôm Trứng 42g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 8,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[1K123052189]]></mhng>
+		<tnhng><![CDATA[Lays Kem hành 442g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 8,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[1M123016163]]></mhng>
+		<tnhng><![CDATA[Lays Phô mai x 42g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 8,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[1N123022163]]></mhng>
+		<tnhng><![CDATA[Lays Tự nhiên x42g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 8,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[1N123052188]]></mhng>
+		<tnhng><![CDATA[Lays Nấm Truffle 42g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 8,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[1S123002163]]></mhng>
+		<tnhng><![CDATA[Lays Sườn BBQ 42g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 8,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[1T123041163]]></mhng>
+		<tnhng><![CDATA[Lays Tảo biển 42g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 8,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[1W123051188]]></mhng>
+		<tnhng><![CDATA[Lays Bò Wagyu 42g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 8,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[20B123039152]]></mhng>
+		<tnhng><![CDATA[Lays Thăn Bò nướng 90g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 16,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[20B123039153]]></mhng>
+		<tnhng><![CDATA[Lays Bò Wagyu 75g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 16,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[20G123048152]]></mhng>
+		<tnhng><![CDATA[Lays Gà cay Phô mai 90]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 16,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[20K123438041]]></mhng>
+		<tnhng><![CDATA[Lays MAX Kem hành 75g ]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 16,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[20M123205152]]></mhng>
+		<tnhng><![CDATA[Lays Phô Mai 90g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 16,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[20N123206152]]></mhng>
+		<tnhng><![CDATA[Lays Tự nhiên Classic 90g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 16,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[20S123213152]]></mhng>
+		<tnhng><![CDATA[Lays Sườn nướng BBQ 90g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 16,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[20T123041152]]></mhng>
+		<tnhng><![CDATA[Lays Tảo biển Nori 90g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 16,500 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[5B120103151]]></mhng>
+		<tnhng><![CDATA[Poca Bò lúc lắc 35g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 3,800 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[5B120132151]]></mhng>
+		<tnhng><![CDATA[Poca Bắp ngọt 35g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 3,800 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[5B120139167]]></mhng>
+		<tnhng><![CDATA[Poca Bí đỏ 35g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 3,800 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[5G120124151]]></mhng>
+		<tnhng><![CDATA[Poca Gà Quay 35g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 3,800 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[5M120118151]]></mhng>
+		<tnhng><![CDATA[Poca Mực lăn 35g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 3,800 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[5M12013683]]></mhng>
+		<tnhng><![CDATA[Poca Mực cay 35g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 3,800 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[5PT120501121]]></mhng>
+		<tnhng><![CDATA[Poca Phồng Tôm 35g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 3,800 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[5Q120137160]]></mhng>
+		<tnhng><![CDATA[Poca Que giòn 35g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 3,800 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[5Q120138160]]></mhng>
+		<tnhng><![CDATA[Poca Que Phô mai 35g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 3,800 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[5T120102151]]></mhng>
+		<tnhng><![CDATA[Poca Tôm Hùm 35g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 3,800 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[6B123039028]]></mhng>
+		<tnhng><![CDATA[Lays Thăn bò 35g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 5,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[6C123055205]]></mhng>
+		<tnhng><![CDATA[Lays Chiu® Tự Nhiên 35g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 5,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[6G123048017]]></mhng>
+		<tnhng><![CDATA[Lays Gà Cay Hàn Quốc 35g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 5,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[6H23002024]]></mhng>
+		<tnhng><![CDATA[Lays Tôm Trứng muối Hongkon 35g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 5,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[6M123035024]]></mhng>
+		<tnhng><![CDATA[Lays Phô mai 35g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 5,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[6N123020024]]></mhng>
+		<tnhng><![CDATA[Lays Tự nhiên 35g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 5,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[6Q123054205]]></mhng>
+		<tnhng><![CDATA[Lays Chiu® BBQ 35g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 5,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[6S123013024]]></mhng>
+		<tnhng><![CDATA[Lays Sườn BBQ 35g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 5,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[6T123041024]]></mhng>
+		<tnhng><![CDATA[Lays Tảo biển 35g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 5,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[P1B120103175]]></mhng>
+		<tnhng><![CDATA[Poca Bò Lúc Lắc 65g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 7,300 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[P1B120132193]]></mhng>
+		<tnhng><![CDATA[Poca Bắp Ngọt 65g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 7,300 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[P1G120124184]]></mhng>
+		<tnhng><![CDATA[Poca Gà Quay 65g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 7,300 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[P1M120135175]]></mhng>
+		<tnhng><![CDATA[Poca Mực Lăn 65g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 7,300 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[P1P120501194]]></mhng>
+		<tnhng><![CDATA[Poca Phồng 60g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 7,300 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[P1Q120137184]]></mhng>
+		<tnhng><![CDATA[Poca Que BBQ 70g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 7,300 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[P1T102135177]]></mhng>
+		<tnhng><![CDATA[Poca Tôm Nướng 65g ]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[ 7,300 ]]></nhmvthh>
+		<ngicnh><![CDATA[PESICO]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[301000007]]></mhng>
+		<tnhng><![CDATA[Mì 3M Chay lá đa]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[80000]]></nhmvthh>
+		<ngicnh><![CDATA[Mì ba miền]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[301000009]]></mhng>
+		<tnhng><![CDATA[Mì 3M Tôm hùm]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[80000]]></nhmvthh>
+		<ngicnh><![CDATA[Mì ba miền]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[301000021]]></mhng>
+		<tnhng><![CDATA[Mì 3MG chua cay 3 cấp độ]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 116,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[Mì ba miền]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[301000022]]></mhng>
+		<tnhng><![CDATA[Mì 3MG Bò hầm rau thơm]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 116,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[Mì ba miền]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[301000024]]></mhng>
+		<tnhng><![CDATA[Mì 3MG Tôm chua cay đặc biệt]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 116,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[Mì ba miền]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[301000030]]></mhng>
+		<tnhng><![CDATA[Mì Reeva Lẩu nấm chua cay]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 215,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[Mì ba miền]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[301000055]]></mhng>
+		<tnhng><![CDATA[Mì 3M Tôm chua cay (X2 Tôm)]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 72,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[Mì ba miền]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[301000059]]></mhng>
+		<tnhng><![CDATA[Mì Reeva Fresh Lẩu nấm chua ca]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 215,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[Mì ba miền]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[301000060]]></mhng>
+		<tnhng><![CDATA[Mì 3MG Tôm chua cay đb (2X Nước cốt)]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 116,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[Mì ba miền]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[301000061]]></mhng>
+		<tnhng><![CDATA[Mì 3MG Bò hầm rau thơm (2X Nước cốt)]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 116,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[Mì ba miền]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[301000063]]></mhng>
+		<tnhng><![CDATA[Mì 3M Tôm hùm (X2 Tôm)]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 80,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[Mì ba miền]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[301000068]]></mhng>
+		<tnhng><![CDATA[Mì Reeva Fresh Lẩu nấm chua cay]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 215,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[Mì ba miền]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[303000000]]></mhng>
+		<tnhng><![CDATA[Hạt nêm 3M Thịt&Xương]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 400,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[Mì ba miền]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[304000006]]></mhng>
+		<tnhng><![CDATA[Nước mắn 3M Cá Cơm]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 340,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[Mì ba miền]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[305000003]]></mhng>
+		<tnhng><![CDATA[Boncha-Chanh 330ml]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 145,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[Mì ba miền]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[HLBĐ220]]></mhng>
+		<tnhng><![CDATA[Sữa Hà Lan Bịch 220ml - Có Đường]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 286,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[MILK]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[HLHD180]]></mhng>
+		<tnhng><![CDATA[Sữa Hà Lan Hộp 180ml - Dâu]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 318,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[MILK]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[HLHĐ180]]></mhng>
+		<tnhng><![CDATA[Sữa Hà Lan Hộp 180ml - Có Đường]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 318,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[MILK]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[MLH180]]></mhng>
+		<tnhng><![CDATA[Sữa Milo Hộp 180ml]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 344,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[MILK]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[SSC80]]></mhng>
+		<tnhng><![CDATA[Sữa Su Su Lọ 80ml - Cam]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 165,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[MILK]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[SSD80]]></mhng>
+		<tnhng><![CDATA[Sữa Su Su Lọ 80ml - Dâu]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 165,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[MILK]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[SST80]]></mhng>
+		<tnhng><![CDATA[Sữa Su Su Lọ 80ml - Táo]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 165,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[MILK]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[VBĐ220]]></mhng>
+		<tnhng><![CDATA[Sữa Vinamilk Bịch 220ml - Có Đường]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 319,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[MILK]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[VBKĐ220]]></mhng>
+		<tnhng><![CDATA[Sữa Vinamilk Bịch 220ml - Không Đường]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 319,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[MILK]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[VH1LĐ]]></mhng>
+		<tnhng><![CDATA[Sữa Vinamilk Hộp 1L - Có Đường ]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 371,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[MILK]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[VH1LKĐ]]></mhng>
+		<tnhng><![CDATA[Sữa Vinamilk Hộp 1L - Không Đường ]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 371,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[MILK]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[VHĐ110]]></mhng>
+		<tnhng><![CDATA[Sữa Vinamilk Hộp 110ml - Có Đường]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 219,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[MILK]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[VHĐ180]]></mhng>
+		<tnhng><![CDATA[Sữa Vinamilk Hộp 180ml - Có Đường]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 340,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[MILK]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[VPNG380]]></mhng>
+		<tnhng><![CDATA[Sữa Đặc Sao Giấy - Nhỏ  ( 24 Hộp x 380G )]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 19,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[MILK]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[VPNK1284]]></mhng>
+		<tnhng><![CDATA[Sữa Đặc Sao Giấy - Lớn ( 12 Hộp x 1.284kg )]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 31,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[MILK]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[YMC170]]></mhng>
+		<tnhng><![CDATA[Sữa Yomost Cam 170ml ]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 318,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[MILK]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[YMD170]]></mhng>
+		<tnhng><![CDATA[Sữa Yomost Dâu 170ml ]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[ 318,000 ]]></nhmvthh>
+		<ngicnh><![CDATA[MILK]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[101168467]]></mhng>
+		<tnhng><![CDATA[Lipton Nhãn vàng 100 góix36]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[118000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[101168468]]></mhng>
+		<tnhng><![CDATA[Lipton Trà xanh SD Tuoi moi 18x25x1.5g]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[43000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[101168469]]></mhng>
+		<tnhng><![CDATA[Lipton Trà xanh SD Tuoi moi 12x(50x1.5g)]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[73000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[101168490]]></mhng>
+		<tnhng><![CDATA[Lipton English Breakfast 18 (25x2.4g)]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[68000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[101168493]]></mhng>
+		<tnhng><![CDATA[Lipton Nhãn Vàng 50 gói x24]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[73000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[101168494]]></mhng>
+		<tnhng><![CDATA[Lipton Nhãn Vàng 25 gói x48]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[43000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[101168495]]></mhng>
+		<tnhng><![CDATA[Lipton Trà sữa Oolong 17gx30 hộp]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[52000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[101168496]]></mhng>
+		<tnhng><![CDATA[Lipton Trà sữa Matcha 17gx30 hộp]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[52000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[101168497]]></mhng>
+		<tnhng><![CDATA[Lipton Vị Xoài 17gx30 hộp]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[42000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[101168498]]></mhng>
+		<tnhng><![CDATA[Lipton Ice Tea Chanh 14gx30 hộp]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[42000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[101168499]]></mhng>
+		<tnhng><![CDATA[Lipton Ice Tea Đào 14gx30 hộp]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[42000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[101168500]]></mhng>
+		<tnhng><![CDATA[Lipton Ice Tea Chanh 16(2x16x14g+BTTL)]]></tnhng>
+		<vt><![CDATA[Bộ]]></vt>
+		<nhmvthh><![CDATA[87000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[1011685001]]></mhng>
+		<tnhng><![CDATA[Lipton Ice Tea Xoài 16(2x16x14g+BTTL)]]></tnhng>
+		<vt><![CDATA[Bộ]]></vt>
+		<nhmvthh><![CDATA[87000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[101168501]]></mhng>
+		<tnhng><![CDATA[Lipton Ice Tea Đào 16(2x16x14g+BTTL)]]></tnhng>
+		<vt><![CDATA[Bộ]]></vt>
+		<nhmvthh><![CDATA[87000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[101168502]]></mhng>
+		<tnhng><![CDATA[Lipton Nhãn Vàng Envelope 100gói]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[207000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[101168505]]></mhng>
+		<tnhng><![CDATA[Lipton Ba Tuoc 18x25x2g]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[68000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[101186590]]></mhng>
+		<tnhng><![CDATA[Lipton Nhãn Vàng Hexagon 18x30sx2g]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[57000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A100363569]]></mhng>
+		<tnhng><![CDATA[Nước tẩy quần áo Axo Hương tươi mát 400Ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[27000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A100363570]]></mhng>
+		<tnhng><![CDATA[Nước tẩy quần áo Axo Hương hoa Hương hoa hồng 400Ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[27000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A100363571]]></mhng>
+		<tnhng><![CDATA[Nước tẩy quần áo Axo Hương mùa xuân 400ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[27000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A100363572]]></mhng>
+		<tnhng><![CDATA[Nước tẩy quần áo Axo Hương tươi mát 800Ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[50000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A100363573]]></mhng>
+		<tnhng><![CDATA[Nước tẩy quần áo Axo Hương hoa hồng 800ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[50000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A100363574]]></mhng>
+		<tnhng><![CDATA[Nước tẩy quần áo Axo Hương mùa xuân 800Ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[50000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A100508716]]></mhng>
+		<tnhng><![CDATA[Nước tẩy quần áo Axo Hương Lavender 400Ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[27000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A100508717]]></mhng>
+		<tnhng><![CDATA[Nước tẩy quần áo Axo Hương Lavender 800Ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[50000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A100508718]]></mhng>
+		<tnhng><![CDATA[Nước tẩy quần áo AXO Trắng Thanh Khiết 800ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[54000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[A100569931]]></mhng>
+		<tnhng><![CDATA[Nước tẩy quần áo Axo Hương hoa hồng 1.8L]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[103000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[B101034016]]></mhng>
+		<tnhng><![CDATA[Bao cao su One True Fit 3pcs-Xanh lá]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[36000]]></nhmvthh>
+		<ngicnh><![CDATA[DKSH]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[B101034017]]></mhng>
+		<tnhng><![CDATA[Bao cao su One Super Sensitive 3pcs-Xanh dương]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[52000]]></nhmvthh>
+		<ngicnh><![CDATA[DKSH]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[B101034019]]></mhng>
+		<tnhng><![CDATA[Bao cao su One Super Studs 3pcs-Cam]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[58000]]></nhmvthh>
+		<ngicnh><![CDATA[DKSH]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[B101034060]]></mhng>
+		<tnhng><![CDATA[Bao cao su One Mixed Pleasure 3pcs-Tím]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[60000]]></nhmvthh>
+		<ngicnh><![CDATA[DKSH]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Tiện ích và sức khỏe]]></tnkho>
+		<mhng><![CDATA[D100794127]]></mhng>
+		<tnhng><![CDATA[Devondale Sữa bột 1Kg x 8 gói ]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[279000]]></nhmvthh>
+		<ngicnh><![CDATA[Devondale]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Tiện ích và sức khỏe]]></tnkho>
+		<mhng><![CDATA[D100965027]]></mhng>
+		<tnhng><![CDATA[Devondale FullCream Xanh 6x200ml]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[318000]]></nhmvthh>
+		<ngicnh><![CDATA[Devondale]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Tiện ích và sức khỏe]]></tnkho>
+		<mhng><![CDATA[D100965028]]></mhng>
+		<tnhng><![CDATA[Devondale FullCream Xanh 1Lx10]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[460000]]></nhmvthh>
+		<ngicnh><![CDATA[Devondale]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Tiện ích và sức khỏe]]></tnkho>
+		<mhng><![CDATA[D100965029]]></mhng>
+		<tnhng><![CDATA[Devondale Fullcream 2L x 6 hộp]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[81000]]></nhmvthh>
+		<ngicnh><![CDATA[Devondale]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Tiện ích và sức khỏe]]></tnkho>
+		<mhng><![CDATA[D100965030]]></mhng>
+		<tnhng><![CDATA[Devondale Fullcream Dâu 6x200ml]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[347000]]></nhmvthh>
+		<ngicnh><![CDATA[Devondale]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100363575]]></mhng>
+		<tnhng><![CDATA[Green Cross RT Táo 100ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[26000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100363576]]></mhng>
+		<tnhng><![CDATA[Green Cross RT Tự nhiên 100ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[26000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100363577]]></mhng>
+		<tnhng><![CDATA[Green Cross RT Trà Xanh 100ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[26000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100363578]]></mhng>
+		<tnhng><![CDATA[Green Cross RT Dứa Táo 250ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[44000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100363579]]></mhng>
+		<tnhng><![CDATA[Green Cross RT Tự Nhiên 250ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[44000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100363580]]></mhng>
+		<tnhng><![CDATA[Green Cross RT Trà Xanh 250ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[44000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100395687]]></mhng>
+		<tnhng><![CDATA[Green Cross Xịt Dứa Táo 70ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[32000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100395688]]></mhng>
+		<tnhng><![CDATA[Green Cross Xịt Tự nhiên 70ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[32000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100395689]]></mhng>
+		<tnhng><![CDATA[Green Cross Xịt Trà Xanh 70ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[32000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100395700]]></mhng>
+		<tnhng><![CDATA[Green Cross GEL Dứa Táo 100ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[39000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100395701]]></mhng>
+		<tnhng><![CDATA[Green Cross GEL Tự nhiên 100ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[39000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100395702]]></mhng>
+		<tnhng><![CDATA[Green Cross GEL Trà xanh 100ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[39000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100472642]]></mhng>
+		<tnhng><![CDATA[Green Cross Xịt A2 Xanh Fresh 500ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[64000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100533313]]></mhng>
+		<tnhng><![CDATA[Green Cross Xịt A2 Cam Summer 500ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[64000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100760039]]></mhng>
+		<tnhng><![CDATA[Gatsby Kem Dưỡng Tóc 125g]]></tnhng>
+		<vt><![CDATA[Hũ]]></vt>
+		<nhmvthh><![CDATA[27000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100760110]]></mhng>
+		<tnhng><![CDATA[Gatsby Gel Mềm Tím 170g]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[39000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100885874]]></mhng>
+		<tnhng><![CDATA[Gatsby Khăn ướt BODY ICE CITRUS 30 tờ]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[102000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100908621i]]></mhng>
+		<tnhng><![CDATA[Gatsby Gel Tối Ưu Đen 170G]]></tnhng>
+		<vt><![CDATA[Tuyp]]></vt>
+		<nhmvthh><![CDATA[39000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100922273]]></mhng>
+		<tnhng><![CDATA[Gatsby Pomade Classy Dry Xám 75G]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[71000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100922274i]]></mhng>
+		<tnhng><![CDATA[Gatsby Pomade Perfect Raise Đen 75G]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[71000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100922275]]></mhng>
+		<tnhng><![CDATA[Gatsby Pomade Retro Xám 75G]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[71000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100938396]]></mhng>
+		<tnhng><![CDATA[Gatsby Gel Cứng Xanh 170G]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[39000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G100938397]]></mhng>
+		<tnhng><![CDATA[Gatsby Gel Siêu cứng Vàng 170G]]></tnhng>
+		<vt><![CDATA[Tuyp]]></vt>
+		<nhmvthh><![CDATA[39000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G101006032]]></mhng>
+		<tnhng><![CDATA[Gatsby Wax H&F Xanh 75G]]></tnhng>
+		<vt><![CDATA[Hũ]]></vt>
+		<nhmvthh><![CDATA[62000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G101006033]]></mhng>
+		<tnhng><![CDATA[Gatsby Wax M&H Đen 75G]]></tnhng>
+		<vt><![CDATA[Hũ]]></vt>
+		<nhmvthh><![CDATA[62000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G101006034]]></mhng>
+		<tnhng><![CDATA[Gatsby Wax P&S Đỏ 75G]]></tnhng>
+		<vt><![CDATA[Hũ]]></vt>
+		<nhmvthh><![CDATA[62000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G101006035]]></mhng>
+		<tnhng><![CDATA[Gatsby Wax 25g]]></tnhng>
+		<vt><![CDATA[Hũ]]></vt>
+		<nhmvthh><![CDATA[31000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G101006037]]></mhng>
+		<tnhng><![CDATA[Gatsby Keo xịt Siêu Cứng 250ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[92000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G101109117]]></mhng>
+		<tnhng><![CDATA[Gatsby SRM Strong Clear Foam 130g]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[63000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[G101109119]]></mhng>
+		<tnhng><![CDATA[Gatsby SRM Perfect Scrub 130g]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[63000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[I100925797]]></mhng>
+		<tnhng><![CDATA[St.Ives sữa tắm Yến mạch & Bơ 473ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[131000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[I100925798]]></mhng>
+		<tnhng><![CDATA[St.Ives sữa tắm Hương mơ 473ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[131000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[I100925799]]></mhng>
+		<tnhng><![CDATA[St.Ives sữa tắm Muối Biển 473ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[131000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[I100925800]]></mhng>
+		<tnhng><![CDATA[St.Ives sữa tắm Cam Chanh 473ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[131000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[I100925802]]></mhng>
+		<tnhng><![CDATA[St.Ives sữa tắm Yến mạch&Bơ 650ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[160000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[I100925803]]></mhng>
+		<tnhng><![CDATA[St.Ives sữa tắm Muối biển 650ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[160000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[I100925804]]></mhng>
+		<tnhng><![CDATA[St.Ives sữa tắm Cam Chanh 650ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[160000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[I100925805]]></mhng>
+		<tnhng><![CDATA[St.Ives sữa tắm Hoa hồng&Lô Hội 650ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[160000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[I100925808]]></mhng>
+		<tnhng><![CDATA[St.Ives sữa dưỡng thể Vitamin E và Bơ 621ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[160000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[I100925809]]></mhng>
+		<tnhng><![CDATA[St.Ives sữa dưỡng thể Lúa Mạch và Bơ 621ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[160000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[I100925810]]></mhng>
+		<tnhng><![CDATA[St.Ives sữa dưỡng thể Trẻ hóa Collagen 621ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[160000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[I100996278]]></mhng>
+		<tnhng><![CDATA[St.Ives sữa sữa mặt Trà xanh 170G]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[113000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[I100996279]]></mhng>
+		<tnhng><![CDATA[St.Ives sữa sữa mặt Chiết xuất mơ 170g]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[113000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[I100996411]]></mhng>
+		<tnhng><![CDATA[St.Ives sữa sữa mặt Hương mơ 170g]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[113000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[I100996413]]></mhng>
+		<tnhng><![CDATA[St.Ives sữa sữa mặt Café 170G]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[113000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[I101059009]]></mhng>
+		<tnhng><![CDATA[St.Ives sữa sữa mặt Bơ&Mật Ong 170G]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[113000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[I101078938]]></mhng>
+		<tnhng><![CDATA[St.Ives Gel RM Blemish Care Tram Tra 200ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[167000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[I101117363]]></mhng>
+		<tnhng><![CDATA[St.Ives sữa sữa mặt Hoa Hồng&Lô Hội 170G]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[113000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[I101123825]]></mhng>
+		<tnhng><![CDATA[St.Ives Dưỡng Da 30ml]]></tnhng>
+		<vt><![CDATA[Tuýp]]></vt>
+		<nhmvthh><![CDATA[87000]]></nhmvthh>
+		<ngicnh><![CDATA[Gatsby]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[J100792482]]></mhng>
+		<tnhng><![CDATA[JUMBO Chất xông muỗi]]></tnhng>
+		<vt><![CDATA[Cái]]></vt>
+		<nhmvthh><![CDATA[31000]]></nhmvthh>
+		<ngicnh><![CDATA[Jumbo]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[J100792483]]></mhng>
+		<tnhng><![CDATA[JUMBO Bộ xông đuổi muỗi]]></tnhng>
+		<vt><![CDATA[Bộ]]></vt>
+		<nhmvthh><![CDATA[56000]]></nhmvthh>
+		<ngicnh><![CDATA[Jumbo]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[J100792484]]></mhng>
+		<tnhng><![CDATA[Jumbo Chất xông đôi]]></tnhng>
+		<vt><![CDATA[Bộ]]></vt>
+		<nhmvthh><![CDATA[55000]]></nhmvthh>
+		<ngicnh><![CDATA[Jumbo]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[J101015517]]></mhng>
+		<tnhng><![CDATA[Kaori Xịt Phòng Cam 280ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[41000]]></nhmvthh>
+		<ngicnh><![CDATA[Kaori]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[J101015518]]></mhng>
+		<tnhng><![CDATA[Kaori Xịt Phòng Hoa Hồng 280ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[41000]]></nhmvthh>
+		<ngicnh><![CDATA[Kaori]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[J101015519]]></mhng>
+		<tnhng><![CDATA[Kaori Xịt Phòng Hương Biển 280ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[41000]]></nhmvthh>
+		<ngicnh><![CDATA[Kaori]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[J101015615]]></mhng>
+		<tnhng><![CDATA[Nhang M22 Lavender]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[9000]]></nhmvthh>
+		<ngicnh><![CDATA[Kaori]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[K100743266]]></mhng>
+		<tnhng><![CDATA[Milo Chocobar 30g]]></tnhng>
+		<vt><![CDATA[Thanh]]></vt>
+		<nhmvthh><![CDATA[12000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[K100753907]]></mhng>
+		<tnhng><![CDATA[Kitkat Trà Xanh 8 thanh 2F 17gx8]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[76000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[K100753908]]></mhng>
+		<tnhng><![CDATA[KitKat Thanh 2F Trà xanh 17g]]></tnhng>
+		<vt><![CDATA[Thanh]]></vt>
+		<nhmvthh><![CDATA[11000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[K100793955]]></mhng>
+		<tnhng><![CDATA[KitKat 6 thanh 2F B/F (6X17G) Cocoa]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[39000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[K100793956]]></mhng>
+		<tnhng><![CDATA[KitKat Thanh 4F B/F 35G Cocoa]]></tnhng>
+		<vt><![CDATA[Thanh]]></vt>
+		<nhmvthh><![CDATA[15000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[K100793959]]></mhng>
+		<tnhng><![CDATA[Kitkat Gói 12 thanh 2F 12X17g Cocoa]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[75000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[K100793960]]></mhng>
+		<tnhng><![CDATA[KitKat Cocoa Bites 40g]]></tnhng>
+		<vt><![CDATA[Thanh]]></vt>
+		<nhmvthh><![CDATA[23000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[K100793966]]></mhng>
+		<tnhng><![CDATA[KitKat Thanh 4F Trà xanh 35G]]></tnhng>
+		<vt><![CDATA[Thanh]]></vt>
+		<nhmvthh><![CDATA[20000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[K100793993]]></mhng>
+		<tnhng><![CDATA[Kitkat Chunky 38g-Cocoa]]></tnhng>
+		<vt><![CDATA[Thanh]]></vt>
+		<nhmvthh><![CDATA[17000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[K100793994]]></mhng>
+		<tnhng><![CDATA[KitKat Gói 3 thanh Chunky 3x38G]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[48000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[K100864457]]></mhng>
+		<tnhng><![CDATA[KitKat Thanh Chunky Bánh Quy 38g]]></tnhng>
+		<vt><![CDATA[Thanh]]></vt>
+		<nhmvthh><![CDATA[18000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[K100998855]]></mhng>
+		<tnhng><![CDATA[KitKat Thanh 2F BF 17g Cocoa]]></tnhng>
+		<vt><![CDATA[Thanh]]></vt>
+		<nhmvthh><![CDATA[7000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[K100998856]]></mhng>
+		<tnhng><![CDATA[Milo Viên Nuggets 25g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[15000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[K101060029]]></mhng>
+		<tnhng><![CDATA[Kitkat Chunky Pack 3_114g_]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[52000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[K101084637]]></mhng>
+		<tnhng><![CDATA[Kitkat Pack 6 thanh_102g ]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[40000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[K101084638]]></mhng>
+		<tnhng><![CDATA[KitKat goi SB 12 204g ]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[82000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[K101084639]]></mhng>
+		<tnhng><![CDATA[Kitkat Tra xanh SB 8_136g_]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[82000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[K101084662]]></mhng>
+		<tnhng><![CDATA[Kitkat JP Dâu 11 thanh_]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[95000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[K101084663]]></mhng>
+		<tnhng><![CDATA[Nestle Bánh quy Socola 4x31g]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[25000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[K101084664]]></mhng>
+		<tnhng><![CDATA[Nestle Bánh quy 372g_]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[92000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[K101185188]]></mhng>
+		<tnhng><![CDATA[Kitkat Gold SB_136g_]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[84000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[L100857684]]></mhng>
+		<tnhng><![CDATA[Lactacyd Milky TG Trẻ em 500ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[162000]]></nhmvthh>
+		<ngicnh><![CDATA[Lactacyd]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[L100864736]]></mhng>
+		<tnhng><![CDATA[Lactacyd Odor Fresh 150ML]]></tnhng>
+		<vt><![CDATA[Hộp]]></vt>
+		<nhmvthh><![CDATA[49000]]></nhmvthh>
+		<ngicnh><![CDATA[Lactacyd]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[L100942174]]></mhng>
+		<tnhng><![CDATA[Lactacyd DDVS Soft&Silky 150ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[56000]]></nhmvthh>
+		<ngicnh><![CDATA[Lactacyd]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[L100942175]]></mhng>
+		<tnhng><![CDATA[Lactacyd DDVS Soft&Silky 250ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[83000]]></nhmvthh>
+		<ngicnh><![CDATA[Lactacyd]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[L101001848i]]></mhng>
+		<tnhng><![CDATA[Lactacyd Milky Trẻ em 250ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[95000]]></nhmvthh>
+		<ngicnh><![CDATA[Lactacyd]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[L101044511]]></mhng>
+		<tnhng><![CDATA[Lactacyd ST Trẻ Em BB 250ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[95000]]></nhmvthh>
+		<ngicnh><![CDATA[Lactacyd]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[L101081958]]></mhng>
+		<tnhng><![CDATA[Lactacyd BB 500ml 150ml]]></tnhng>
+		<vt><![CDATA[Bộ]]></vt>
+		<nhmvthh><![CDATA[180000]]></nhmvthh>
+		<ngicnh><![CDATA[Lactacyd]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[L101081959]]></mhng>
+		<tnhng><![CDATA[Lactacyd Milky 500ml 150ml]]></tnhng>
+		<vt><![CDATA[Bộ]]></vt>
+		<nhmvthh><![CDATA[180000]]></nhmvthh>
+		<ngicnh><![CDATA[Lactacyd]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[L101099107]]></mhng>
+		<tnhng><![CDATA[Lactacyd DDVS Odor Fresh 250ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[72000]]></nhmvthh>
+		<ngicnh><![CDATA[Lactacyd]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[L101099110]]></mhng>
+		<tnhng><![CDATA[Lactacyd DDVS Pro Sensitive 150ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[56000]]></nhmvthh>
+		<ngicnh><![CDATA[Lactacyd]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[L101099111]]></mhng>
+		<tnhng><![CDATA[Lactacyd DDVS Pro Sensitive 250ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[83000]]></nhmvthh>
+		<ngicnh><![CDATA[Lactacyd]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[L101113917]]></mhng>
+		<tnhng><![CDATA[Lactacyd Pearly Intimate 150ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[63000]]></nhmvthh>
+		<ngicnh><![CDATA[Lactacyd]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[L101159847]]></mhng>
+		<tnhng><![CDATA[Lactacyd BB 500ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[162000]]></nhmvthh>
+		<ngicnh><![CDATA[Lactacyd]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100745900]]></mhng>
+		<tnhng><![CDATA[Thức ăn Chó con-Vị Bò Trứng sốt 80g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[51000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100746012]]></mhng>
+		<tnhng><![CDATA[Thức ăn Chó-Vị thit Bò & Rau củ 1.5 kg]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[118000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100746014]]></mhng>
+		<tnhng><![CDATA[Thức ăn Mèo -Cá biển 20kg]]></tnhng>
+		<vt><![CDATA[Bao]]></vt>
+		<nhmvthh><![CDATA[1680000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100746015]]></mhng>
+		<tnhng><![CDATA[Thức ăn Chó-Vị Gà & Rau củ 1.5 kg]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[118000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100746025]]></mhng>
+		<tnhng><![CDATA[Thức ăn Chó con-Vị Gà Sốt 130g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[18000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100746026]]></mhng>
+		<tnhng><![CDATA[Thức ăn Chó-Vị Gà Sốt 130g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[18000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100746027]]></mhng>
+		<tnhng><![CDATA[Thức ăn Mèo Con- Vị Cá biển &Sữa 1.1kg]]></tnhng>
+		<vt><![CDATA[Túi]]></vt>
+		<nhmvthh><![CDATA[129000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100746028i]]></mhng>
+		<tnhng><![CDATA[Thức ăn Mèo -Vị cá thu 1.2 kg]]></tnhng>
+		<vt><![CDATA[Túi]]></vt>
+		<nhmvthh><![CDATA[129000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100746029]]></mhng>
+		<tnhng><![CDATA[Thức ăn Mèo -Vị Cá biển  480g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[60000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100746030]]></mhng>
+		<tnhng><![CDATA[Thức ăn Mèo -Vị Cá biển 7kg]]></tnhng>
+		<vt><![CDATA[Bao]]></vt>
+		<nhmvthh><![CDATA[701000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100746031]]></mhng>
+		<tnhng><![CDATA[Thức ăn Mèo Vị cá Ngừ  1.2 kg]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[129000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100746032]]></mhng>
+		<tnhng><![CDATA[Thức ăn Mèo Vị Cá biển  1.2 kg]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[129000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100746033]]></mhng>
+		<tnhng><![CDATA[Thức ăn Mèo -Vị cá Ngừ  480g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[60000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100746034]]></mhng>
+		<tnhng><![CDATA[Thức Ăn Mèo Vị cá BIS gói 400g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[39000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100746035]]></mhng>
+		<tnhng><![CDATA[Thức ăn mèo Vị cá biển 400g]]></tnhng>
+		<vt><![CDATA[Lon]]></vt>
+		<nhmvthh><![CDATA[43000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100746114]]></mhng>
+		<tnhng><![CDATA[Cátsan - Cát vệ sinh Chó mèo]]></tnhng>
+		<vt><![CDATA[Túi]]></vt>
+		<nhmvthh><![CDATA[114000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100746115]]></mhng>
+		<tnhng><![CDATA[Cátsan - Cát vệ sinh Chó mèo 9L]]></tnhng>
+		<vt><![CDATA[Túi]]></vt>
+		<nhmvthh><![CDATA[205000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100750182]]></mhng>
+		<tnhng><![CDATA[Thức ăn Chó Vị Bò &rau cu  500g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[44000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100808286]]></mhng>
+		<tnhng><![CDATA[Thức ăn Mèo Con- Vị Cá biển &Sữa 450g]]></tnhng>
+		<vt><![CDATA[Túi]]></vt>
+		<nhmvthh><![CDATA[62000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100839923]]></mhng>
+		<tnhng><![CDATA[Thức ăn Mèo -Vị Cá biển  3kg]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[320000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100864325]]></mhng>
+		<tnhng><![CDATA[Thức ăn Mèo -Vị cá thu BIS gói 400g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[39000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100886065]]></mhng>
+		<tnhng><![CDATA[Thức ăn vat Chó - Bò xong khoi 80g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[38000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100886066]]></mhng>
+		<tnhng><![CDATA[Thức ăn vat Chó - Gà n nướng 80g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[38000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100886067]]></mhng>
+		<tnhng><![CDATA[Thức ăn vat Chó - Bò xong khoi que 60g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[38000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100886068]]></mhng>
+		<tnhng><![CDATA[Thức ăn vat Chó heo muoi que 60g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[38000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100886069]]></mhng>
+		<tnhng><![CDATA[Bánh xương Chó trung 98g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[40000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100886124]]></mhng>
+		<tnhng><![CDATA[Bánh xương Chó nho 56g (new)]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[38000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100886125]]></mhng>
+		<tnhng><![CDATA[Bánh xương Chó con 75g (new)]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[38000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100886126]]></mhng>
+		<tnhng><![CDATA[Sốt Temptation cá Ngừ 85g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[55000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100886226]]></mhng>
+		<tnhng><![CDATA[Sốt Temptation 48g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[38000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100899226]]></mhng>
+		<tnhng><![CDATA[Bánh xương cham soc rang Chó kieng 60g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[38000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100899230]]></mhng>
+		<tnhng><![CDATA[Thức ăn Chó gion 60g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[40000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100944496]]></mhng>
+		<tnhng><![CDATA[Sốt Chó Lon Bò ham Rau Cu 130G]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[18000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100944497]]></mhng>
+		<tnhng><![CDATA[Sốt Chó lon - Vị Gà nướng & rau 130g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[18000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100944498]]></mhng>
+		<tnhng><![CDATA[Sốt Chó con - Vị Gà trứng & rau 80g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[13000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100944499]]></mhng>
+		<tnhng><![CDATA[Sốt Chó lon - Vị Gà , Gà n nướng & rau 80g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[13000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100944840]]></mhng>
+		<tnhng><![CDATA[Sốt Chó lon - Vị Bò nướng & rau 80g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[13000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100954694]]></mhng>
+		<tnhng><![CDATA[Thức ăn Mèo -Vị thu&cá hoi  85g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[13000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100955623]]></mhng>
+		<tnhng><![CDATA[Thức ăn Mèo -Vị cá Ngừ dang  85g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[13000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100955624]]></mhng>
+		<tnhng><![CDATA[Thức ăn Mèo -Vị thu  85g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[13000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100955625]]></mhng>
+		<tnhng><![CDATA[Thức ăn Mèo -Vị Cá biển dang  85g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[13000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M100955627]]></mhng>
+		<tnhng><![CDATA[Thức ăn Mèo con-Vị cá Ngừ  85g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[13000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M101073468]]></mhng>
+		<tnhng><![CDATA[Thức ăn Chó con-Vị Gà & trung&Sữa 400g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[51000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M101080792]]></mhng>
+		<tnhng><![CDATA[Thức ăn Mèo con-Vị cá thu  85g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[13000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M101101178]]></mhng>
+		<tnhng><![CDATA[Thức ăn mèo Vị cá ngừ lon 400g]]></tnhng>
+		<vt><![CDATA[Lon]]></vt>
+		<nhmvthh><![CDATA[43000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M101144900]]></mhng>
+		<tnhng><![CDATA[Thức ăn Mèo Con- cá thu 450g]]></tnhng>
+		<vt><![CDATA[Túi]]></vt>
+		<nhmvthh><![CDATA[62000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M101144901]]></mhng>
+		<tnhng><![CDATA[Thức ăn Mèo Con- cá thu 1.1kg]]></tnhng>
+		<vt><![CDATA[Túi]]></vt>
+		<nhmvthh><![CDATA[129000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M101144903]]></mhng>
+		<tnhng><![CDATA[Thức ăn mèo Vị Gà&cá ngừ 85g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[13000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Khu vực thú cưng]]></tnkho>
+		<mhng><![CDATA[M101886066]]></mhng>
+		<tnhng><![CDATA[Thức ăn vat Chó - Gà xong khoi 80g]]></tnhng>
+		<vt><![CDATA[Gói]]></vt>
+		<nhmvthh><![CDATA[38000]]></nhmvthh>
+		<ngicnh><![CDATA[Mars]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[P100760121]]></mhng>
+		<tnhng><![CDATA[Pucelle nước hoa Jolly Tím 75ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[28000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[P100760122]]></mhng>
+		<tnhng><![CDATA[Pucelle nước hoa Spacking Hồng 75ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[28000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[P100760124]]></mhng>
+		<tnhng><![CDATA[Pucelle nước hoa WO Xanước hoa dương 75ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[28000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[P100760127]]></mhng>
+		<tnhng><![CDATA[Pucelle nước hoa Thu Ran 100ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[41000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[P100760128]]></mhng>
+		<tnhng><![CDATA[Pucelle nước hoa Xuân Sakura 100ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[41000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[P100760129]]></mhng>
+		<tnhng><![CDATA[Pucelle nước hoa 150ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[48000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[P100760131]]></mhng>
+		<tnhng><![CDATA[Lovillea nước hoa 100ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[26000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[P100760135]]></mhng>
+		<tnhng><![CDATA[Pucelle Blooming Blossom 75ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[28000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[P100945508]]></mhng>
+		<tnhng><![CDATA[Pucelle nước hoa Perfect Getaway Cam 75ml]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[28000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[S100849031]]></mhng>
+		<tnhng><![CDATA[bio-essence Nước Tẩy Trang Micellar Water 200ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[167000]]></nhmvthh>
+		<ngicnh><![CDATA[BIOESSENCE]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[U100810932]]></mhng>
+		<tnhng><![CDATA[Xà bông cục CAMAY Classic Hồng 125G]]></tnhng>
+		<vt><![CDATA[Cục]]></vt>
+		<nhmvthh><![CDATA[14000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[U100810933]]></mhng>
+		<tnhng><![CDATA[Xà bông cục CAMAY Chic Đen 125G]]></tnhng>
+		<vt><![CDATA[Cục]]></vt>
+		<nhmvthh><![CDATA[14000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[U100810934]]></mhng>
+		<tnhng><![CDATA[Xà bông cục CAMAY Naturel Trắng 125G]]></tnhng>
+		<vt><![CDATA[Cục]]></vt>
+		<nhmvthh><![CDATA[14000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[U100931314]]></mhng>
+		<tnhng><![CDATA[Monsavon sữa tắm Sữa&Vani 1L]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[177000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[U101097698]]></mhng>
+		<tnhng><![CDATA[Xà bông cục Lux Xanh Aqua 80G ]]></tnhng>
+		<vt><![CDATA[Cục]]></vt>
+		<nhmvthh><![CDATA[10000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[U101097699]]></mhng>
+		<tnhng><![CDATA[Xà bông cục Lux Hồng Soft 80G ]]></tnhng>
+		<vt><![CDATA[Cục]]></vt>
+		<nhmvthh><![CDATA[10000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[U101097750]]></mhng>
+		<tnhng><![CDATA[Xà bông cục Lux Tím Magical 80G ]]></tnhng>
+		<vt><![CDATA[Cục]]></vt>
+		<nhmvthh><![CDATA[10000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[U101097751]]></mhng>
+		<tnhng><![CDATA[Xà bông cục Lux Trang Velvet 80G ]]></tnhng>
+		<vt><![CDATA[Cục]]></vt>
+		<nhmvthh><![CDATA[10000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[U101117234]]></mhng>
+		<tnhng><![CDATA[GEL TAM H. HOA HONG CAMAY PARIS 500ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[102000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[U101117235]]></mhng>
+		<tnhng><![CDATA[GEL TAM H. OAI HUONG CAMAY PARIS 500ML]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[102000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[U101117236]]></mhng>
+		<tnhng><![CDATA[GEL TAM CAMAY 500ML+Xà bông cục]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[89000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[U101117237]]></mhng>
+		<tnhng><![CDATA[Dầu gội Lux 450g]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[156000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[V100873909]]></mhng>
+		<tnhng><![CDATA[Vaseline Dưỡng Môi Hồng xinh 7G]]></tnhng>
+		<vt><![CDATA[Hũ]]></vt>
+		<nhmvthh><![CDATA[73000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[V100873910]]></mhng>
+		<tnhng><![CDATA[Vaseline Dưỡng Môi Mềm mịn 7G]]></tnhng>
+		<vt><![CDATA[Hũ]]></vt>
+		<nhmvthh><![CDATA[73000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[V100873911]]></mhng>
+		<tnhng><![CDATA[Vaseline Dưỡng Môi Ngọt ngào 7G]]></tnhng>
+		<vt><![CDATA[Hũ]]></vt>
+		<nhmvthh><![CDATA[73000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[V100891414]]></mhng>
+		<tnhng><![CDATA[Vaseline Sáp dưỡng ẩm 50ml]]></tnhng>
+		<vt><![CDATA[Hũ]]></vt>
+		<nhmvthh><![CDATA[50000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[V100891415]]></mhng>
+		<tnhng><![CDATA[Vaseline Sap Duong Am 100ml]]></tnhng>
+		<vt><![CDATA[Hũ]]></vt>
+		<nhmvthh><![CDATA[83000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[V100932526]]></mhng>
+		<tnhng><![CDATA[Vaseline Dưỡng Môi Mềm Mịn 4.8g]]></tnhng>
+		<vt><![CDATA[Cây]]></vt>
+		<nhmvthh><![CDATA[57000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[V100932527]]></mhng>
+		<tnhng><![CDATA[Vaseline Dưỡng môi hồng xinh 4.8g]]></tnhng>
+		<vt><![CDATA[Cây]]></vt>
+		<nhmvthh><![CDATA[57000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[V100932528]]></mhng>
+		<tnhng><![CDATA[Vaseline Dưỡng môi Lô hội 4.8g]]></tnhng>
+		<vt><![CDATA[Cây]]></vt>
+		<nhmvthh><![CDATA[57000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[V100932529]]></mhng>
+		<tnhng><![CDATA[Vaseline Dưỡng môi Cacao 4.8g]]></tnhng>
+		<vt><![CDATA[Cây]]></vt>
+		<nhmvthh><![CDATA[57000]]></nhmvthh>
+		<ngicnh><![CDATA[Uniliver]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc cá nhân]]></tnkho>
+		<mhng><![CDATA[Y101072549]]></mhng>
+		<tnhng><![CDATA[Cốt gà BRAND'S 42ml 6x12x72]]></tnhng>
+		<vt><![CDATA[Lốc 6]]></vt>
+		<nhmvthh><![CDATA[162000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Tiện ích và sức khỏe]]></tnkho>
+		<mhng><![CDATA[Y101072563]]></mhng>
+		<tnhng><![CDATA[Nước yến BRAND'S có đường 42ml 6x8x48]]></tnhng>
+		<vt><![CDATA[Lốc 6]]></vt>
+		<nhmvthh><![CDATA[493000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Tiện ích và sức khỏe]]></tnkho>
+		<mhng><![CDATA[Y101072565]]></mhng>
+		<tnhng><![CDATA[Nước yến BRAND'S có đường 70ml 6x8x48]]></tnhng>
+		<vt><![CDATA[Lốc 6]]></vt>
+		<nhmvthh><![CDATA[750000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Tiện ích và sức khỏe]]></tnkho>
+		<mhng><![CDATA[Y101072567]]></mhng>
+		<tnhng><![CDATA[Nước yến BRAND'S k đường 42ml]]></tnhng>
+		<vt><![CDATA[Lốc 6]]></vt>
+		<nhmvthh><![CDATA[493000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Tiện ích và sức khỏe]]></tnkho>
+		<mhng><![CDATA[Y101072569]]></mhng>
+		<tnhng><![CDATA[Nước yến BRAND'S k đường 70ml]]></tnhng>
+		<vt><![CDATA[Lốc 6]]></vt>
+		<nhmvthh><![CDATA[750000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Tiện ích và sức khỏe]]></tnkho>
+		<mhng><![CDATA[Y101106269]]></mhng>
+		<tnhng><![CDATA[Bộ 2 Nước cốt gà BRAND'S 42mlx6]]></tnhng>
+		<vt><![CDATA[Bộ]]></vt>
+		<nhmvthh><![CDATA[178000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Tiện ích và sức khỏe]]></tnkho>
+		<mhng><![CDATA[Y101106340]]></mhng>
+		<tnhng><![CDATA[Bộ 2 nước cốt gà BRAND'S 70mlx6]]></tnhng>
+		<vt><![CDATA[Bộ]]></vt>
+		<nhmvthh><![CDATA[271000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Tiện ích và sức khỏe]]></tnkho>
+		<mhng><![CDATA[Y101106342]]></mhng>
+		<tnhng><![CDATA[Nuoc cot ga Brand's Choco 70ml]]></tnhng>
+		<vt><![CDATA[Lốc 6]]></vt>
+		<nhmvthh><![CDATA[238000]]></nhmvthh>
+		<ngicnh><![CDATA[Nestle]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[Z100363564]]></mhng>
+		<tnhng><![CDATA[Zonrox Tẩy Xanh lá-Chanh 1L]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[17000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[Z100363565]]></mhng>
+		<tnhng><![CDATA[Zonrox Tẩy Hồng-Hoa cỏ 1L]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[17000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Chăm sóc gia đình]]></tnkho>
+		<mhng><![CDATA[Z100363566]]></mhng>
+		<tnhng><![CDATA[Zonrox Tẩy Xanh Dương-Thiên nhiên 1L]]></tnhng>
+		<vt><![CDATA[Chai]]></vt>
+		<nhmvthh><![CDATA[17000]]></nhmvthh>
+		<ngicnh><![CDATA[Green Cross]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[N15001]]></mhng>
+		<tnhng><![CDATA[Nước Satori chai 1.5l (12c/thùng)]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[123000]]></nhmvthh>
+		<ngicnh><![CDATA[SATORI]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[N3501]]></mhng>
+		<tnhng><![CDATA[Nước  Satori chai 350ml (24c/thùng)]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[110000]]></nhmvthh>
+		<ngicnh><![CDATA[SATORI]]></ngicnh>
+	</node>
+	<node>
+		<tnkho><![CDATA[Thực phẩm và Bánh Trái]]></tnkho>
+		<mhng><![CDATA[N5001]]></mhng>
+		<tnhng><![CDATA[Nước Satori chai 500ml (24c/thùng)]]></tnhng>
+		<vt><![CDATA[Thùng]]></vt>
+		<nhmvthh><![CDATA[123000]]></nhmvthh>
+		<ngicnh><![CDATA[SATORI]]></ngicnh>
+	</node>
+</data>

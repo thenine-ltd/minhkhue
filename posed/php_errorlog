@@ -1,0 +1,40 @@
+[20-Nov-2023 07:16:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_option() on null in /home/customer/www/minhkhue.vn/public_html/pos/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/minhkhue.vn/public_html/pos/index.php on line 48
+[20-Nov-2023 07:16:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_option() on null in /home/customer/www/minhkhue.vn/public_html/pos/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/minhkhue.vn/public_html/pos/index.php on line 48
+[20-Nov-2023 07:16:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_option() on null in /home/customer/www/minhkhue.vn/public_html/pos/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/minhkhue.vn/public_html/pos/index.php on line 48
+[20-Nov-2023 07:17:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_option() on null in /home/customer/www/minhkhue.vn/public_html/pos/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/minhkhue.vn/public_html/pos/index.php on line 48
+[20-Nov-2023 07:17:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_option() on null in /home/customer/www/minhkhue.vn/public_html/pos/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/minhkhue.vn/public_html/pos/index.php on line 48
+[20-Nov-2023 07:18:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_option() on null in /home/customer/www/minhkhue.vn/public_html/pos/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/minhkhue.vn/public_html/pos/index.php on line 48
+[20-Nov-2023 07:18:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_option() on null in /home/customer/www/minhkhue.vn/public_html/pos/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/minhkhue.vn/public_html/pos/index.php on line 48
+[20-Nov-2023 07:18:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_option() on null in /home/customer/www/minhkhue.vn/public_html/pos/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/minhkhue.vn/public_html/pos/index.php on line 48
+[20-Nov-2023 07:19:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_option() on null in /home/customer/www/minhkhue.vn/public_html/pos/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/minhkhue.vn/public_html/pos/index.php on line 48
+[20-Nov-2023 07:19:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_option() on null in /home/customer/www/minhkhue.vn/public_html/pos/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/minhkhue.vn/public_html/pos/index.php on line 48

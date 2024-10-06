@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bot for Telegram on WooCommerce PRO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-01 07:13+0000\n"
+"PO-Revision-Date: 2021-11-01 23:34+0330\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Loco-Version: 2.5.5; wp-5.8.1\n"
+"X-Domain: bot-for-telegram-on-woocommerce-pro\n"
+"Last-Translator: \n"
+"Language: fa_IR\n"
+
+#. Name of the plugin
+msgid "Bot for Telegram on WooCommerce PRO"
+msgstr "ربات فروشگاهی تلگرام بر پایه ووکامرس- پرمیوم"
+
+#. Description of the plugin
+msgid ""
+"Bot for Telegram on WooCommerce PRO is a plugin that allows you to create a "
+"telegram online store based on your website with WooCommerce."
+msgstr ""
+"نسخه پرمیوم ربات فروشگاهی تلگرام بر پایه ووکامرس افزونه ای است که به شما "
+"امکان می دهد تا یک فروشگاه آنلاین تلگرامی بر پایه فروشگاه ووکامرسی خود "
+"ایجاد نمایید."
+
+#: includes/BFTOW_PRO_Settings_Tab.php:33
+msgid "Disable checkout"
+msgstr "غیرفعال کردن تسویه حساب"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:35
+msgid ""
+"Disable checkout on the site, the order will be created automatically, and "
+"the administrator will receive a notification about it"
+msgstr ""
+"اگر تسویه حساب (پرداخت) را در سایت غیر فعال نمایید، در اینصورت سفارش بصورت "
+"خودکار ایجاد می‌گردد و مدیر اعلانی برای آن دریافت خواهد نمود."
+
+#: includes/BFTOW_PRO_Search.php:13 includes/BFTOW_PRO_Settings_Tab.php:114
+msgid "Enter a search word"
+msgstr "وارد نمودن کلمه برای جستجو"
+
+#: includes/BFTOW_PRO_Notifications.php:59
+msgid "Error, please make sure you enter the correct public channel name"
+msgstr ""
+"خطا، لطفا اطمینان حاصل کنید که نام کانال عمومی را بدرستی وارد نموده‌اید."
+
+#: includes/BFTOW_PRO_Search.php:54
+#, php-format
+msgid "Found %s posts"
+msgstr "تعداد %s یافت شد"
+
+#: includes/notices/install_free.php:4
+msgid "Free Download"
+msgstr "دانلود رایگان"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:21
+msgid "Get Private Channel ID for Notifications"
+msgstr "دریافت آی دی کانال خصوصی برای اعلانات"
+
+#. Author of the plugin
+msgid "guru-team"
+msgstr "guru-team"
+
+#. Author URI of the plugin
+msgid "https://wp-guruteam.com/"
+msgstr "https://wp-guruteam.com/"
+
+#. URI of the plugin
+msgid "https://wp-guruteam.com/woocommerce-telegram/"
+msgstr ""
+
+#: includes/BFTOW_PRO_Account.php:23
+msgid "Information updated"
+msgstr "اطلاعات بروزرسانی شدند"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:79 includes/BFTOW_PRO_Account.php:21
+msgid "Main menu"
+msgstr "منو اصلی"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:75
+msgid "Main menu button text"
+msgstr "متن دکمه منو اصلی"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:110
+msgid "Message after search button"
+msgstr "پیام بعد از دکمه جستجو"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:44
+#: includes/BFTOW_PRO_Settings_Tab.php:51 includes/BFTOW_PRO_Account.php:17
+msgid "My account"
+msgstr "حساب کاربری من"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:47
+msgid "My account button text"
+msgstr "متن حساب کاربری من"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:96
+msgid "My account message"
+msgstr "پیام حساب کاربری من"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:100 includes/BFTOW_PRO_Account.php:22
+msgid "My account:"
+msgstr "حساب کاربری من:"
+
+#: includes/orders/orders.php:19
+msgid "My Orders"
+msgstr "سفارشات من"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:58 includes/BFTOW_PRO_Account.php:18
+msgid "My orders"
+msgstr "سفارشات من"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:86 includes/orders/orders.php:18
+msgid "No orders found"
+msgstr "سفارشی یافت نشد"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:82
+msgid "No orders found message"
+msgstr "پیام سفارشی یافت نشد"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:117
+msgid "Not found message"
+msgstr "پیام یافت نشد"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:27
+msgid "Notify when user is created"
+msgstr "اعلان در هنگامی که کاربر ایجاد شد"
+
+#: includes/BFTOW_PRO_Notifications.php:34
+#, php-format
+msgid "Order #%s status changed to %s"
+msgstr "سفارش #%s تغییر وضعیت یافت به %s"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:54
+msgid "Order Button text"
+msgstr "متن دکمه سفارش"
+
+#: includes/notices/install_free.php:3
+msgid "Please install Woocommerce Telegram addon"
+msgstr "لطفا افزودنی تلگرام ووکامرس را نصب نمایید"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:15
+msgid "Pro Settings"
+msgstr "تنظیمات نسخه حرفه‌ای"
+
+#: includes/BFTOW_PRO_Search.php:14 includes/BFTOW_PRO_Settings_Tab.php:121
+msgid "Products not found"
+msgstr "محصول پیدا نشد"
+
+#: includes/BFTOW_PRO_Search.php:12 includes/BFTOW_PRO_Settings_Tab.php:107
+msgid "Search"
+msgstr "جستجو"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:103
+msgid "Search Button Text"
+msgstr "متن دکمه جستجو"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:124
+msgid "Search result button text"
+msgstr "متن دکمه نتیجه جستجو"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:39
+msgid "Select product categories to display in the bot"
+msgstr "دسته‌بندی محصول را برای نمایش در ربات انتخاب نمایید"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:72
+msgid "Send location"
+msgstr "ارسال مکان"
+
+#: includes/BFTOW_PRO_Search.php:48
+msgid "Show Results"
+msgstr "نمایش نتایج"
+
+#: includes/BFTOW_PRO_Search.php:15 includes/BFTOW_PRO_Settings_Tab.php:128
+msgid "Show results"
+msgstr "نمایش نتایج"
+
+#: includes/BFTOW_PRO_Notifications.php:66
+msgid "Success"
+msgstr "موفق"
+
+#: includes/BFTOW_PRO_Account.php:20
+msgid "Update location"
+msgstr "بروزرسانی مکان"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:68
+msgid "Update location button text"
+msgstr "متن دکمه بروزرسانی مکان"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:65 includes/BFTOW_PRO_Account.php:19
+msgid "Update phone"
+msgstr "بروزرسانی تلفن"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:61
+msgid "Update phone button text"
+msgstr "متن دکمه بروزرسانی تلفن"
+
+#: includes/orders/orders.php:20
+msgid "Your Orders"
+msgstr "سفارشات شما"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:93
+msgid "Your orders"
+msgstr "سفارشات شما"
+
+#: includes/BFTOW_PRO_Settings_Tab.php:89
+msgid "Your orders message"
+msgstr "پیام سفارشات شما"

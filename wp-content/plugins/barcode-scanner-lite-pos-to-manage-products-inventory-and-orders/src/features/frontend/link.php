@@ -1,0 +1,1 @@
+<a href="#?p=barcode-scanner-frontend" data-plugin="barcode-scanner-frontend" <?php echo $autoShow === true ? 'id="barcode-scanner-auto-show"' : ''; ?> <?php echo $showLink === "" ? 'style="display:none;"' : ''; ?>><?php echo $showLink; ?></a>

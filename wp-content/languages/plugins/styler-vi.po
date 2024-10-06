@@ -1,0 +1,5554 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Styler Elementor Addons\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-10 01:52+0000\n"
+"PO-Revision-Date: 2023-11-10 02:16+0000\n"
+"Last-Translator: \n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.1\n"
+"X-Domain: styler"
+
+#. 1: Plugin name 2: Elementor
+#: styler-elementor-addons.php:330
+#, php-format
+msgid "%1$s requires %2$s to be installed and activated."
+msgstr ""
+
+#. 1: Plugin name 2: Elementor 3: Required Elementor version
+#. 1: Plugin name 2: PHP 3: Required PHP version
+#: styler-elementor-addons.php:353 styler-elementor-addons.php:377
+#, php-format
+msgid "%1$s requires %2$s version %3$s or greater."
+msgstr ""
+
+#: widgets/woocommerce/popup-cart-notices/popup-cart-notices.php:37
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+
+#. %s: post type label
+#: classes/class-helpers-functions.php:109
+#, php-format
+msgid "%s FILTER"
+msgstr ""
+
+#. %s: post type label
+#: classes/class-helpers-functions.php:144
+#: classes/class-helpers-functions.php:198
+#, php-format
+msgid "%s Filter Type"
+msgstr ""
+
+#. %s Label
+#: classes/class-helpers-functions.php:92
+#, php-format
+msgid "%s Taxonomy Exclude"
+msgstr ""
+
+#. %s Label
+#: classes/class-helpers-functions.php:64
+#, php-format
+msgid "%s Taxonomy Type"
+msgstr ""
+
+#: widgets/woocommerce/popup-cart-notices/popup-cart-notices.php:36
+#, php-format
+msgid "%s was added to the cart."
+msgstr ""
+
+#: templates/template-library/library-manager.php:57
+#, php-format
+msgid "%s Widget"
+msgstr ""
+
+#: widgets/contact-form-7.php:182
+msgid ". Item Width ( % )"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:158
+#: widgets/woocommerce/woo-banner.php:171
+msgid "16:9 ( Standard Video )"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:160
+#: widgets/woocommerce/woo-banner.php:173
+msgid "1:1"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:135
+#: classes/class-custom-elementor-section.php:384
+msgid "2 = 200%, 1.5 = 150%, etc.."
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:163
+#: widgets/woocommerce/woo-banner.php:176
+msgid "21:9"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:162
+#: widgets/woocommerce/woo-banner.php:175
+msgid "3:2"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:161
+#: widgets/woocommerce/woo-banner.php:174
+msgid "4:3"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:159
+#: widgets/woocommerce/woo-banner.php:172
+msgid "9:16 ( for vertical video )"
+msgstr ""
+
+#: widgets/vegas-template.php:84
+msgid "absolute"
+msgstr ""
+
+#: widgets/instagram-slider.php:34
+msgid "Access Token"
+msgstr ""
+
+#: widgets/woocommerce/woo-header-actions.php:36
+msgid "Account Form"
+msgstr ""
+
+#: widgets/button.php:39 widgets/woocommerce/woo-header-actions.php:32
+msgid "Action Type"
+msgstr ""
+
+#: widgets/image-slider.php:212 widgets/image-slider.php:370
+#: widgets/posts-base.php:752 widgets/instagram-slider.php:217
+#: widgets/instagram-slider.php:375 widgets/testimonials-slider.php:467
+#: widgets/menu-vertical.php:330 widgets/swiper-template.php:224
+#: widgets/home-slider.php:846 widgets/woocommerce/woo-tab-slider.php:608
+#: widgets/woocommerce/woo-brands.php:517
+#: widgets/woocommerce/woo-banner-hero-slider.php:732
+#: widgets/woocommerce/woo-slider.php:466
+#: widgets/woocommerce/woo-category-grid.php:566
+#: widgets/woocommerce/woo-banner-slider.php:966
+#: widgets/woocommerce/product/product-data-tabs.php:83
+msgid "Active"
+msgstr ""
+
+#: widgets/woocommerce/woo-gallery.php:212
+msgid "Active Color"
+msgstr ""
+
+#: widgets/button.php:154
+msgid "Add html content here"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:798
+msgid "Add Images"
+msgstr ""
+
+#: widgets/fetatures-item.php:102
+msgid "Add Link"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:34
+msgid "Add new Brand"
+msgstr ""
+
+#: classes/class-popup-builder.php:42
+msgid "Add new Popup"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:41
+msgid "Add or remove brand"
+msgstr ""
+
+#: classes/class-popup-builder.php:41
+msgid "Add Popup"
+msgstr ""
+
+#: widgets/woocommerce/product/product-add-to-cart.php:12
+msgid "Add To Cart"
+msgstr ""
+
+#: widgets/woocommerce/woo-slider.php:290
+msgid "Add to Cart Title Color"
+msgstr ""
+
+#: widgets/button.php:144
+msgid "Add your local video here"
+msgstr ""
+
+#: classes/class-wishlist.php:318 classes/class-wishlist.php:323
+msgid "Added to the wishlist!"
+msgstr ""
+
+#: widgets/woocommerce/product/product-additional-information.php:13
+msgid "Additional Information"
+msgstr ""
+
+#: classes/class-compare.php:424
+msgid "Additional information"
+msgstr ""
+
+#: widgets/woocommerce/product/single-elements.php:47
+msgid "Additional Information Tab"
+msgstr ""
+
+#: widgets/woocommerce/product/single-elements.php:97
+#: widgets/woocommerce/product/single-elements.php:106
+msgid "Admin Notice:"
+msgstr ""
+
+#: widgets/menu-vertical.php:76 widgets/button.php:222
+msgid "After"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:291
+#: widgets/woocommerce/woo-banner.php:292
+msgid "After Count Text"
+msgstr ""
+
+#: widgets/animated-headline.php:250
+msgid "After Text Color"
+msgstr ""
+
+#: widgets/vegas-template.php:388 widgets/vegas-template.php:428
+#: widgets/vegas-template.php:475 widgets/vegas-template.php:515
+#: widgets/vegas-template.php:581 widgets/vegas-template.php:621
+#: widgets/vegas-slider.php:489 widgets/vegas-slider.php:529
+#: widgets/vegas-slider.php:576 widgets/vegas-slider.php:616
+#: widgets/vegas-slider.php:682 widgets/vegas-slider.php:722
+#: widgets/animated-headline.php:165 widgets/gallery.php:318
+#: widgets/gallery.php:424 widgets/gallery.php:692 widgets/gallery.php:754
+#: widgets/gallery.php:800 widgets/image-slider.php:292
+#: widgets/breadcrumbs.php:86 widgets/posts-base.php:674 widgets/timer.php:76
+#: widgets/instagram-slider.php:297 widgets/testimonials-slider.php:49
+#: widgets/testimonials-slider.php:388 widgets/menu-vertical.php:221
+#: widgets/button.php:176 widgets/swiper-template.php:146
+#: widgets/home-slider.php:760 widgets/woocommerce/woo-tab-slider.php:200
+#: widgets/woocommerce/woo-tab-slider.php:529
+#: widgets/woocommerce/woo-brands.php:439
+#: widgets/woocommerce/woo-categories.php:197
+#: widgets/woocommerce/woo-banner-hero-slider.php:642
+#: widgets/woocommerce/woo-slider.php:388
+#: widgets/woocommerce/woo-page-title.php:57
+#: widgets/woocommerce/woo-category-grid.php:487
+#: widgets/woocommerce/woo-archive-description.php:41
+#: widgets/woocommerce/woo-banner-slider.php:887
+#: widgets/woocommerce/product/product-rating.php:129
+#: widgets/woocommerce/product/product-add-to-cart.php:35
+#: widgets/woocommerce/product/product-price.php:39
+#: widgets/woocommerce/product/breadcrumb.php:71
+#: widgets/woocommerce/product/product-short-description.php:38
+msgid "Alignment"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:30
+msgid "All Brands"
+msgstr ""
+
+#: widgets/menu-vertical.php:558
+#: widgets/woocommerce/woo-banner-hero-slider.php:270
+#: widgets/woocommerce/woo-banner-slider.php:242
+msgid "All Categories"
+msgstr ""
+
+#: widgets/gallery-isotope.php:83 widgets/woocommerce/woo-gallery.php:55
+msgid "All Text"
+msgstr ""
+
+#: classes/class-wishlist.php:329
+msgid "Already in the wishlist!"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:758
+msgid "Animate Once?"
+msgstr ""
+
+#: widgets/animated-headline.php:189
+msgid "ANIMATED TEXT"
+msgstr ""
+
+#: widgets/gallery.php:241
+msgid "ANIMATION"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:501
+msgid "Animation Speed"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:814
+#: widgets/vegas-template.php:141 widgets/vegas-slider.php:242
+msgid "Animation Type"
+msgstr ""
+
+#: widgets/woocommerce/woo-archive-description.php:13
+msgid "Archive Description"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:43
+msgid "Archives"
+msgstr ""
+
+#: widgets/vegas-template.php:240 widgets/vegas-slider.php:341
+msgid "Arrows"
+msgstr ""
+
+#: widgets/vegas-template.php:284 widgets/vegas-slider.php:385
+msgid "ARROWS STYLE"
+msgstr ""
+
+#: widgets/woocommerce/woo-categories.php:154
+#: widgets/woocommerce/product/product-upsell.php:72
+#: widgets/woocommerce/product/product-related.php:85
+msgid "ASC"
+msgstr ""
+
+#: classes/class-helpers-functions.php:245 widgets/sidebar-widgets.php:238
+#: widgets/woocommerce/woo-tab-slider.php:72
+#: widgets/woocommerce/woo-grid.php:172 widgets/woocommerce/woo-brands.php:94
+#: widgets/woocommerce/woo-gallery.php:111
+#: widgets/woocommerce/woo-slider.php:146
+#: widgets/woocommerce/woo-category-grid.php:91
+#: widgets/woocommerce/woo-list.php:116
+msgid "Ascending"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:155
+#: widgets/woocommerce/woo-banner.php:168
+msgid "Aspect Ratio"
+msgstr ""
+
+#: widgets/woocommerce/woo-grid.php:77
+msgid "Attribute Display"
+msgstr ""
+
+#: classes/class-helpers-functions.php:185
+#: classes/class-helpers-functions.php:258
+msgid "Author"
+msgstr ""
+
+#: widgets/post-data.php:39
+msgid "Author Avatar"
+msgstr ""
+
+#: widgets/post-data.php:40
+msgid "Author Box"
+msgstr ""
+
+#: widgets/post-data.php:38
+msgid "Author Description"
+msgstr ""
+
+#: widgets/post-data.php:37
+msgid "Author Name"
+msgstr ""
+
+#: classes/class-helpers-functions.php:172
+msgid "Authors Filter Type"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:143 widgets/posts-base.php:96
+msgid "Auto"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:149
+#: widgets/woocommerce/woo-banner.php:162
+msgid "Auto Calculate Video Size"
+msgstr ""
+
+#: widgets/vegas-template.php:227 widgets/vegas-slider.php:328
+#: widgets/gallery.php:91 widgets/image-slider.php:72 widgets/post-data.php:166
+#: widgets/posts-base.php:496 widgets/instagram-slider.php:77
+#: widgets/testimonials-slider.php:174 widgets/home-slider.php:360
+#: widgets/woocommerce/woo-tab-slider.php:160
+#: widgets/woocommerce/woo-brands.php:145
+#: widgets/woocommerce/woo-banner-hero-slider.php:597
+#: widgets/woocommerce/woo-slider.php:191
+#: widgets/woocommerce/woo-category-grid.php:391
+#: widgets/woocommerce/woo-banner-slider.php:802
+msgid "Autoplay"
+msgstr ""
+
+#: widgets/home-slider.php:367
+msgid "Autoplay Delay"
+msgstr ""
+
+#: classes/class-compare.php:415
+msgid "Availability"
+msgstr ""
+
+#: widgets/testimonials-slider.php:96
+msgid "Avatar"
+msgstr ""
+
+#: widgets/post-data.php:195
+msgid "Avatar Style"
+msgstr ""
+
+#: templates/template-library/templates.php:19
+msgid "Back to Library"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:219
+#: classes/class-customizing-default-widgets.php:749
+#: classes/class-custom-elementor-section.php:53
+#: classes/class-custom-elementor-section.php:81
+#: classes/class-custom-elementor-section.php:468 widgets/slide-show.php:497
+#: widgets/slide-show.php:529 widgets/contact-form-7.php:110
+#: widgets/contact-form-7.php:146 widgets/contact-form-7.php:245
+#: widgets/contact-form-7.php:281 widgets/image-slider.php:344
+#: widgets/posts-base.php:726 widgets/posts-base.php:852
+#: widgets/posts-base.php:888 widgets/instagram-slider.php:349
+#: widgets/testimonials-slider.php:440 widgets/testimonials-slider.php:471
+#: widgets/menu-vertical.php:473 widgets/menu-vertical.php:501
+#: widgets/button.php:406 widgets/button.php:438
+#: widgets/swiper-template.php:198 widgets/home-slider.php:605
+#: widgets/home-slider.php:637 widgets/home-slider.php:820
+#: widgets/woocommerce/woo-tab-slider.php:581
+#: widgets/woocommerce/woo-brands.php:491
+#: widgets/woocommerce/woo-banner-hero-slider.php:76
+#: widgets/woocommerce/woo-banner-hero-slider.php:705
+#: widgets/woocommerce/woo-banner-hero-slider.php:736
+#: widgets/woocommerce/woo-slider.php:440
+#: widgets/woocommerce/woo-category-grid.php:539
+#: widgets/woocommerce/woo-category-grid.php:570
+#: widgets/woocommerce/woo-banner-slider.php:939
+#: widgets/woocommerce/woo-banner-slider.php:970
+msgid "Background"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:428 widgets/vegas-template.php:323
+#: widgets/vegas-template.php:353 widgets/vegas-slider.php:424
+#: widgets/vegas-slider.php:454 widgets/gallery.php:501 widgets/gallery.php:540
+#: widgets/gallery.php:565 widgets/gallery.php:731 widgets/gallery.php:777
+#: widgets/gallery.php:847 widgets/gallery.php:875 widgets/posts-base.php:346
+#: widgets/testimonials-slider.php:251 widgets/menu-vertical.php:258
+#: widgets/button.php:316 widgets/home-slider.php:687
+#: widgets/woocommerce/woo-tab-slider.php:278
+#: widgets/woocommerce/woo-grid.php:246 widgets/woocommerce/woo-gallery.php:227
+#: widgets/woocommerce/woo-gallery.php:310
+#: widgets/woocommerce/woo-gallery.php:332
+#: widgets/woocommerce/woo-banner-hero-slider.php:533
+#: widgets/woocommerce/woo-ajax-search.php:104
+#: widgets/woocommerce/woo-ajax-search.php:124
+#: widgets/woocommerce/woo-category-grid.php:200
+#: widgets/woocommerce/woo-category-grid.php:253
+#: widgets/woocommerce/woo-banner-slider.php:394
+#: widgets/woocommerce/woo-banner-slider.php:502
+#: widgets/woocommerce/woo-banner-slider.php:564
+#: widgets/woocommerce/woo-banner-slider.php:712
+#: widgets/woocommerce/woo-list.php:209 widgets/woocommerce/woo-banner.php:411
+#: widgets/woocommerce/woo-banner.php:519
+#: widgets/woocommerce/woo-banner.php:581
+#: widgets/woocommerce/woo-banner.php:729
+#: widgets/woocommerce/product/product-data-tabs.php:58
+#: widgets/woocommerce/product/product-data-tabs.php:101
+#: widgets/woocommerce/product/product-add-to-cart.php:121
+#: widgets/woocommerce/product/product-add-to-cart.php:162
+#: widgets/woocommerce/product/product-add-to-cart.php:290
+#: widgets/woocommerce/product/product-add-to-cart.php:331
+#: widgets/woocommerce/product/product-add-to-cart.php:472
+msgid "Background Color"
+msgstr ""
+
+#: widgets/home-slider.php:695
+msgid "Background Color ( Hover )"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-hero-slider.php:83
+msgid "Background Image Overlay Color"
+msgstr ""
+
+#: widgets/posts-base.php:90
+msgid "Background Image Size"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-hero-slider.php:32
+#: widgets/woocommerce/woo-banner-slider.php:26
+#: widgets/woocommerce/woo-banner.php:26
+msgid "Banner"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:45 widgets/sidebar-widgets.php:99
+msgid "Banner Image"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:121
+msgid "Banner Link"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:324
+#: widgets/woocommerce/woo-banner.php:351
+msgid "Banner Style"
+msgstr ""
+
+#: widgets/menu-vertical.php:75 widgets/button.php:221
+msgid "Before"
+msgstr ""
+
+#: widgets/animated-headline.php:235
+msgid "BEFORE & AFTER TEXT"
+msgstr ""
+
+#: widgets/animated-headline.php:151 widgets/animated-headline.php:242
+msgid "Before Text Color"
+msgstr ""
+
+#: widgets/woocommerce/woo-grid.php:76 widgets/woocommerce/woo-slider.php:45
+#: widgets/woocommerce/woo-list.php:37
+msgid "Best Selling"
+msgstr ""
+
+#: widgets/woocommerce/woo-checkout.php:48
+msgid "Billing Form"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:859
+#: widgets/vegas-template.php:185 widgets/vegas-slider.php:286
+msgid "blur"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:860
+#: widgets/vegas-template.php:186 widgets/vegas-slider.php:287
+msgid "blur2"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:322 widgets/sidebar-widgets.php:369
+#: widgets/slide-show.php:479 widgets/slide-show.php:520
+#: widgets/contact-form-7.php:120 widgets/contact-form-7.php:156
+#: widgets/contact-form-7.php:255 widgets/contact-form-7.php:291
+#: widgets/vegas-template.php:341 widgets/vegas-template.php:371
+#: widgets/vegas-slider.php:442 widgets/vegas-slider.php:472
+#: widgets/gallery.php:487 widgets/gallery.php:526 widgets/gallery.php:857
+#: widgets/gallery.php:885 widgets/image-slider.php:198
+#: widgets/image-slider.php:218 widgets/image-slider.php:354
+#: widgets/image-slider.php:384 widgets/post-data.php:204
+#: widgets/post-data.php:240 widgets/posts-base.php:288
+#: widgets/posts-base.php:736 widgets/posts-base.php:766
+#: widgets/posts-base.php:862 widgets/posts-base.php:898 widgets/timer.php:228
+#: widgets/instagram-slider.php:203 widgets/instagram-slider.php:223
+#: widgets/instagram-slider.php:359 widgets/instagram-slider.php:389
+#: widgets/testimonials-slider.php:269 widgets/testimonials-slider.php:453
+#: widgets/testimonials-slider.php:485 widgets/menu-vertical.php:268
+#: widgets/menu-vertical.php:407 widgets/menu-vertical.php:431
+#: widgets/menu-vertical.php:483 widgets/menu-vertical.php:511
+#: widgets/button.php:382 widgets/button.php:429
+#: widgets/swiper-template.php:208 widgets/swiper-template.php:238
+#: widgets/home-slider.php:587 widgets/home-slider.php:628
+#: widgets/home-slider.php:830 widgets/home-slider.php:860
+#: widgets/woocommerce/woo-tab-slider.php:288
+#: widgets/woocommerce/woo-tab-slider.php:410
+#: widgets/woocommerce/woo-tab-slider.php:440
+#: widgets/woocommerce/woo-tab-slider.php:591
+#: widgets/woocommerce/woo-tab-slider.php:622
+#: widgets/woocommerce/woo-grid.php:256 widgets/woocommerce/woo-brands.php:501
+#: widgets/woocommerce/woo-brands.php:531
+#: widgets/woocommerce/woo-gallery.php:245
+#: widgets/woocommerce/woo-header-actions.php:229
+#: widgets/woocommerce/woo-header-actions.php:319
+#: widgets/woocommerce/woo-banner-hero-slider.php:718
+#: widgets/woocommerce/woo-banner-hero-slider.php:750
+#: widgets/woocommerce/woo-slider.php:450
+#: widgets/woocommerce/woo-slider.php:480
+#: widgets/woocommerce/woo-ajax-search.php:98
+#: widgets/woocommerce/woo-ajax-search.php:118
+#: widgets/woocommerce/woo-category-grid.php:224
+#: widgets/woocommerce/woo-category-grid.php:552
+#: widgets/woocommerce/woo-category-grid.php:584
+#: widgets/woocommerce/woo-banner-slider.php:952
+#: widgets/woocommerce/woo-banner-slider.php:984
+#: widgets/woocommerce/woo-list.php:235
+msgid "Border"
+msgstr ""
+
+#: widgets/home-slider.php:703
+#: widgets/woocommerce/product/product-data-tabs.php:70
+#: widgets/woocommerce/product/product-data-tabs.php:114
+#: widgets/woocommerce/product/product-add-to-cart.php:132
+#: widgets/woocommerce/product/product-add-to-cart.php:173
+#: widgets/woocommerce/product/product-add-to-cart.php:301
+#: widgets/woocommerce/product/product-add-to-cart.php:342
+#: widgets/woocommerce/product/product-add-to-cart.php:483
+msgid "Border Color"
+msgstr ""
+
+#: widgets/home-slider.php:711
+msgid "Border Color ( Hover )"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:328 widgets/sidebar-widgets.php:376
+#: widgets/slide-show.php:486 widgets/contact-form-7.php:126
+#: widgets/contact-form-7.php:162 widgets/contact-form-7.php:261
+#: widgets/contact-form-7.php:297 widgets/gallery.php:493
+#: widgets/gallery.php:532 widgets/image-slider.php:204
+#: widgets/image-slider.php:224 widgets/image-slider.php:360
+#: widgets/image-slider.php:390 widgets/post-data.php:210
+#: widgets/post-data.php:246 widgets/posts-base.php:294
+#: widgets/posts-base.php:354 widgets/posts-base.php:742
+#: widgets/posts-base.php:772 widgets/posts-base.php:868
+#: widgets/posts-base.php:904 widgets/timer.php:242
+#: widgets/instagram-slider.php:209 widgets/instagram-slider.php:229
+#: widgets/instagram-slider.php:365 widgets/instagram-slider.php:395
+#: widgets/testimonials-slider.php:275 widgets/testimonials-slider.php:459
+#: widgets/testimonials-slider.php:491 widgets/menu-vertical.php:274
+#: widgets/button.php:389 widgets/swiper-template.php:214
+#: widgets/swiper-template.php:244 widgets/home-slider.php:594
+#: widgets/home-slider.php:836 widgets/home-slider.php:866
+#: widgets/woocommerce/woo-tab-slider.php:597
+#: widgets/woocommerce/woo-tab-slider.php:628
+#: widgets/woocommerce/woo-brands.php:507
+#: widgets/woocommerce/woo-brands.php:537
+#: widgets/woocommerce/woo-categories.php:237
+#: widgets/woocommerce/woo-gallery.php:251
+#: widgets/woocommerce/woo-header-actions.php:235
+#: widgets/woocommerce/woo-header-actions.php:325
+#: widgets/woocommerce/woo-banner-hero-slider.php:580
+#: widgets/woocommerce/woo-banner-hero-slider.php:724
+#: widgets/woocommerce/woo-banner-hero-slider.php:756
+#: widgets/woocommerce/woo-slider.php:456
+#: widgets/woocommerce/woo-slider.php:486
+#: widgets/woocommerce/woo-ajax-search.php:84
+#: widgets/woocommerce/woo-category-grid.php:230
+#: widgets/woocommerce/woo-category-grid.php:558
+#: widgets/woocommerce/woo-category-grid.php:590
+#: widgets/woocommerce/woo-banner-slider.php:541
+#: widgets/woocommerce/woo-banner-slider.php:603
+#: widgets/woocommerce/woo-banner-slider.php:771
+#: widgets/woocommerce/woo-banner-slider.php:958
+#: widgets/woocommerce/woo-banner-slider.php:990
+#: widgets/woocommerce/woo-list.php:241 widgets/woocommerce/woo-banner.php:558
+#: widgets/woocommerce/woo-banner.php:620
+#: widgets/woocommerce/woo-banner.php:776
+#: widgets/woocommerce/product/product-data-tabs.php:147
+#: widgets/woocommerce/product/product-data-tabs.php:235
+#: widgets/woocommerce/product/product-add-to-cart.php:79
+#: widgets/woocommerce/product/product-add-to-cart.php:248
+#: widgets/woocommerce/product/product-add-to-cart.php:502
+#: widgets/woocommerce/product/product-images.php:69
+#: widgets/woocommerce/product/product-images.php:111
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/woocommerce/product/product-data-tabs.php:224
+msgid "Border Width"
+msgstr ""
+
+#: widgets/vegas-template.php:436 widgets/vegas-template.php:523
+#: widgets/vegas-template.php:629 widgets/vegas-slider.php:188
+#: widgets/vegas-slider.php:537 widgets/vegas-slider.php:624
+#: widgets/vegas-slider.php:730 widgets/button.php:280
+#: widgets/woocommerce/woo-banner-hero-slider.php:200
+#: widgets/woocommerce/woo-banner-hero-slider.php:253
+#: widgets/woocommerce/woo-banner-slider.php:359
+#: widgets/woocommerce/woo-banner.php:386
+msgid "Bottom"
+msgstr ""
+
+#: widgets/slide-show.php:546 widgets/swiper-template.php:135
+#: widgets/home-slider.php:745
+msgid "Bottom Offset"
+msgstr ""
+
+#: widgets/woocommerce/woo-list.php:147
+msgid "Bottom Spacing"
+msgstr ""
+
+#: widgets/menu-vertical.php:244
+msgid "BOX"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:417
+#: widgets/woocommerce/woo-banner.php:434
+msgid "Box Border Radius"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:402
+#: widgets/woocommerce/woo-banner.php:419
+msgid "Box Content Padding"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:251
+#: widgets/woocommerce/woo-banner.php:238
+msgid "Box Height"
+msgstr ""
+
+#: widgets/posts-base.php:304 widgets/woocommerce/woo-tab-slider.php:296
+#: widgets/woocommerce/woo-grid.php:264
+#: widgets/woocommerce/woo-category-grid.php:240
+#: widgets/woocommerce/woo-list.php:251
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:28
+msgid "Brand"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:27
+#: widgets/woocommerce/brands/brands.php:29
+msgid "Brands"
+msgstr ""
+
+#: widgets/woocommerce/woo-brands.php:116
+msgid "Brands Description"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:46
+msgid "Brands list"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:45
+msgid "Brands list navigation"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:712
+msgid "bubble"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:857
+#: widgets/vegas-template.php:183 widgets/vegas-slider.php:284
+msgid "burn"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:858
+#: widgets/vegas-template.php:184 widgets/vegas-slider.php:285
+msgid "burn2"
+msgstr ""
+
+#: widgets/slide-show.php:441 widgets/posts-base.php:810
+#: widgets/home-slider.php:549
+#: widgets/woocommerce/woo-banner-hero-slider.php:510
+#: widgets/woocommerce/woo-banner-slider.php:689
+#: widgets/woocommerce/woo-banner.php:706
+msgid "BUTTON"
+msgstr ""
+
+#: classes/class-swatches.php:91 widgets/button.php:33
+#: widgets/woocommerce/woo-banner-slider.php:346
+#: widgets/woocommerce/woo-banner.php:373
+#: widgets/woocommerce/product/product-add-to-cart.php:28
+msgid "Button"
+msgstr ""
+
+#: widgets/slide-show.php:209 widgets/home-slider.php:262
+msgid "Button 2 Background Color"
+msgstr ""
+
+#: widgets/slide-show.php:217 widgets/home-slider.php:270
+msgid "Button 2 Color"
+msgstr ""
+
+#: widgets/slide-show.php:106 widgets/home-slider.php:159
+msgid "Button 2 ID"
+msgstr ""
+
+#: widgets/slide-show.php:94 widgets/home-slider.php:147
+msgid "Button 2 Link"
+msgstr ""
+
+#: widgets/slide-show.php:86 widgets/home-slider.php:139
+msgid "Button 2 Title"
+msgstr ""
+
+#: widgets/slide-show.php:193 widgets/home-slider.php:246
+msgid "Button Background Color"
+msgstr ""
+
+#: widgets/slide-show.php:201 widgets/home-slider.php:254
+msgid "Button Color"
+msgstr ""
+
+#: widgets/button.php:206 widgets/woocommerce/woo-banner-slider.php:307
+#: widgets/woocommerce/woo-banner.php:308
+msgid "Button Icon"
+msgstr ""
+
+#: widgets/slide-show.php:78 widgets/button.php:75 widgets/home-slider.php:131
+msgid "Button ID"
+msgstr ""
+
+#: widgets/slide-show.php:66 widgets/vegas-slider.php:126 widgets/button.php:83
+#: widgets/home-slider.php:119
+msgid "Button Link"
+msgstr ""
+
+#: widgets/slide-show.php:306
+msgid "Button Next Title"
+msgstr ""
+
+#: widgets/slide-show.php:298
+msgid "Button Prev Title"
+msgstr ""
+
+#: widgets/button.php:338
+msgid "Button Style"
+msgstr ""
+
+#: widgets/button.php:67 widgets/button.php:70 widgets/button.php:291
+msgid "Button Text"
+msgstr ""
+
+#: widgets/slide-show.php:58 widgets/vegas-slider.php:116
+#: widgets/home-slider.php:111 widgets/woocommerce/woo-banner-slider.php:299
+#: widgets/woocommerce/woo-banner.php:300
+msgid "Button Title"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-hero-slider.php:118
+msgid "Button Title Color"
+msgstr ""
+
+#: widgets/woocommerce/woo-gallery.php:326
+msgid "BUTTONS"
+msgstr ""
+
+#: widgets/home-slider.php:75
+msgid "Buttons Animation Delay"
+msgstr ""
+
+#: widgets/woocommerce/woo-categories.php:78
+msgid "By Parent"
+msgstr ""
+
+#: widgets/gallery.php:279
+msgid "Caption Animation"
+msgstr ""
+
+#: widgets/woocommerce/product/product-meta.php:257
+msgid "Captions"
+msgstr ""
+
+#: widgets/posts-base.php:63 widgets/woocommerce/woo-banner-slider.php:328
+#: widgets/woocommerce/woo-banner.php:355
+msgid "Card"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:329
+#: widgets/woocommerce/woo-banner.php:356
+msgid "Card Hover"
+msgstr ""
+
+#: widgets/woocommerce/woo-mini-cart.php:197
+msgid "Cart"
+msgstr ""
+
+#: widgets/woocommerce/woo-mini-cart.php:26
+msgid "Cart Buttons"
+msgstr ""
+
+#: widgets/woocommerce/woo-header-actions.php:35
+msgid "Cart Page"
+msgstr ""
+
+#: widgets/gallery.php:662
+msgid "CATEGORIES"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:41 widgets/woocommerce/woo-categories.php:95
+#: widgets/woocommerce/product/product-meta.php:284
+#: widgets/woocommerce/product/product-meta.php:364
+msgid "Categories"
+msgstr ""
+
+#: widgets/woocommerce/woo-categories.php:54
+msgid "Categories Count"
+msgstr ""
+
+#: widgets/posts-base.php:331 widgets/woocommerce/woo-gallery.php:63
+#: widgets/woocommerce/woo-banner-hero-slider.php:354
+#: widgets/woocommerce/woo-banner-slider.php:487
+#: widgets/woocommerce/woo-list.php:54 widgets/woocommerce/woo-banner.php:504
+msgid "CATEGORY"
+msgstr ""
+
+#: widgets/post-data.php:42 widgets/woocommerce/woo-tab-slider.php:49
+#: widgets/woocommerce/woo-slider.php:68
+#: widgets/woocommerce/woo-banner-slider.php:342
+#: widgets/woocommerce/woo-list.php:61 widgets/woocommerce/woo-banner.php:369
+#: widgets/woocommerce/product/product-meta.php:265
+#: widgets/woocommerce/product/product-meta.php:275
+#: widgets/woocommerce/product/product-meta.php:363
+msgid "Category"
+msgstr "Danh Mục"
+
+#: widgets/posts-base.php:177
+msgid "Category Alignment"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-hero-slider.php:91
+msgid "Category Color"
+msgstr ""
+
+#: widgets/woocommerce/woo-category-grid.php:315
+#: widgets/woocommerce/woo-banner-slider.php:549
+#: widgets/woocommerce/woo-banner.php:566
+msgid "CATEGORY COUNT"
+msgstr ""
+
+#: widgets/woocommerce/woo-category-grid.php:122
+msgid "Category Count"
+msgstr ""
+
+#: widgets/woocommerce/woo-category-grid.php:129
+msgid "Category Description"
+msgstr ""
+
+#: widgets/woocommerce/woo-gallery.php:70
+msgid "Category Exclude"
+msgstr ""
+
+#: widgets/woocommerce/woo-slider.php:62
+msgid "Category Filter"
+msgstr ""
+
+#: widgets/woocommerce/woo-ajax-search.php:40
+msgid "Category Form"
+msgstr ""
+
+#: widgets/woocommerce/woo-grid.php:129
+msgid "Category Operator"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-hero-slider.php:48
+msgid "Category(s)"
+msgstr ""
+
+#: widgets/slide-show.php:123 widgets/slide-show.php:146
+#: widgets/slide-show.php:333 widgets/slide-show.php:356
+#: widgets/vegas-slider.php:161 widgets/vegas-slider.php:184
+#: widgets/animated-headline.php:174 widgets/gallery.php:329
+#: widgets/gallery.php:433 widgets/gallery.php:701 widgets/gallery.php:763
+#: widgets/gallery.php:809 widgets/image-slider.php:300
+#: widgets/post-data.php:410 widgets/breadcrumbs.php:95
+#: widgets/posts-base.php:138 widgets/posts-base.php:162
+#: widgets/posts-base.php:185 widgets/posts-base.php:682 widgets/timer.php:86
+#: widgets/instagram-slider.php:305 widgets/testimonials-slider.php:57
+#: widgets/testimonials-slider.php:396 widgets/menu-vertical.php:230
+#: widgets/button.php:185 widgets/swiper-template.php:154
+#: widgets/home-slider.php:176 widgets/home-slider.php:199
+#: widgets/home-slider.php:449 widgets/home-slider.php:472
+#: widgets/home-slider.php:768 widgets/woocommerce/woo-tab-slider.php:209
+#: widgets/woocommerce/woo-tab-slider.php:537
+#: widgets/woocommerce/woo-brands.php:447
+#: widgets/woocommerce/woo-categories.php:205
+#: widgets/woocommerce/woo-gallery.php:156
+#: widgets/woocommerce/woo-banner-hero-slider.php:142
+#: widgets/woocommerce/woo-banner-hero-slider.php:173
+#: widgets/woocommerce/woo-banner-hero-slider.php:196
+#: widgets/woocommerce/woo-banner-hero-slider.php:226
+#: widgets/woocommerce/woo-banner-hero-slider.php:249
+#: widgets/woocommerce/woo-banner-hero-slider.php:650
+#: widgets/woocommerce/woo-slider.php:396
+#: widgets/woocommerce/woo-page-title.php:65
+#: widgets/woocommerce/woo-category-grid.php:159
+#: widgets/woocommerce/woo-category-grid.php:186
+#: widgets/woocommerce/woo-category-grid.php:495
+#: widgets/woocommerce/woo-archive-description.php:49
+#: widgets/woocommerce/woo-banner-slider.php:358
+#: widgets/woocommerce/woo-banner-slider.php:473
+#: widgets/woocommerce/woo-banner-slider.php:895
+#: widgets/woocommerce/woo-banner.php:385
+#: widgets/woocommerce/woo-banner.php:490
+#: widgets/woocommerce/product/product-upsell.php:137
+#: widgets/woocommerce/product/product-rating.php:137
+#: widgets/woocommerce/product/product-related.php:150
+#: widgets/woocommerce/product/product-add-to-cart.php:43
+#: widgets/woocommerce/product/product-price.php:47
+#: widgets/woocommerce/product/breadcrumb.php:79
+#: widgets/woocommerce/product/product-short-description.php:46
+msgid "Center"
+msgstr ""
+
+#: widgets/header-menu-simple.php:84
+msgid "center"
+msgstr ""
+
+#: widgets/image-slider.php:79 widgets/posts-base.php:503
+#: widgets/instagram-slider.php:84 widgets/testimonials-slider.php:181
+#: widgets/woocommerce/woo-slider.php:198
+#: widgets/woocommerce/woo-category-grid.php:398
+msgid "Center Mode"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:39
+msgid "CF7 Form"
+msgstr ""
+
+#: widgets/woocommerce/woo-checkout.php:37
+msgid "Checkout Parts"
+msgstr ""
+
+#: classes/class-swatches.php:296
+msgid "Choose"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:42
+msgid "Choose from the most used brand"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:732
+msgid "circle"
+msgstr ""
+
+#: widgets/posts-base.php:62 widgets/woocommerce/woo-banner-slider.php:330
+#: widgets/woocommerce/woo-banner.php:357
+msgid "Classic"
+msgstr ""
+
+#: classes/class-swatches.php:303
+msgid "Clear"
+msgstr ""
+
+#: classes/class-wishlist.php:120 classes/class-wishlist.php:158
+msgid "Clear All"
+msgstr ""
+
+#: widgets/woocommerce/wp-widgets/widget-product-status.php:69
+msgid "Clear filters"
+msgstr ""
+
+#: templates/template-library/templates.php:141
+msgid "Click here"
+msgstr ""
+
+#: widgets/animated-headline.php:63
+msgid "clip is-full-width"
+msgstr ""
+
+#: classes/class-swatches.php:89 classes/class-swatches.php:122
+#: classes/class-custom-elementor-section.php:751 widgets/slide-show.php:402
+#: widgets/slide-show.php:425 widgets/slide-show.php:460
+#: widgets/slide-show.php:510 widgets/slide-show.php:565
+#: widgets/contact-form-7.php:102 widgets/contact-form-7.php:138
+#: widgets/contact-form-7.php:237 widgets/contact-form-7.php:273
+#: widgets/vegas-template.php:331 widgets/vegas-template.php:361
+#: widgets/vegas-template.php:565 widgets/vegas-slider.php:432
+#: widgets/vegas-slider.php:462 widgets/vegas-slider.php:666
+#: widgets/animated-headline.php:98 widgets/animated-headline.php:211
+#: widgets/gallery.php:477 widgets/gallery.php:513 widgets/gallery.php:557
+#: widgets/gallery.php:619 widgets/gallery.php:646 widgets/gallery.php:669
+#: widgets/gallery.php:715 widgets/gallery.php:839 widgets/image-slider.php:255
+#: widgets/image-slider.php:374 widgets/post-data.php:272
+#: widgets/post-data.php:281 widgets/post-data.php:375
+#: widgets/breadcrumbs.php:39 widgets/fetatures-item.php:161
+#: widgets/fetatures-item.php:184 widgets/fetatures-item.php:223
+#: widgets/posts-base.php:338 widgets/posts-base.php:386
+#: widgets/posts-base.php:417 widgets/posts-base.php:440
+#: widgets/posts-base.php:463 widgets/posts-base.php:622
+#: widgets/posts-base.php:756 widgets/posts-base.php:844
+#: widgets/posts-base.php:880 widgets/timer.php:107
+#: widgets/instagram-slider.php:260 widgets/instagram-slider.php:379
+#: widgets/testimonials-slider.php:290 widgets/testimonials-slider.php:313
+#: widgets/testimonials-slider.php:351 widgets/menu-vertical.php:290
+#: widgets/menu-vertical.php:465 widgets/menu-vertical.php:493
+#: widgets/button.php:349 widgets/button.php:419
+#: widgets/swiper-template.php:228 widgets/swiper-template.php:277
+#: widgets/home-slider.php:510 widgets/home-slider.php:533
+#: widgets/home-slider.php:568 widgets/home-slider.php:618
+#: widgets/home-slider.php:850 widgets/woocommerce/woo-tab-slider.php:223
+#: widgets/woocommerce/woo-tab-slider.php:317
+#: widgets/woocommerce/woo-tab-slider.php:392
+#: widgets/woocommerce/woo-tab-slider.php:400
+#: widgets/woocommerce/woo-tab-slider.php:422
+#: widgets/woocommerce/woo-tab-slider.php:430
+#: widgets/woocommerce/woo-tab-slider.php:612
+#: widgets/woocommerce/woo-grid.php:285 widgets/woocommerce/woo-brands.php:402
+#: widgets/woocommerce/woo-brands.php:521
+#: widgets/woocommerce/woo-categories.php:268
+#: widgets/woocommerce/woo-categories.php:294
+#: widgets/woocommerce/woo-gallery.php:204
+#: widgets/woocommerce/woo-gallery.php:282
+#: widgets/woocommerce/woo-gallery.php:296
+#: widgets/woocommerce/woo-gallery.php:318
+#: widgets/woocommerce/woo-banner-hero-slider.php:361
+#: widgets/woocommerce/woo-banner-hero-slider.php:400
+#: widgets/woocommerce/woo-banner-hero-slider.php:439
+#: widgets/woocommerce/woo-banner-hero-slider.php:478
+#: widgets/woocommerce/woo-banner-hero-slider.php:517
+#: widgets/woocommerce/woo-slider.php:350
+#: widgets/woocommerce/woo-slider.php:470
+#: widgets/woocommerce/woo-ajax-search.php:132
+#: widgets/woocommerce/woo-category-grid.php:299
+#: widgets/woocommerce/woo-category-grid.php:323
+#: widgets/woocommerce/woo-category-grid.php:349
+#: widgets/woocommerce/woo-banner-slider.php:494
+#: widgets/woocommerce/woo-banner-slider.php:556
+#: widgets/woocommerce/woo-banner-slider.php:618
+#: widgets/woocommerce/woo-banner-slider.php:657
+#: widgets/woocommerce/woo-banner-slider.php:696
+#: widgets/woocommerce/woo-list.php:264 widgets/woocommerce/woo-list.php:287
+#: widgets/woocommerce/woo-list.php:318 widgets/woocommerce/woo-list.php:349
+#: widgets/woocommerce/woo-list.php:365 widgets/woocommerce/woo-banner.php:511
+#: widgets/woocommerce/woo-banner.php:573
+#: widgets/woocommerce/woo-banner.php:635
+#: widgets/woocommerce/woo-banner.php:674
+#: widgets/woocommerce/woo-banner.php:713
+#: widgets/woocommerce/product/product-meta.php:184
+#: widgets/woocommerce/product/product-meta.php:216
+#: widgets/woocommerce/product/product-meta.php:244
+#: widgets/woocommerce/product/product-upsell.php:104
+#: widgets/woocommerce/product/product-related.php:117
+#: widgets/woocommerce/product/product-add-to-cart.php:433
+#: widgets/woocommerce/product/product-add-to-cart.php:461
+#: widgets/woocommerce/product/product-price.php:64
+#: widgets/woocommerce/product/product-price.php:92
+#: widgets/woocommerce/product/product-additional-information.php:46
+#: widgets/woocommerce/product/product-additional-information.php:72
+msgid "Color"
+msgstr ""
+
+#: widgets/gallery.php:164
+msgid "COLUMN"
+msgstr ""
+
+#: widgets/gallery-isotope.php:50 widgets/woocommerce/woo-grid.php:35
+msgid "Column"
+msgstr ""
+
+#: widgets/posts-base.php:103 widgets/woocommerce/woo-brands.php:55
+#: widgets/woocommerce/woo-gallery.php:44
+#: widgets/woocommerce/woo-category-grid.php:54
+msgid "Column Width"
+msgstr ""
+
+#: widgets/woocommerce/woo-categories.php:42
+#: widgets/woocommerce/product/product-upsell.php:38
+#: widgets/woocommerce/product/product-related.php:51
+msgid "Columns"
+msgstr ""
+
+#: widgets/gallery-isotope.php:60 widgets/woocommerce/woo-grid.php:45
+#: widgets/woocommerce/woo-categories.php:180
+msgid "Columns Gap"
+msgstr ""
+
+#: widgets/post-data.php:44
+msgid "Comment Number"
+msgstr ""
+
+#: widgets/post-data.php:45
+msgid "Comment Template"
+msgstr ""
+
+#: widgets/post-data.php:525
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+
+#: widgets/woocommerce/woo-mini-cart.php:180
+msgid "Compare"
+msgstr ""
+
+#: widgets/woocommerce/woo-header-actions.php:38
+msgid "Compare Popup"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:145 widgets/posts-base.php:95
+msgid "Contain"
+msgstr ""
+
+#: classes/class-compare.php:388 widgets/vegas-template.php:32
+#: widgets/vegas-slider.php:32
+msgid "Content"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:338
+#: widgets/woocommerce/woo-banner.php:365
+msgid "Content Item order"
+msgstr ""
+
+#: widgets/home-slider.php:46
+msgid "Content Items Entrance Animation"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:366
+#: widgets/woocommerce/woo-banner.php:393
+msgid "Content Items Order"
+msgstr ""
+
+#: widgets/vegas-template.php:93
+msgid "Content Template"
+msgstr ""
+
+#: classes/class-wishlist.php:96
+msgid "Copy"
+msgstr ""
+
+#: widgets/woocommerce/woo-header-actions.php:126
+msgid "COUNT"
+msgstr ""
+
+#: widgets/woocommerce/woo-categories.php:142
+#: widgets/woocommerce/woo-categories.php:285
+#: widgets/woocommerce/woo-banner-slider.php:345
+#: widgets/woocommerce/woo-banner.php:372
+msgid "Count"
+msgstr ""
+
+#: widgets/woocommerce/woo-header-actions.php:249
+#: widgets/woocommerce/woo-header-actions.php:295
+msgid "Count Background Color"
+msgstr ""
+
+#: widgets/woocommerce/woo-header-actions.php:260
+#: widgets/woocommerce/woo-header-actions.php:306
+#: widgets/woocommerce/woo-mini-cart.php:102
+msgid "Count Color"
+msgstr ""
+
+#: widgets/woocommerce/woo-header-actions.php:148
+msgid "Count Font Size"
+msgstr ""
+
+#: widgets/woocommerce/woo-header-actions.php:179
+msgid "Count Right Position"
+msgstr ""
+
+#: widgets/woocommerce/woo-header-actions.php:133
+msgid "Count Size"
+msgstr ""
+
+#: widgets/woocommerce/woo-header-actions.php:163
+msgid "Count Top Position"
+msgstr ""
+
+#: widgets/timer.php:32
+msgid "Countdown Settings"
+msgstr ""
+
+#: widgets/vegas-template.php:247 widgets/vegas-slider.php:348
+msgid "Counter"
+msgstr ""
+
+#: widgets/woocommerce/woo-mini-cart.php:90
+msgid "Counter Background Color"
+msgstr ""
+
+#: widgets/vegas-template.php:558 widgets/vegas-slider.php:659
+msgid "COUNTER STYLE"
+msgstr ""
+
+#: widgets/woocommerce/woo-checkout.php:47
+msgid "Coupon Form"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:144 widgets/posts-base.php:94
+msgid "Cover"
+msgstr ""
+
+#: widgets/image-slider.php:168 widgets/posts-base.php:580
+#: widgets/instagram-slider.php:173
+msgid "Coverflow"
+msgstr ""
+
+#: widgets/woocommerce/woo-header-actions.php:405
+#: widgets/woocommerce/woo-mini-cart.php:167
+msgid "Create an Account"
+msgstr ""
+
+#: widgets/image-slider.php:169 widgets/posts-base.php:581
+#: widgets/instagram-slider.php:174
+msgid "Creative"
+msgstr ""
+
+#: widgets/breadcrumbs.php:55
+msgid "Current Color"
+msgstr ""
+
+#: widgets/woocommerce/woo-categories.php:79
+msgid "Current Subcategories"
+msgstr ""
+
+#: widgets/animated-headline.php:204
+msgid "CURSOR"
+msgstr ""
+
+#: widgets/menu-vertical.php:37
+msgid "Custom"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:260
+msgid "custom"
+msgstr ""
+
+#: classes/class-customizing-page-settings.php:962
+msgid "Custom CSS"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:120
+#: classes/class-custom-elementor-section.php:369
+msgid "Custom Easing"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:62
+#: widgets/woocommerce/woo-banner.php:61
+msgid "Custom Iframe Embed"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:69
+#: widgets/woocommerce/woo-banner.php:68
+msgid "Custom Iframe Embed Code"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:230
+#: widgets/woocommerce/woo-banner.php:330
+msgid "Custom Link"
+msgstr ""
+
+#: widgets/woocommerce/woo-mini-cart.php:38
+msgid "Custom Myaccount Link"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:213
+#: widgets/woocommerce/woo-banner.php:258
+msgid "Custom Title/Text"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:369
+msgid "Custom Transform"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:195
+#: widgets/woocommerce/woo-banner.php:220
+msgid "Custom Video Height"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:177
+#: widgets/woocommerce/woo-banner.php:202
+msgid "Custom Video Width"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:225
+msgid "daily"
+msgstr ""
+
+#: widgets/woocommerce/product/product-meta.php:96
+msgid "Dashed"
+msgstr ""
+
+#: widgets/post-data.php:310
+msgid "Data Style"
+msgstr ""
+
+#: widgets/woocommerce/product/single-elements.php:39
+msgid "Data Tabs"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:35 widgets/post-data.php:32
+msgid "Data Type"
+msgstr ""
+
+#: classes/class-helpers-functions.php:261 widgets/sidebar-widgets.php:259
+#: widgets/post-data.php:41 widgets/woocommerce/woo-tab-slider.php:86
+#: widgets/woocommerce/woo-grid.php:188 widgets/woocommerce/woo-brands.php:108
+#: widgets/woocommerce/woo-gallery.php:125
+#: widgets/woocommerce/woo-slider.php:160
+#: widgets/woocommerce/woo-category-grid.php:105
+#: widgets/woocommerce/woo-list.php:130
+#: widgets/woocommerce/product/product-upsell.php:54
+#: widgets/woocommerce/product/product-related.php:67
+msgid "Date"
+msgstr ""
+
+#: styler-elementor-addons.php:704
+msgid "day"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:627
+msgid "Default"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:710
+msgid "default"
+msgstr ""
+
+#: classes/class-custom-kit-settings.php:82
+msgid "Default Column Padding"
+msgstr ""
+
+#: widgets/vegas-template.php:48
+msgid "Default Header"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:669
+#: classes/class-custom-elementor-section.php:890
+msgid "Delay"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:724
+#: widgets/vegas-template.php:213 widgets/vegas-slider.php:74
+#: widgets/vegas-slider.php:314
+msgid "Delay ( ms )"
+msgstr ""
+
+#: widgets/vegas-slider.php:75
+msgid "Delay beetween slides in milliseconds."
+msgstr ""
+
+#: widgets/woocommerce/woo-categories.php:155
+#: widgets/woocommerce/product/product-upsell.php:73
+#: widgets/woocommerce/product/product-related.php:86
+msgid "DESC"
+msgstr ""
+
+#: classes/class-helpers-functions.php:246 widgets/sidebar-widgets.php:239
+#: widgets/woocommerce/woo-tab-slider.php:73
+#: widgets/woocommerce/woo-grid.php:173 widgets/woocommerce/woo-brands.php:95
+#: widgets/woocommerce/woo-gallery.php:112
+#: widgets/woocommerce/woo-slider.php:147
+#: widgets/woocommerce/woo-category-grid.php:92
+#: widgets/woocommerce/woo-list.php:117
+msgid "Descending"
+msgstr ""
+
+#: widgets/slide-show.php:418 widgets/fetatures-item.php:216
+#: widgets/home-slider.php:526
+#: widgets/woocommerce/woo-banner-hero-slider.php:432
+#: widgets/woocommerce/woo-category-grid.php:341
+#: widgets/woocommerce/woo-banner-slider.php:650
+#: widgets/woocommerce/woo-banner.php:667
+msgid "DESCRIPTION"
+msgstr ""
+
+#: classes/class-compare.php:379 widgets/slide-show.php:50
+#: widgets/vegas-slider.php:100 widgets/home-slider.php:103
+#: widgets/woocommerce/woo-categories.php:141
+#: widgets/woocommerce/woo-banner-slider.php:344
+#: widgets/woocommerce/woo-banner.php:371
+msgid "Description"
+msgstr ""
+
+#: widgets/home-slider.php:64
+msgid "Description Animation Delay"
+msgstr ""
+
+#: widgets/slide-show.php:185 widgets/vegas-slider.php:109
+#: widgets/home-slider.php:238
+msgid "Description Color"
+msgstr ""
+
+#: widgets/gallery.php:181
+msgid "Desktop Column"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:836
+msgid "Desktop Items"
+msgstr ""
+
+#: templates/template-library/templates.php:30
+#: templates/template-library/templates.php:31
+msgid "Desktop view"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-hero-slider.php:127
+msgid "DETAILS"
+msgstr ""
+
+#: classes/class-quick-view.php:159 classes/class-compare.php:406
+msgid "Dimensions"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:161
+#: classes/class-custom-elementor-section.php:410
+msgid "Disable Axis"
+msgstr ""
+
+#: widgets/woocommerce/woo-grid.php:132
+msgid "display all of the chosen categories"
+msgstr ""
+
+#: widgets/woocommerce/woo-grid.php:157
+msgid "display all of the chosen tags"
+msgstr ""
+
+#: widgets/woocommerce/woo-grid.php:134
+msgid "display styler-products that are not in the chosen category."
+msgstr ""
+
+#: widgets/woocommerce/woo-grid.php:159
+msgid "display styler-products that are not in the chosen tags."
+msgstr ""
+
+#: widgets/woocommerce/woo-grid.php:133
+msgid "display styler-products within the chosen category"
+msgstr ""
+
+#: widgets/woocommerce/woo-grid.php:158
+msgid "display styler-products within the chosen tags"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:71 widgets/slide-show.php:290
+#: widgets/animated-headline.php:47 widgets/post-data.php:66
+#: widgets/fetatures-item.php:87 widgets/posts-base.php:379
+#: widgets/testimonials-slider.php:153 widgets/home-slider.php:336
+#: widgets/woocommerce/woo-banner-hero-slider.php:296
+#: widgets/woocommerce/woo-page-title.php:49
+#: widgets/woocommerce/woo-category-grid.php:292
+#: widgets/woocommerce/woo-banner-slider.php:284
+#: widgets/woocommerce/woo-banner.php:277
+msgid "div"
+msgstr ""
+
+#: widgets/woocommerce/product/product-meta.php:75
+msgid "Divider"
+msgstr ""
+
+#: widgets/gallery.php:747
+msgid "DOTS"
+msgstr ""
+
+#: widgets/image-slider.php:105 widgets/posts-base.php:517
+#: widgets/instagram-slider.php:110 widgets/testimonials-slider.php:188
+#: widgets/home-slider.php:384 widgets/woocommerce/woo-tab-slider.php:174
+#: widgets/woocommerce/woo-brands.php:171
+#: widgets/woocommerce/woo-banner-hero-slider.php:604
+#: widgets/woocommerce/woo-slider.php:212
+#: widgets/woocommerce/woo-category-grid.php:405
+#: widgets/woocommerce/woo-banner-slider.php:809
+msgid "Dots"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-hero-slider.php:664
+msgid "Dots Left/Right Spacing"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-hero-slider.php:690
+msgid "Dots Space"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-hero-slider.php:631
+msgid "Dots Top Offset"
+msgstr ""
+
+#: widgets/woocommerce/product/product-meta.php:95
+msgid "Dotted"
+msgstr ""
+
+#: widgets/woocommerce/product/product-meta.php:94
+msgid "Double"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:645
+#: classes/class-customizing-default-widgets.php:716
+msgid "down"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:649
+msgid "down left"
+msgstr ""
+
+#: widgets/menu-vertical.php:323
+msgid "DROPDOWN"
+msgstr ""
+
+#: widgets/menu-vertical.php:397
+msgid "Dropdown Background Color"
+msgstr ""
+
+#: widgets/menu-vertical.php:337
+msgid "Dropdown Direction"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:733
+msgid "edge"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:31
+msgid "Edit Brand"
+msgstr ""
+
+#: classes/class-popup-builder.php:43
+msgid "Edit Popup"
+msgstr ""
+
+#: widgets/image-slider.php:162 widgets/posts-base.php:574
+#: widgets/instagram-slider.php:167
+msgid "Effect"
+msgstr ""
+
+#: widgets/woocommerce/product/single-elements.php:28
+#: widgets/woocommerce/product/single-elements.php:35
+msgid "Element"
+msgstr ""
+
+#: styler-elementor-addons.php:332 styler-elementor-addons.php:355
+msgid "Elementor"
+msgstr ""
+
+#: widgets/vegas-template.php:49
+msgid "Elementor Template"
+msgstr ""
+
+#: widgets/woocommerce/product/product-rating.php:50
+msgid "Empty Star Color"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:792
+msgid "Enable Background Slider"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:485
+msgid "Enable Marquee Animation"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:625
+#: classes/class-custom-elementor-section.php:108
+msgid "Enable Parallax"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:49
+msgid "Enable Popup Action"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:703
+msgid "Enable Reveal"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:906
+msgid "Enable Shuffle"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:395
+msgid "Enable Stroke"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:91
+#: classes/class-custom-elementor-section.php:339
+msgid "Enable Tilt Effect"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:913
+msgid "Enable Timer"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:184
+#: classes/class-custom-elementor-section.php:433
+msgid "Enables glare effect"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:254
+msgid "End Time"
+msgstr ""
+
+#: widgets/vegas-slider.php:120
+msgid "Enter button title here"
+msgstr ""
+
+#: widgets/vegas-slider.php:103
+msgid "Enter description here"
+msgstr ""
+
+#: widgets/vegas-slider.php:87
+msgid "Enter title here"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-hero-slider.php:264
+msgid "Entrance Animation"
+msgstr ""
+
+#: widgets/posts-base.php:456
+msgid "EXCERPT"
+msgstr ""
+
+#: widgets/woocommerce/product/single-elements.php:43
+msgid "Excerpt"
+msgstr ""
+
+#: widgets/gallery-isotope.php:104 widgets/posts-base.php:239
+#: widgets/woocommerce/woo-banner-hero-slider.php:324
+msgid "Excerpt Word Limit"
+msgstr ""
+
+#: widgets/woocommerce/woo-slider.php:93
+msgid "Exclude"
+msgstr ""
+
+#. %s: post type label
+#: classes/class-helpers-functions.php:150
+#: classes/class-helpers-functions.php:207
+#, php-format
+msgid "Exclude %s"
+msgstr ""
+
+#: classes/class-helpers-functions.php:179
+msgid "Exclude Authors"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:395
+msgid "Exclude Brand(s):"
+msgstr ""
+
+#: widgets/woocommerce/woo-brands.php:82
+msgid "Exclude Brands"
+msgstr ""
+
+#: widgets/woocommerce/woo-slider.php:78
+#: widgets/woocommerce/woo-category-grid.php:113
+#: widgets/woocommerce/woo-list.php:71
+msgid "Exclude Category"
+msgstr ""
+
+#: widgets/woocommerce/wp-widgets/widget-product-categories.php:238
+msgid "Exclude id:"
+msgstr ""
+
+#: widgets/woocommerce/woo-gallery.php:92
+#: widgets/woocommerce/woo-slider.php:127 widgets/woocommerce/woo-list.php:97
+msgid "Exclude Post"
+msgstr ""
+
+#: classes/class-custom-kit-settings.php:124
+msgid "Extended Column Padding"
+msgstr ""
+
+#: widgets/button.php:59
+msgid "External"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:183
+msgid "External (Youtube,Vimeo)"
+msgstr ""
+
+#: templates/admin/admin-template.php:22
+msgid "Extra"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:130
+msgid "Fade"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:839
+#: widgets/vegas-template.php:165 widgets/vegas-slider.php:266
+msgid "fade"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:840
+#: widgets/vegas-template.php:166 widgets/vegas-slider.php:267
+msgid "fade2"
+msgstr ""
+
+#: widgets/woocommerce/woo-grid.php:74 widgets/woocommerce/woo-slider.php:43
+#: widgets/woocommerce/woo-list.php:35
+msgid "Featured"
+msgstr ""
+
+#: widgets/post-data.php:36
+msgid "Featured Image"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:465
+msgid "Fill Color"
+msgstr ""
+
+#: widgets/gallery.php:211 widgets/gallery.php:418
+#: widgets/woocommerce/woo-gallery.php:142
+msgid "FILTER"
+msgstr ""
+
+#: templates/template-library/templates.php:88
+msgid "Filter"
+msgstr ""
+
+#: widgets/woocommerce/woo-gallery.php:148
+msgid "Filter Alignment"
+msgstr ""
+
+#: widgets/gallery.php:248
+msgid "Filter Animation"
+msgstr ""
+
+#: widgets/woocommerce/woo-gallery.php:171
+msgid "Filter bottom spacing"
+msgstr ""
+
+#: widgets/woocommerce/woo-grid.php:120
+msgid "Filter Category"
+msgstr ""
+
+#: widgets/gallery.php:550
+msgid "FILTER COUNTER"
+msgstr ""
+
+#: widgets/gallery.php:233
+msgid "Filter Counter"
+msgstr ""
+
+#: widgets/gallery.php:225
+msgid "Filter First Text ( All )"
+msgstr ""
+
+#: widgets/woocommerce/woo-grid.php:145
+msgid "Filter Tag(s)"
+msgstr ""
+
+#: widgets/gallery-isotope.php:43
+msgid "Fit Rows"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:861
+#: widgets/vegas-template.php:187 widgets/vegas-slider.php:288
+msgid "flash"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:862
+#: widgets/vegas-template.php:188 widgets/vegas-slider.php:289
+msgid "flash2"
+msgstr ""
+
+#: widgets/header-menu-simple.php:85
+msgid "flex-start"
+msgstr ""
+
+#: widgets/image-slider.php:167 widgets/posts-base.php:579
+#: widgets/instagram-slider.php:172
+msgid "flip"
+msgstr ""
+
+#: widgets/contact-form-7.php:134
+#: widgets/woocommerce/product/product-add-to-cart.php:313
+msgid "Focus"
+msgstr ""
+
+#: styler-elementor-addons.php:659
+msgid "Follow"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:284
+#: widgets/woocommerce/wp-widgets/widget-product-categories.php:148
+msgid "For Main Shop Page."
+msgstr ""
+
+#: widgets/woocommerce/wp-widgets/widget-product-status.php:7
+msgid "For Product Archive Page."
+msgstr ""
+
+#: widgets/contact-form-7.php:24
+msgid "Form Data"
+msgstr ""
+
+#: widgets/contact-form-7.php:175
+msgid "FORM ITEMS WIDTH"
+msgstr ""
+
+#: widgets/contact-form-7.php:50
+msgid "Form Max Width ( % )"
+msgstr ""
+
+#: widgets/woocommerce/woo-checkout.php:43
+msgid "Form Parts"
+msgstr ""
+
+#: widgets/woocommerce/woo-checkout.php:32
+msgid "Form Type"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:197
+#: classes/class-custom-elementor-section.php:446
+msgid "From 0 - 1."
+msgstr ""
+
+#: widgets/woocommerce/woo-checkout.php:36
+msgid "Full Checkout"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:406
+msgid "Full Text"
+msgstr ""
+
+#: widgets/button.php:258
+msgid "Full width"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-hero-slider.php:279
+msgid "Fullwidth"
+msgstr ""
+
+#: widgets/gallery.php:137
+msgid "GAP"
+msgstr ""
+
+#: widgets/post-data.php:182
+msgid "Gap"
+msgstr ""
+
+#: widgets/animated-headline.php:133
+msgid "GENERAL"
+msgstr ""
+
+#: widgets/header-menu-simple.php:26 widgets/menu-vertical.php:26
+#: widgets/woocommerce/product/product-additional-information.php:25
+msgid "General"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:183
+#: classes/class-custom-elementor-section.php:432
+msgid "Glare Effect"
+msgstr ""
+
+#: widgets/button.php:47
+msgid "Google Map"
+msgstr ""
+
+#: widgets/posts-base.php:51 widgets/woocommerce/woo-brands.php:39
+#: widgets/woocommerce/woo-category-grid.php:38
+msgid "Grid"
+msgstr ""
+
+#: widgets/gallery.php:67
+msgid "grid masonry"
+msgstr ""
+
+#: widgets/fetatures-item.php:81 widgets/posts-base.php:373
+#: widgets/testimonials-slider.php:147
+#: widgets/woocommerce/woo-banner-hero-slider.php:290
+#: widgets/woocommerce/woo-page-title.php:43
+#: widgets/woocommerce/woo-category-grid.php:286
+#: widgets/woocommerce/woo-banner-slider.php:278
+#: widgets/woocommerce/woo-banner.php:271
+msgid "H1"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:65 widgets/slide-show.php:284
+#: widgets/animated-headline.php:41 widgets/post-data.php:60
+#: widgets/home-slider.php:330
+msgid "h1"
+msgstr ""
+
+#: widgets/fetatures-item.php:82 widgets/posts-base.php:374
+#: widgets/testimonials-slider.php:148
+#: widgets/woocommerce/woo-banner-hero-slider.php:291
+#: widgets/woocommerce/woo-page-title.php:44
+#: widgets/woocommerce/woo-category-grid.php:287
+#: widgets/woocommerce/woo-banner-slider.php:279
+#: widgets/woocommerce/woo-banner.php:272
+msgid "H2"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:66 widgets/slide-show.php:285
+#: widgets/animated-headline.php:42 widgets/post-data.php:61
+#: widgets/home-slider.php:331
+msgid "h2"
+msgstr ""
+
+#: widgets/fetatures-item.php:83 widgets/posts-base.php:375
+#: widgets/testimonials-slider.php:149
+#: widgets/woocommerce/woo-banner-hero-slider.php:292
+#: widgets/woocommerce/woo-page-title.php:45
+#: widgets/woocommerce/woo-category-grid.php:288
+#: widgets/woocommerce/woo-banner-slider.php:280
+#: widgets/woocommerce/woo-banner.php:273
+msgid "H3"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:67 widgets/slide-show.php:286
+#: widgets/animated-headline.php:43 widgets/post-data.php:62
+#: widgets/home-slider.php:332
+msgid "h3"
+msgstr ""
+
+#: widgets/fetatures-item.php:84 widgets/posts-base.php:376
+#: widgets/testimonials-slider.php:150
+#: widgets/woocommerce/woo-banner-hero-slider.php:293
+#: widgets/woocommerce/woo-page-title.php:46
+#: widgets/woocommerce/woo-category-grid.php:289
+#: widgets/woocommerce/woo-banner-slider.php:281
+#: widgets/woocommerce/woo-banner.php:274
+msgid "H4"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:68 widgets/slide-show.php:287
+#: widgets/animated-headline.php:44 widgets/post-data.php:63
+#: widgets/home-slider.php:333
+msgid "h4"
+msgstr ""
+
+#: widgets/fetatures-item.php:85 widgets/posts-base.php:377
+#: widgets/testimonials-slider.php:151
+#: widgets/woocommerce/woo-banner-hero-slider.php:294
+#: widgets/woocommerce/woo-page-title.php:47
+#: widgets/woocommerce/woo-category-grid.php:290
+#: widgets/woocommerce/woo-banner-slider.php:282
+#: widgets/woocommerce/woo-banner.php:275
+msgid "H5"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:69 widgets/slide-show.php:288
+#: widgets/animated-headline.php:45 widgets/post-data.php:64
+#: widgets/home-slider.php:334
+msgid "h5"
+msgstr ""
+
+#: widgets/fetatures-item.php:86 widgets/posts-base.php:378
+#: widgets/testimonials-slider.php:152
+#: widgets/woocommerce/woo-banner-hero-slider.php:295
+#: widgets/woocommerce/woo-page-title.php:48
+#: widgets/woocommerce/woo-category-grid.php:291
+#: widgets/woocommerce/woo-banner-slider.php:283
+#: widgets/woocommerce/woo-banner.php:276
+msgid "H6"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:70 widgets/slide-show.php:289
+#: widgets/animated-headline.php:46 widgets/post-data.php:65
+#: widgets/home-slider.php:335
+msgid "h6"
+msgstr ""
+
+#: classes/class-wishlist.php:341 classes/class-wishlist.php:402
+msgid "Have an error, please try again!"
+msgstr ""
+
+#: widgets/vegas-template.php:80
+msgid "Header Position"
+msgstr ""
+
+#: widgets/vegas-template.php:44
+msgid "Header Template"
+msgstr ""
+
+#: widgets/woocommerce/product/product-data-tabs.php:189
+#: widgets/woocommerce/product/product-upsell.php:83
+#: widgets/woocommerce/product/product-upsell.php:91
+#: widgets/woocommerce/product/product-related.php:96
+#: widgets/woocommerce/product/product-related.php:104
+#: widgets/woocommerce/product/product-additional-information.php:32
+msgid "Heading"
+msgstr ""
+
+#: widgets/home-slider.php:53
+msgid "Heading Animation Delay"
+msgstr ""
+
+#: widgets/woocommerce/product/product-meta.php:155
+msgid "Height"
+msgstr ""
+
+#: widgets/woocommerce/product/product-upsell.php:93
+#: widgets/woocommerce/product/product-related.php:106
+#: widgets/woocommerce/product/product-additional-information.php:35
+#: widgets/woocommerce/product/product-images.php:48
+msgid "Hide"
+msgstr ""
+
+#: widgets/posts-base.php:221
+msgid "Hide Author"
+msgstr ""
+
+#: widgets/posts-base.php:208
+msgid "Hide Category"
+msgstr ""
+
+#: widgets/posts-base.php:227
+msgid "Hide Date"
+msgstr ""
+
+#: widgets/woocommerce/woo-categories.php:124
+msgid "Hide Empty"
+msgstr ""
+
+#: widgets/gallery-isotope.php:98 widgets/posts-base.php:233
+#: widgets/woocommerce/woo-banner-hero-slider.php:318
+msgid "Hide Excerpt"
+msgstr ""
+
+#: widgets/gallery-isotope.php:76
+msgid "Hide Filters"
+msgstr ""
+
+#: widgets/post-data.php:328
+msgid "Hide Icon"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:391
+msgid "Hide if empty:"
+msgstr ""
+
+#: widgets/gallery-isotope.php:92
+msgid "Hide Post Title"
+msgstr ""
+
+#: widgets/timer.php:123
+msgid "Hide Separator"
+msgstr ""
+
+#: widgets/posts-base.php:215
+msgid "Hide Title"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-hero-slider.php:165
+#: widgets/woocommerce/woo-banner-hero-slider.php:218
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: widgets/gallery.php:144
+msgid "Horizontal Gap"
+msgstr ""
+
+#: widgets/vegas-template.php:406 widgets/vegas-template.php:493
+#: widgets/vegas-template.php:600 widgets/vegas-slider.php:507
+#: widgets/vegas-slider.php:594 widgets/vegas-slider.php:700
+msgid "Horizontal Position"
+msgstr ""
+
+#: widgets/woocommerce/woo-tab-slider.php:457
+#: widgets/woocommerce/woo-tab-slider.php:486
+msgid "Horizontal Position ( % )"
+msgstr ""
+
+#: widgets/slide-show.php:114 widgets/slide-show.php:324
+#: widgets/home-slider.php:167 widgets/home-slider.php:440
+msgid "Horizontal Text Alignment"
+msgstr ""
+
+#: widgets/vegas-slider.php:58
+msgid "Hosted Video URL"
+msgstr ""
+
+#: widgets/timer.php:46
+msgid "Hour"
+msgstr ""
+
+#: styler-elementor-addons.php:705
+msgid "hour"
+msgstr ""
+
+#: widgets/slide-show.php:506 widgets/contact-form-7.php:269
+#: widgets/vegas-template.php:349 widgets/vegas-slider.php:450
+#: widgets/posts-base.php:876 widgets/menu-vertical.php:489
+#: widgets/button.php:415 widgets/home-slider.php:614
+#: widgets/woocommerce/woo-tab-slider.php:418
+#: widgets/woocommerce/woo-header-actions.php:271
+#: widgets/woocommerce/woo-ajax-search.php:112
+#: widgets/woocommerce/product/product-add-to-cart.php:144
+msgid "Hover"
+msgstr ""
+
+#: widgets/gallery.php:739 widgets/gallery.php:785
+#: widgets/woocommerce/woo-banner-hero-slider.php:541
+#: widgets/woocommerce/woo-banner-slider.php:720
+#: widgets/woocommerce/woo-list.php:217 widgets/woocommerce/woo-banner.php:737
+msgid "Hover Background Color"
+msgstr ""
+
+#: widgets/woocommerce/woo-gallery.php:259
+msgid "Hover Border Color"
+msgstr ""
+
+#: widgets/slide-show.php:573 widgets/gallery.php:723 widgets/gallery.php:867
+#: widgets/image-slider.php:263 widgets/post-data.php:290
+#: widgets/post-data.php:384 widgets/fetatures-item.php:169
+#: widgets/fetatures-item.php:192 widgets/posts-base.php:394
+#: widgets/posts-base.php:630 widgets/instagram-slider.php:268
+#: widgets/swiper-template.php:285 widgets/woocommerce/woo-brands.php:410
+#: widgets/woocommerce/woo-banner-hero-slider.php:525
+#: widgets/woocommerce/woo-slider.php:358
+#: widgets/woocommerce/woo-banner-slider.php:704
+#: widgets/woocommerce/woo-list.php:295 widgets/woocommerce/woo-list.php:326
+#: widgets/woocommerce/woo-banner.php:721
+msgid "Hover Color"
+msgstr ""
+
+#: widgets/woocommerce/woo-mini-cart.php:71
+msgid "Hover Icon Color"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:453
+#: widgets/woocommerce/woo-banner.php:470
+msgid "Hover Image Scale"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:411 widgets/breadcrumbs.php:47
+msgid "Hover Link Color"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:435
+#: widgets/woocommerce/woo-banner.php:452
+msgid "Hover Overlay Color"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:500
+msgid "Hover Submit Background"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:482
+msgid "Hover Submit Color"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:445
+#: widgets/woocommerce/woo-banner.php:462
+msgid "Hover Text Color"
+msgstr ""
+
+#: widgets/gallery.php:509 widgets/gallery.php:863
+msgid "Hover/Active"
+msgstr ""
+
+#: widgets/woocommerce/woo-gallery.php:340
+msgid "Hover/Active Background Color"
+msgstr ""
+
+#: widgets/woocommerce/woo-tab-slider.php:231
+msgid "Hover/Active Color"
+msgstr ""
+
+#: widgets/woocommerce/woo-gallery.php:356
+msgid "Hover/Active Icon Color"
+msgstr ""
+
+#: widgets/button.php:48
+msgid "HTML5 Video"
+msgstr ""
+
+#: widgets/button.php:140
+msgid "HTML5 Video URL"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://themeforest.net/user/Ninetheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://ninetheme.com/"
+msgstr ""
+
+#: widgets/gallery.php:612 widgets/fetatures-item.php:131
+#: widgets/woocommerce/woo-header-actions.php:76
+msgid "ICON"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:135 widgets/fetatures-item.php:36
+#: widgets/fetatures-item.php:58 widgets/woocommerce/woo-header-actions.php:26
+#: widgets/woocommerce/woo-header-actions.php:58
+msgid "Icon"
+msgstr ""
+
+#: widgets/woocommerce/woo-header-actions.php:195
+msgid "ICON and COUNT"
+msgstr ""
+
+#: widgets/woocommerce/woo-header-actions.php:218
+#: widgets/woocommerce/woo-header-actions.php:287
+msgid "Icon Background Color"
+msgstr ""
+
+#: widgets/post-data.php:342 widgets/menu-vertical.php:298
+#: widgets/home-slider.php:719 widgets/woocommerce/woo-gallery.php:348
+#: widgets/woocommerce/woo-header-actions.php:206
+#: widgets/woocommerce/woo-header-actions.php:275
+#: widgets/woocommerce/woo-mini-cart.php:60
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/home-slider.php:727
+msgid "Icon Color ( Hover )"
+msgstr ""
+
+#: widgets/woocommerce/woo-header-actions.php:96
+msgid "Icon Font Size"
+msgstr ""
+
+#: widgets/button.php:217
+msgid "Icon Position"
+msgstr ""
+
+#: widgets/vegas-template.php:308 widgets/vegas-slider.php:409
+#: widgets/gallery.php:627 widgets/menu-vertical.php:306 widgets/button.php:245
+#: widgets/woocommerce/woo-tab-slider.php:377
+#: widgets/woocommerce/woo-header-actions.php:82
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/menu-vertical.php:313
+msgid "Icon Space"
+msgstr ""
+
+#: widgets/button.php:229 widgets/woocommerce/woo-banner-slider.php:752
+#: widgets/woocommerce/woo-banner.php:318
+msgid "Icon Spacing"
+msgstr ""
+
+#: widgets/fetatures-item.php:31
+msgid "Icon Type"
+msgstr ""
+
+#: widgets/fetatures-item.php:150
+msgid "Icon Wrapper Min Height"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:176
+#: classes/class-custom-elementor-section.php:425
+msgid "If the tilt effect has to be reset on exit."
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:252
+msgid ""
+"if you are using a background image calculate your height as a percentage ( "
+"% ), if you are using a video then calculate it in pixels ( px )"
+msgstr ""
+
+#: widgets/button.php:131
+msgid "Iframe Map URL"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-hero-slider.php:211
+msgid "IMAGE"
+msgstr ""
+
+#: classes/class-swatches.php:90 classes/class-custom-elementor-section.php:45
+#: classes/class-custom-elementor-section.php:73 classes/class-compare.php:330
+#: widgets/slide-show.php:36 widgets/vegas-slider.php:51
+#: widgets/image-slider.php:35 widgets/fetatures-item.php:35
+#: widgets/menu-vertical.php:91 widgets/menu-vertical.php:167
+#: widgets/button.php:96 widgets/woocommerce/woo-categories.php:220
+#: widgets/woocommerce/woo-banner-slider.php:41
+#: widgets/woocommerce/woo-banner.php:40
+msgid "Image"
+msgstr ""
+
+#: widgets/woocommerce/woo-category-grid.php:178
+msgid "Image Alignment"
+msgstr ""
+
+#: widgets/testimonials-slider.php:133
+msgid "Image Border Radius"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-hero-slider.php:64
+msgid "Image Column Width"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:138
+msgid "Image Size"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:359 widgets/image-slider.php:178
+#: widgets/instagram-slider.php:183
+msgid "IMAGE STYLE"
+msgstr ""
+
+#: widgets/image-slider.php:28
+msgid "Images Items"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:415
+#: classes/class-customizing-default-widgets.php:492
+msgid "Important Note"
+msgstr ""
+
+#: widgets/woocommerce/wp-widgets/widget-product-status.php:93
+#: widgets/woocommerce/wp-widgets/widget-product-status.php:216
+msgid "In Stock"
+msgstr ""
+
+#: classes/class-wishlist.php:200 classes/class-wishlist.php:250
+#: classes/class-compare.php:206 classes/class-compare.php:291
+msgid "In stock"
+msgstr ""
+
+#: widgets/instagram-slider.php:55
+msgid "In the same frame"
+msgstr ""
+
+#: widgets/image-slider.php:86 widgets/instagram-slider.php:91
+#: widgets/woocommerce/woo-brands.php:152
+msgid "Inactive Item Opacity"
+msgstr ""
+
+#: widgets/woocommerce/woo-slider.php:92
+msgid "Include"
+msgstr ""
+
+#. %s: post type label
+#: classes/class-helpers-functions.php:149
+#: classes/class-helpers-functions.php:205
+#, php-format
+msgid "Include %s"
+msgstr ""
+
+#: classes/class-helpers-functions.php:178
+msgid "Include Authors"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:629
+msgid "Indent Bottom No Top"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:628
+msgid "Indent Top and Bottom"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:630
+msgid "Indent Top No Bottom"
+msgstr ""
+
+#: widgets/image-slider.php:65 widgets/posts-base.php:489
+#: widgets/instagram-slider.php:70 widgets/testimonials-slider.php:167
+#: widgets/home-slider.php:353 widgets/woocommerce/woo-brands.php:138
+#: widgets/woocommerce/woo-slider.php:184
+msgid "Infinite"
+msgstr ""
+
+#: widgets/woocommerce/product/product-meta.php:45
+msgid "Inline"
+msgstr ""
+
+#: widgets/contact-form-7.php:61
+msgid "INPUT"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:457
+msgid "Input Border"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:464
+msgid "Input Border Radius"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:446
+msgid "Input Padding"
+msgstr ""
+
+#: templates/template-library/templates.php:63
+msgid "Insert"
+msgstr ""
+
+#: widgets/instagram-slider.php:28
+msgid "Instagram"
+msgstr ""
+
+#: widgets/button.php:60
+msgid "Internal"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:687
+msgid "it should be a percentage between 1 and 99"
+msgstr ""
+
+#: widgets/home-slider.php:36
+msgid "Item Autoplay Delay"
+msgstr ""
+
+#: widgets/timer.php:210
+msgid "Item Background"
+msgstr ""
+
+#: widgets/gallery.php:598
+msgid "Item Border"
+msgstr ""
+
+#: widgets/testimonials-slider.php:245
+#: widgets/woocommerce/woo-category-grid.php:145
+#: widgets/woocommerce/woo-list.php:203
+msgid "ITEM BOX"
+msgstr ""
+
+#: widgets/timer.php:171
+msgid "Item Min height"
+msgstr ""
+
+#: widgets/timer.php:160
+msgid "Item Min Width"
+msgstr ""
+
+#: widgets/timer.php:196
+msgid "Item Padding"
+msgstr ""
+
+#: widgets/woocommerce/woo-list.php:311
+msgid "ITEM TITLE"
+msgstr ""
+
+#: widgets/slide-show.php:225 widgets/animated-headline.php:106
+#: widgets/image-slider.php:41 widgets/image-slider.php:132
+#: widgets/posts-base.php:544 widgets/instagram-slider.php:137
+#: widgets/testimonials-slider.php:102 widgets/testimonials-slider.php:205
+#: widgets/menu-vertical.php:126 widgets/home-slider.php:278
+#: widgets/home-slider.php:401 widgets/woocommerce/woo-brands.php:198
+#: widgets/woocommerce/woo-slider.php:239
+#: widgets/woocommerce/woo-category-grid.php:422
+#: widgets/woocommerce/woo-banner-slider.php:826
+msgid "Items"
+msgstr ""
+
+#: widgets/image-slider.php:152 widgets/posts-base.php:564
+#: widgets/instagram-slider.php:157 widgets/testimonials-slider.php:225
+#: widgets/home-slider.php:421 widgets/woocommerce/woo-brands.php:218
+#: widgets/woocommerce/woo-slider.php:259
+#: widgets/woocommerce/woo-category-grid.php:442
+#: widgets/woocommerce/woo-banner-slider.php:856
+msgid "Items Phone"
+msgstr ""
+
+#: widgets/image-slider.php:142 widgets/posts-base.php:554
+#: widgets/instagram-slider.php:147 widgets/testimonials-slider.php:215
+#: widgets/home-slider.php:411 widgets/woocommerce/woo-brands.php:208
+#: widgets/woocommerce/woo-slider.php:249
+#: widgets/woocommerce/woo-category-grid.php:432
+#: widgets/woocommerce/woo-banner-slider.php:846
+msgid "Items Tablet"
+msgstr ""
+
+#: widgets/woocommerce/woo-page-title.php:73
+#: widgets/woocommerce/woo-archive-description.php:57
+#: widgets/woocommerce/product/product-rating.php:145
+#: widgets/woocommerce/product/product-add-to-cart.php:51
+#: widgets/woocommerce/product/product-short-description.php:54
+msgid "Justified"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:819
+#: widgets/vegas-template.php:146 widgets/vegas-slider.php:247
+msgid "kenburns"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:821
+#: widgets/vegas-template.php:148 widgets/vegas-slider.php:249
+msgid "kenburnsDown"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:826
+#: widgets/vegas-template.php:153 widgets/vegas-slider.php:254
+msgid "kenburnsDownLeft"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:827
+#: widgets/vegas-template.php:154 widgets/vegas-slider.php:255
+msgid "kenburnsDownRight"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:822
+#: widgets/vegas-template.php:149 widgets/vegas-slider.php:250
+msgid "kenburnsLeft"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:823
+#: widgets/vegas-template.php:150 widgets/vegas-slider.php:251
+msgid "kenburnsRight"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:820
+#: widgets/vegas-template.php:147 widgets/vegas-slider.php:248
+msgid "kenburnsUp"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:824
+#: widgets/vegas-template.php:151 widgets/vegas-slider.php:252
+msgid "kenburnsUpLeft"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:825
+#: widgets/vegas-template.php:152 widgets/vegas-slider.php:253
+msgid "kenburnsUpRight"
+msgstr ""
+
+#: classes/class-swatches.php:144
+#: widgets/woocommerce/product/product-add-to-cart.php:424
+msgid "Label"
+msgstr ""
+
+#: widgets/woocommerce/woo-gallery.php:304
+msgid "LABELS/DISCOUNT"
+msgstr ""
+
+#: widgets/timer.php:218
+msgid "Last Item Background"
+msgstr ""
+
+#: widgets/timer.php:234
+msgid "Last Item Border Color"
+msgstr ""
+
+#: widgets/timer.php:115
+msgid "Last Item Color"
+msgstr ""
+
+#: classes/class-helpers-functions.php:262
+msgid "Last Modified Date"
+msgstr ""
+
+#: widgets/woocommerce/woo-categories.php:34
+msgid "Layout"
+msgstr ""
+
+#: widgets/gallery-isotope.php:38 widgets/gallery.php:64
+msgid "Layout Mode"
+msgstr ""
+
+#: widgets/gallery.php:365
+msgid "Lazy Load"
+msgstr ""
+
+#: widgets/slide-show.php:119 widgets/slide-show.php:142
+#: widgets/slide-show.php:329 widgets/slide-show.php:352
+#: widgets/vegas-template.php:392 widgets/vegas-template.php:479
+#: widgets/vegas-template.php:585 widgets/vegas-slider.php:157
+#: widgets/vegas-slider.php:493 widgets/vegas-slider.php:580
+#: widgets/vegas-slider.php:686 widgets/animated-headline.php:170
+#: widgets/gallery.php:325 widgets/gallery.php:429 widgets/gallery.php:697
+#: widgets/gallery.php:759 widgets/gallery.php:805 widgets/image-slider.php:296
+#: widgets/post-data.php:406 widgets/breadcrumbs.php:91
+#: widgets/posts-base.php:134 widgets/posts-base.php:158
+#: widgets/posts-base.php:181 widgets/posts-base.php:678 widgets/timer.php:82
+#: widgets/instagram-slider.php:301 widgets/testimonials-slider.php:53
+#: widgets/testimonials-slider.php:392 widgets/menu-vertical.php:226
+#: widgets/menu-vertical.php:341 widgets/button.php:181 widgets/button.php:281
+#: widgets/swiper-template.php:150 widgets/home-slider.php:172
+#: widgets/home-slider.php:195 widgets/home-slider.php:445
+#: widgets/home-slider.php:468 widgets/home-slider.php:764
+#: widgets/woocommerce/woo-tab-slider.php:205
+#: widgets/woocommerce/woo-tab-slider.php:533
+#: widgets/woocommerce/woo-brands.php:443
+#: widgets/woocommerce/woo-categories.php:201
+#: widgets/woocommerce/woo-gallery.php:152
+#: widgets/woocommerce/woo-banner-hero-slider.php:138
+#: widgets/woocommerce/woo-banner-hero-slider.php:169
+#: widgets/woocommerce/woo-banner-hero-slider.php:222
+#: widgets/woocommerce/woo-banner-hero-slider.php:646
+#: widgets/woocommerce/woo-slider.php:392
+#: widgets/woocommerce/woo-page-title.php:61
+#: widgets/woocommerce/woo-category-grid.php:155
+#: widgets/woocommerce/woo-category-grid.php:182
+#: widgets/woocommerce/woo-category-grid.php:491
+#: widgets/woocommerce/woo-archive-description.php:45
+#: widgets/woocommerce/woo-banner-slider.php:469
+#: widgets/woocommerce/woo-banner-slider.php:891
+#: widgets/woocommerce/woo-banner.php:486
+#: widgets/woocommerce/product/product-upsell.php:133
+#: widgets/woocommerce/product/product-rating.php:133
+#: widgets/woocommerce/product/product-related.php:146
+#: widgets/woocommerce/product/product-add-to-cart.php:39
+#: widgets/woocommerce/product/product-price.php:43
+#: widgets/woocommerce/product/breadcrumb.php:75
+#: widgets/woocommerce/product/product-short-description.php:42
+msgid "Left"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:646
+#: classes/class-customizing-default-widgets.php:717
+msgid "left"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:650
+msgid "left right"
+msgstr ""
+
+#: widgets/fetatures-item.php:123
+msgid "Left Separator Line Color"
+msgstr ""
+
+#: widgets/animated-headline.php:60
+msgid "letters rotate-2"
+msgstr ""
+
+#: widgets/animated-headline.php:65
+msgid "letters rotate-3"
+msgstr ""
+
+#: widgets/animated-headline.php:66
+msgid "letters scale"
+msgstr ""
+
+#: widgets/animated-headline.php:59
+msgid "letters type"
+msgstr ""
+
+#: widgets/gallery.php:46
+msgid "Lightbox"
+msgstr ""
+
+#: widgets/gallery.php:372
+msgid "Lightbox Post Title"
+msgstr ""
+
+#: widgets/button.php:104
+msgid "Lightbox Title"
+msgstr ""
+
+#: widgets/instagram-slider.php:40
+msgid "Limit"
+msgstr ""
+
+#: widgets/woocommerce/woo-list.php:280
+msgid "LINK"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:145 widgets/menu-vertical.php:97
+#: widgets/menu-vertical.php:173 widgets/button.php:43
+#: widgets/woocommerce/woo-list.php:181
+#: widgets/woocommerce/product/product-meta.php:227
+msgid "Link"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:402
+#: widgets/woocommerce/product/product-rating.php:61
+#: widgets/woocommerce/product/breadcrumb.php:52
+msgid "Link Color"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:385
+msgid "LINK STYLE"
+msgstr ""
+
+#: widgets/woocommerce/woo-list.php:173
+msgid "Link Text"
+msgstr ""
+
+#: widgets/gallery.php:41 widgets/button.php:55
+msgid "Link Type"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:84
+#: widgets/woocommerce/woo-banner.php:83
+msgid "Loacal Video URL"
+msgstr ""
+
+#: templates/template-library/templates.php:77
+msgid "Loading"
+msgstr ""
+
+#: widgets/animated-headline.php:61
+msgid "loading-bar"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:61
+#: widgets/woocommerce/woo-banner.php:60
+msgid "Local"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:184
+msgid "Local MP4"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:186
+msgid "Local Ogv"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:185
+msgid "Local Webm"
+msgstr ""
+
+#: widgets/post-data.php:158 widgets/woocommerce/woo-banner.php:114
+msgid "Loop"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:496
+msgid "Make Fixed On Scroll"
+msgstr ""
+
+#: widgets/woocommerce/woo-categories.php:77
+msgid "Manual Selection"
+msgstr ""
+
+#: widgets/gallery.php:464 widgets/post-data.php:254 widgets/post-data.php:357
+#: widgets/fetatures-item.php:208 widgets/posts-base.php:802
+#: widgets/woocommerce/woo-header-actions.php:112
+#: widgets/woocommerce/woo-banner-hero-slider.php:385
+#: widgets/woocommerce/woo-banner-hero-slider.php:424
+#: widgets/woocommerce/woo-banner-hero-slider.php:463
+#: widgets/woocommerce/woo-banner-hero-slider.php:502
+#: widgets/woocommerce/woo-banner-hero-slider.php:565
+#: widgets/woocommerce/woo-banner-slider.php:526
+#: widgets/woocommerce/woo-banner-slider.php:588
+#: widgets/woocommerce/woo-banner-slider.php:642
+#: widgets/woocommerce/woo-banner-slider.php:681
+#: widgets/woocommerce/woo-banner-slider.php:744
+#: widgets/woocommerce/woo-banner.php:543
+#: widgets/woocommerce/woo-banner.php:605
+#: widgets/woocommerce/woo-banner.php:659
+#: widgets/woocommerce/woo-banner.php:698
+#: widgets/woocommerce/woo-banner.php:761
+msgid "Margin"
+msgstr ""
+
+#: widgets/gallery-isotope.php:44
+msgid "masonry"
+msgstr ""
+
+#: widgets/woocommerce/wp-widgets/widget-product-status.php:105
+#, php-format
+msgid "Max %s"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:191
+#: classes/class-custom-elementor-section.php:440
+msgid "Max Glare"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:97
+#: classes/class-custom-elementor-section.php:346
+msgid "Max Tilt"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:681
+msgid "Max Transition ( % )"
+msgstr ""
+
+#: widgets/menu-vertical.php:517
+msgid "MEGA MENU"
+msgstr ""
+
+#: widgets/menu-vertical.php:110 widgets/menu-vertical.php:186
+msgid "Mega Menu"
+msgstr ""
+
+#: widgets/menu-vertical.php:524
+msgid "Mega Menu Container Width"
+msgstr ""
+
+#: widgets/menu-vertical.php:116
+msgid "Mega Menu Content"
+msgstr ""
+
+#: widgets/menu-vertical.php:192
+msgid "Mega Menu Content Template"
+msgstr ""
+
+#: widgets/header-menu-simple.php:95
+msgid "Mega Submenu Column Spacing"
+msgstr ""
+
+#: widgets/header-menu-simple.php:80
+msgid "Mega Submenu Horizontal Alignment"
+msgstr ""
+
+#: widgets/menu-vertical.php:32
+msgid "Menu Content Type"
+msgstr ""
+
+#: widgets/menu-vertical.php:61
+msgid "Menu Icon"
+msgstr ""
+
+#: widgets/menu-vertical.php:71
+msgid "Menu Icon Position"
+msgstr ""
+
+#: widgets/menu-vertical.php:438
+msgid "MENU ITEMS"
+msgstr ""
+
+#: widgets/menu-vertical.php:413
+msgid "MENU ITEMS IMAGE"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:257 widgets/woocommerce/woo-tab-slider.php:84
+#: widgets/woocommerce/woo-grid.php:184 widgets/woocommerce/woo-grid.php:201
+#: widgets/woocommerce/woo-brands.php:106
+#: widgets/woocommerce/woo-gallery.php:123
+#: widgets/woocommerce/woo-slider.php:158
+#: widgets/woocommerce/woo-category-grid.php:103
+#: widgets/woocommerce/woo-list.php:128
+#: widgets/woocommerce/product/product-upsell.php:60
+#: widgets/woocommerce/product/product-related.php:73
+msgid "Menu Order"
+msgstr ""
+
+#: widgets/menu-vertical.php:53
+msgid "Menu Title"
+msgstr ""
+
+#: widgets/woocommerce/product/single-elements.php:44
+msgid "Meta"
+msgstr ""
+
+#: styler-elementor-addons.php:706
+msgid "min"
+msgstr ""
+
+#: widgets/woocommerce/wp-widgets/widget-product-status.php:101
+#, php-format
+msgid "Min %s"
+msgstr ""
+
+#: widgets/contact-form-7.php:76 widgets/posts-base.php:69
+msgid "Min Height"
+msgstr ""
+
+#: widgets/vegas-template.php:108 widgets/vegas-slider.php:38
+msgid "Min Height ( vh )"
+msgstr ""
+
+#: widgets/menu-vertical.php:355
+msgid "Min Width"
+msgstr ""
+
+#: widgets/woocommerce/woo-ajax-search.php:57
+msgid "Min Width ( % )"
+msgstr ""
+
+#: widgets/timer.php:53
+msgid "Minute"
+msgstr ""
+
+#: widgets/woocommerce/product/product-meta.php:336
+msgid "Missing"
+msgstr ""
+
+#: templates/template-library/templates.php:38
+#: templates/template-library/templates.php:39
+msgid "Mobile view"
+msgstr ""
+
+#: widgets/button.php:49 widgets/button.php:150
+msgid "Modal Content"
+msgstr ""
+
+#: widgets/button.php:160
+msgid "Modal Content Width"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:227
+msgid "monthly"
+msgstr ""
+
+#: widgets/menu-vertical.php:622
+msgid "More Categories"
+msgstr ""
+
+#: widgets/menu-vertical.php:202
+msgid "More Items"
+msgstr ""
+
+#: widgets/menu-vertical.php:140
+msgid "More Items?"
+msgstr ""
+
+#: widgets/menu-vertical.php:149
+msgid "More Title"
+msgstr ""
+
+#: widgets/post-data.php:174
+msgid "Mousewheel"
+msgstr ""
+
+#: widgets/woocommerce/woo-mini-cart.php:146
+msgid "My Account"
+msgstr ""
+
+#: widgets/woocommerce/woo-mini-cart.php:32
+msgid "Myaccount Button?"
+msgstr ""
+
+#: widgets/woocommerce/product/product-meta.php:338
+#: widgets/woocommerce/product/product-meta.php:362
+msgid "N/A"
+msgstr ""
+
+#: widgets/testimonials-slider.php:283
+msgid "NAME"
+msgstr ""
+
+#: widgets/testimonials-slider.php:72 widgets/woocommerce/woo-grid.php:202
+#: widgets/woocommerce/woo-categories.php:139
+msgid "Name"
+msgstr ""
+
+#: widgets/testimonials-slider.php:143
+msgid "Name Tag"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:711
+msgid "nasa"
+msgstr ""
+
+#: widgets/gallery.php:685
+msgid "NAV"
+msgstr ""
+
+#: widgets/woocommerce/woo-tab-slider.php:167
+msgid "Nav"
+msgstr ""
+
+#: widgets/home-slider.php:672
+msgid "Nav Icon Size"
+msgstr ""
+
+#: widgets/woocommerce/woo-tab-slider.php:359
+msgid "Nav Style"
+msgstr ""
+
+#: widgets/slide-show.php:539
+msgid "NAVIGATION"
+msgstr ""
+
+#: widgets/image-slider.php:98 widgets/post-data.php:47
+#: widgets/posts-base.php:510 widgets/instagram-slider.php:103
+#: widgets/home-slider.php:377 widgets/woocommerce/woo-brands.php:164
+#: widgets/woocommerce/woo-slider.php:205
+msgid "Navigation"
+msgstr ""
+
+#: widgets/post-data.php:231
+msgid "Navigation Style"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:663
+msgid "need to be above 1.0"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:35
+msgid "New brand name"
+msgstr ""
+
+#: classes/class-popup-builder.php:44
+msgid "New Popup"
+msgstr ""
+
+#: widgets/instagram-slider.php:54
+msgid "New window or tab"
+msgstr ""
+
+#: widgets/woocommerce/woo-grid.php:73 widgets/woocommerce/woo-slider.php:42
+msgid "Newest"
+msgstr ""
+
+#: widgets/gallery.php:1097
+msgid "Next Page"
+msgstr ""
+
+#: widgets/vegas-template.php:468 widgets/vegas-slider.php:569
+#: widgets/woocommerce/woo-tab-slider.php:479
+msgid "NEXT POSITION"
+msgstr ""
+
+#: widgets/post-data.php:49
+msgid "Next Post"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ninetheme"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:306
+#: widgets/woocommerce/woo-grid.php:214
+msgid "No"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:44
+msgid "No brand"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:43
+msgid "No brand found"
+msgstr ""
+
+#: classes/class-popup-builder.php:48
+msgid "No Popups found"
+msgstr ""
+
+#: classes/class-popup-builder.php:49
+msgid "No Popups found in trash"
+msgstr ""
+
+#: widgets/gallery-isotope.php:267 widgets/gallery.php:1219
+#: widgets/posts-base.php:1128
+msgid "No post found!"
+msgstr ""
+
+#: classes/class-compare.php:111 classes/class-compare.php:143
+#: classes/class-compare.php:438 classes/class-compare.php:445
+msgid "No product is added to the compare list!"
+msgstr ""
+
+#: styler-elementor-addons.php:639
+msgid "No products found"
+msgstr ""
+
+#: widgets/woocommerce/product/single-elements.php:106
+msgid "No Rating Reviews"
+msgstr ""
+
+#: widgets/woocommerce/ajax-search/class-ajax-search.php:184
+msgid "No results"
+msgstr ""
+
+#: templates/template-library/library-manager.php:61
+msgid "No Results Found"
+msgstr ""
+
+#: templates/template-library/library-manager.php:59
+msgid "No Templates Found"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:166
+#: classes/class-helpers-functions.php:256
+#: classes/class-custom-elementor-section.php:415
+#: classes/class-custom-elementor-section.php:709
+#: classes/class-custom-elementor-section.php:874
+#: widgets/vegas-template.php:198 widgets/vegas-slider.php:299
+#: widgets/woocommerce/woo-slider.php:91
+msgid "None"
+msgstr ""
+
+#: widgets/slide-show.php:456 widgets/contact-form-7.php:98
+#: widgets/contact-form-7.php:233 widgets/vegas-template.php:319
+#: widgets/vegas-slider.php:420 widgets/gallery.php:473 widgets/gallery.php:835
+#: widgets/image-slider.php:192 widgets/image-slider.php:340
+#: widgets/posts-base.php:722 widgets/posts-base.php:840
+#: widgets/instagram-slider.php:197 widgets/instagram-slider.php:345
+#: widgets/testimonials-slider.php:436 widgets/menu-vertical.php:461
+#: widgets/button.php:344 widgets/swiper-template.php:194
+#: widgets/home-slider.php:564 widgets/home-slider.php:816
+#: widgets/woocommerce/woo-tab-slider.php:388
+#: widgets/woocommerce/woo-tab-slider.php:577
+#: widgets/woocommerce/woo-brands.php:487
+#: widgets/woocommerce/woo-header-actions.php:202
+#: widgets/woocommerce/woo-banner-hero-slider.php:701
+#: widgets/woocommerce/woo-slider.php:436
+#: widgets/woocommerce/woo-ajax-search.php:92
+#: widgets/woocommerce/woo-category-grid.php:535
+#: widgets/woocommerce/woo-banner-slider.php:935
+#: widgets/woocommerce/product/product-data-tabs.php:40
+#: widgets/woocommerce/product/product-add-to-cart.php:103
+#: widgets/woocommerce/product/product-add-to-cart.php:272
+msgid "Normal"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:743
+msgid "Number"
+msgstr ""
+
+#: classes/class-helpers-functions.php:265
+msgid "Number of Comments"
+msgstr ""
+
+#: widgets/woocommerce/product/product-meta.php:77
+msgid "Off"
+msgstr ""
+
+#: classes/class-helpers-functions.php:234
+msgid "Offset"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:736
+msgid "Offset ( px )"
+msgstr ""
+
+#: widgets/woocommerce/product/product-meta.php:78
+msgid "On"
+msgstr ""
+
+#: widgets/woocommerce/woo-slider.php:44 widgets/woocommerce/woo-list.php:36
+#: widgets/woocommerce/wp-widgets/widget-product-status.php:97
+#: widgets/woocommerce/wp-widgets/widget-product-status.php:223
+msgid "On Sale"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:519
+msgid "On Scroll BG Color"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:570
+msgid "On Scroll Link Color"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:595
+msgid "On Scroll Link Hover"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:544
+msgid "On Scroll Text Color"
+msgstr ""
+
+#: widgets/woocommerce/woo-categories.php:107
+msgid "Only Top Level"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:759
+msgid "Opacity"
+msgstr ""
+
+#: widgets/instagram-slider.php:50
+msgid "Open Link"
+msgstr ""
+
+#: classes/class-wishlist.php:141 classes/class-wishlist.php:180
+msgid "Open Wishlist Page"
+msgstr ""
+
+#: widgets/woocommerce/woo-categories.php:150
+#: widgets/woocommerce/product/product-upsell.php:68
+#: widgets/woocommerce/product/product-related.php:81
+msgid "Order"
+msgstr ""
+
+#: classes/class-helpers-functions.php:253 widgets/sidebar-widgets.php:253
+#: widgets/woocommerce/woo-tab-slider.php:80
+#: widgets/woocommerce/woo-grid.php:180 widgets/woocommerce/woo-grid.php:197
+#: widgets/woocommerce/woo-brands.php:102
+#: widgets/woocommerce/woo-categories.php:135
+#: widgets/woocommerce/woo-gallery.php:119
+#: widgets/woocommerce/woo-slider.php:154
+#: widgets/woocommerce/woo-category-grid.php:99
+#: widgets/woocommerce/woo-list.php:124
+#: widgets/woocommerce/product/product-upsell.php:50
+#: widgets/woocommerce/product/product-related.php:63
+msgid "Order By"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:639
+#: classes/class-customizing-default-widgets.php:710
+msgid "Orientation"
+msgstr ""
+
+#: widgets/gallery.php:358
+msgid "OTHER"
+msgstr ""
+
+#. %s Label
+#: classes/class-helpers-functions.php:227
+#: widgets/woocommerce/woo-gallery.php:101 widgets/woocommerce/woo-list.php:106
+msgid "OTHER FILTER"
+msgstr ""
+
+#: widgets/woocommerce/woo-slider.php:137
+msgid "Other Filter"
+msgstr ""
+
+#: classes/class-wishlist.php:200 classes/class-wishlist.php:250
+#: classes/class-compare.php:206 classes/class-compare.php:291
+msgid "Out of stock"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:632
+msgid "Overflow"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:875
+#: widgets/vegas-template.php:199 widgets/vegas-slider.php:300
+msgid "Overlay 1"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:876
+#: widgets/vegas-template.php:200 widgets/vegas-slider.php:301
+msgid "Overlay 2"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:877
+#: widgets/vegas-template.php:201 widgets/vegas-slider.php:302
+msgid "Overlay 3"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:878
+#: widgets/vegas-template.php:202 widgets/vegas-slider.php:303
+msgid "Overlay 4"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:879
+#: widgets/vegas-template.php:203 widgets/vegas-slider.php:304
+msgid "Overlay 5"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:880
+#: widgets/vegas-template.php:204 widgets/vegas-slider.php:305
+msgid "Overlay 6"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:881
+#: widgets/vegas-template.php:205 widgets/vegas-slider.php:306
+msgid "Overlay 7"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:882
+#: widgets/vegas-template.php:206 widgets/vegas-slider.php:307
+msgid "Overlay 8"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:883
+#: widgets/vegas-template.php:207 widgets/vegas-slider.php:308
+msgid "Overlay 9"
+msgstr ""
+
+#: widgets/slide-show.php:169 widgets/slide-show.php:379
+#: widgets/vegas-slider.php:138 widgets/posts-base.php:81
+#: widgets/home-slider.php:222 widgets/home-slider.php:495
+#: widgets/woocommerce/woo-banner-slider.php:425
+#: widgets/woocommerce/woo-banner.php:442
+msgid "Overlay Color"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:869
+#: widgets/vegas-template.php:194 widgets/vegas-slider.php:295
+msgid "Overlay Image Type"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:72 widgets/slide-show.php:291
+#: widgets/animated-headline.php:48 widgets/post-data.php:67
+#: widgets/fetatures-item.php:88 widgets/posts-base.php:380
+#: widgets/testimonials-slider.php:154 widgets/home-slider.php:337
+#: widgets/woocommerce/woo-banner-hero-slider.php:297
+#: widgets/woocommerce/woo-page-title.php:50
+#: widgets/woocommerce/woo-category-grid.php:293
+#: widgets/woocommerce/woo-banner-slider.php:285
+#: widgets/woocommerce/woo-banner.php:278
+msgid "p"
+msgstr ""
+
+#: widgets/slide-show.php:160 widgets/slide-show.php:370
+#: widgets/slide-show.php:468 widgets/contact-form-7.php:68
+#: widgets/gallery.php:455 widgets/image-slider.php:184
+#: widgets/post-data.php:263 widgets/post-data.php:366
+#: widgets/posts-base.php:272 widgets/posts-base.php:317
+#: widgets/posts-base.php:794 widgets/instagram-slider.php:189
+#: widgets/testimonials-slider.php:259 widgets/menu-vertical.php:250
+#: widgets/menu-vertical.php:389 widgets/menu-vertical.php:453
+#: widgets/button.php:365 widgets/home-slider.php:213
+#: widgets/home-slider.php:486 widgets/home-slider.php:576
+#: widgets/woocommerce/woo-tab-slider.php:270
+#: widgets/woocommerce/woo-grid.php:238 widgets/woocommerce/woo-gallery.php:235
+#: widgets/woocommerce/woo-banner-hero-slider.php:377
+#: widgets/woocommerce/woo-banner-hero-slider.php:416
+#: widgets/woocommerce/woo-banner-hero-slider.php:455
+#: widgets/woocommerce/woo-banner-hero-slider.php:494
+#: widgets/woocommerce/woo-banner-hero-slider.php:557
+#: widgets/woocommerce/woo-ajax-search.php:76
+#: widgets/woocommerce/woo-category-grid.php:208
+#: widgets/woocommerce/woo-category-grid.php:261
+#: widgets/woocommerce/woo-banner-slider.php:518
+#: widgets/woocommerce/woo-banner-slider.php:580
+#: widgets/woocommerce/woo-banner-slider.php:634
+#: widgets/woocommerce/woo-banner-slider.php:673
+#: widgets/woocommerce/woo-banner-slider.php:736
+#: widgets/woocommerce/woo-list.php:225 widgets/woocommerce/woo-banner.php:535
+#: widgets/woocommerce/woo-banner.php:597
+#: widgets/woocommerce/woo-banner.php:651
+#: widgets/woocommerce/woo-banner.php:690
+#: widgets/woocommerce/woo-banner.php:753
+#: widgets/woocommerce/product/product-add-to-cart.php:90
+#: widgets/woocommerce/product/product-add-to-cart.php:259
+msgid "Padding"
+msgstr ""
+
+#: classes/class-helpers-functions.php:273 widgets/gallery.php:310
+#: widgets/posts-base.php:249 widgets/woocommerce/woo-grid.php:85
+msgid "Pagination"
+msgstr ""
+
+#: widgets/posts-base.php:787
+msgid "PAGINATION STYLE"
+msgstr ""
+
+#: widgets/gallery.php:350
+msgid "Pagination Text ( Next Page )"
+msgstr ""
+
+#: widgets/gallery.php:342
+msgid "Pagination Text ( Previous Page )"
+msgstr ""
+
+#: widgets/woocommerce/product/product-data-tabs.php:160
+msgid "Panel"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:162
+msgid "Parallax on Mobile Devices"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:151
+msgid "Parallax Speed"
+msgstr ""
+
+#: widgets/woocommerce/woo-categories.php:111
+msgid "Parent"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:36
+msgid "Parent Brand"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:37
+msgid "Parent Brand:"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:407
+msgid "Part of Text"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:719
+msgid "Particles Options"
+msgstr ""
+
+#: widgets/gallery.php:99
+msgid "Pause on Hover"
+msgstr ""
+
+#: widgets/woocommerce/woo-brands.php:46
+#: widgets/woocommerce/woo-category-grid.php:45
+msgid "Per Page"
+msgstr ""
+
+#: widgets/post-data.php:112
+msgid "Per View"
+msgstr ""
+
+#: widgets/woocommerce/woo-tab-slider.php:139
+msgid "Per View  ( Mobile )"
+msgstr ""
+
+#: widgets/woocommerce/woo-tab-slider.php:119
+msgid "Per View ( Desktop )"
+msgstr ""
+
+#: widgets/woocommerce/woo-tab-slider.php:129
+msgid "Per View ( Tablet )"
+msgstr ""
+
+#: widgets/post-data.php:135
+msgid "Per View Phone"
+msgstr ""
+
+#: widgets/post-data.php:124
+msgid "Per View Tablet"
+msgstr ""
+
+#: widgets/gallery.php:44
+msgid "Permalink"
+msgstr ""
+
+#: classes/class-swatches.php:64
+msgid "Permissions check failed"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:108
+#: classes/class-custom-elementor-section.php:357
+msgid "Perspective"
+msgstr ""
+
+#: widgets/gallery.php:201
+msgid "Phone Column"
+msgstr ""
+
+#: styler-elementor-addons.php:379
+msgid "PHP"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:152 widgets/vegas-slider.php:133
+#: widgets/menu-vertical.php:104 widgets/menu-vertical.php:180
+msgid "Place URL here"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:303
+msgid "Play Once"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:417
+msgid "Please add part of text in <b> your text </b>"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:494
+msgid ""
+"Please add part of text in <span> your text </span> <span> your text </span> "
+"<span> your text </span>"
+msgstr ""
+
+#: widgets/woocommerce/product/single-elements.php:97
+msgid "Please enable the Review Rating"
+msgstr ""
+
+#: classes/class-wishlist.php:57 classes/class-wishlist.php:299
+#: classes/class-wishlist.php:300 classes/class-wishlist.php:360
+#: classes/class-wishlist.php:423
+msgid "Please log in to use the wishlist!"
+msgstr ""
+
+#: templates/template-library/library-manager.php:62
+msgid ""
+"Please make sure your search is spelled correctly or try a different words."
+msgstr ""
+
+#: widgets/woocommerce/product/product-meta.php:282
+#: widgets/woocommerce/product/product-meta.php:309
+msgid "Plural"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:735
+msgid "polygon"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:39
+msgid "Popular Brands"
+msgstr ""
+
+#: widgets/woocommerce/woo-grid.php:75 widgets/woocommerce/woo-grid.php:185
+#: widgets/woocommerce/product/product-upsell.php:57
+#: widgets/woocommerce/product/product-related.php:70
+msgid "Popularity"
+msgstr ""
+
+#: classes/class-popup-builder.php:50
+msgid "Popup archives"
+msgstr ""
+
+#: classes/class-popup-builder.php:38
+msgid "Popup Builder"
+msgstr ""
+
+#: widgets/gallery.php:45
+msgid "Popup Single Page"
+msgstr ""
+
+#: classes/class-popup-builder.php:37 classes/class-popup-builder.php:39
+#: classes/class-popup-builder.php:40
+msgid "Popups Builder"
+msgstr ""
+
+#: classes/class-popup-builder.php:81
+msgid "Popups ID"
+msgstr ""
+
+#: widgets/gallery.php:576 widgets/testimonials-slider.php:80
+msgid "Position"
+msgstr ""
+
+#: widgets/testimonials-slider.php:306
+msgid "POSITION / JOB"
+msgstr ""
+
+#: widgets/woocommerce/woo-gallery.php:85 widgets/woocommerce/woo-list.php:80
+#: widgets/woocommerce/woo-list.php:141
+msgid "POST"
+msgstr ""
+
+#: widgets/posts-base.php:130
+msgid "Post Alignment"
+msgstr ""
+
+#: widgets/posts-base.php:410
+msgid "POST AUTHOR"
+msgstr ""
+
+#: widgets/gallery.php:589 widgets/woocommerce/woo-gallery.php:220
+msgid "POST BOX"
+msgstr ""
+
+#: widgets/gallery.php:402
+msgid "Post Category"
+msgstr ""
+
+#: widgets/posts-base.php:266
+msgid "POST CONTENT"
+msgstr ""
+
+#: widgets/post-data.php:26
+msgid "Post Data"
+msgstr ""
+
+#: widgets/posts-base.php:433
+msgid "POST DATE"
+msgstr ""
+
+#: widgets/woocommerce/woo-product-item.php:48
+#: widgets/woocommerce/woo-slider.php:110
+msgid "Post Filter"
+msgstr ""
+
+#: widgets/gallery.php:388
+msgid "Post Icon"
+msgstr ""
+
+#: classes/class-helpers-functions.php:257 widgets/sidebar-widgets.php:256
+#: widgets/woocommerce/woo-tab-slider.php:83
+#: widgets/woocommerce/woo-grid.php:183 widgets/woocommerce/woo-grid.php:200
+#: widgets/woocommerce/woo-brands.php:105
+#: widgets/woocommerce/woo-gallery.php:122
+#: widgets/woocommerce/woo-slider.php:157
+#: widgets/woocommerce/woo-category-grid.php:102
+#: widgets/woocommerce/woo-list.php:127
+msgid "Post ID"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:195
+msgid "Post Limit"
+msgstr ""
+
+#: templates/template-library/library-manager.php:115
+msgid "Post not found"
+msgstr ""
+
+#: templates/template-library/library-manager.php:95
+msgid "Post not found."
+msgstr ""
+
+#: widgets/gallery.php:382 widgets/posts-base.php:41
+msgid "Post Options"
+msgstr ""
+
+#: widgets/gallery.php:302 widgets/gallery.php:793
+msgid "POST PAGINATION"
+msgstr ""
+
+#: classes/class-helpers-functions.php:263
+msgid "Post Parent ID"
+msgstr ""
+
+#: widgets/post-data.php:101
+msgid "Post Per Page"
+msgstr ""
+
+#: widgets/gallery-isotope.php:29 widgets/gallery.php:32
+msgid "Post Query"
+msgstr ""
+
+#: widgets/woocommerce/woo-tab-slider.php:264
+#: widgets/woocommerce/woo-grid.php:232
+msgid "Post Style"
+msgstr ""
+
+#: widgets/gallery.php:395
+msgid "Post Title"
+msgstr ""
+
+#: classes/class-helpers-functions.php:23 widgets/sidebar-widgets.php:212
+msgid "Post Type"
+msgstr ""
+
+#: classes/class-helpers-functions.php:31 widgets/woocommerce/woo-grid.php:61
+#: widgets/woocommerce/woo-gallery.php:35 widgets/woocommerce/woo-slider.php:53
+#: widgets/woocommerce/woo-list.php:45
+msgid "Posts Per Page"
+msgstr ""
+
+#: widgets/woocommerce/woo-tab-slider.php:58
+msgid "Posts Per Page for This Tab"
+msgstr ""
+
+#. Description of the plugin
+#: templates/admin/admin-template.php:14
+msgid "Premium & Advanced Essential Elements for Elementor"
+msgstr ""
+
+#: widgets/gallery.php:58
+msgid "Preset"
+msgstr ""
+
+#: widgets/vegas-template.php:381 widgets/vegas-slider.php:482
+#: widgets/woocommerce/woo-tab-slider.php:450
+msgid "PREV POSITION"
+msgstr ""
+
+#: templates/template-library/templates.php:127
+msgid "Preview"
+msgstr ""
+
+#: widgets/gallery.php:1096
+msgid "Previous Page"
+msgstr ""
+
+#: widgets/post-data.php:48
+msgid "Previous Post"
+msgstr ""
+
+#: widgets/woocommerce/woo-tab-slider.php:325
+#: widgets/woocommerce/woo-grid.php:293 widgets/woocommerce/woo-gallery.php:290
+#: widgets/woocommerce/woo-banner-hero-slider.php:471
+#: widgets/woocommerce/woo-list.php:358
+msgid "PRICE"
+msgstr ""
+
+#: classes/class-compare.php:343
+#: widgets/woocommerce/product/product-upsell.php:56
+#: widgets/woocommerce/product/single-elements.php:42
+#: widgets/woocommerce/product/product-related.php:69
+#: widgets/woocommerce/product/product-price.php:31
+msgid "Price"
+msgstr ""
+
+#: widgets/woocommerce/woo-tab-slider.php:332
+#: widgets/woocommerce/woo-grid.php:300
+#: widgets/woocommerce/woo-mini-cart.php:82
+#: widgets/woocommerce/woo-banner-hero-slider.php:109
+#: widgets/woocommerce/woo-slider.php:301
+msgid "Price Color"
+msgstr ""
+
+#: widgets/woocommerce/woo-tab-slider.php:340
+#: widgets/woocommerce/woo-grid.php:308
+msgid "Price Color 2"
+msgstr ""
+
+#: widgets/woocommerce/woo-category-grid.php:652
+msgid "Product"
+msgstr ""
+
+#: widgets/woocommerce/woo-brands.php:29
+msgid "Product Brands"
+msgstr ""
+
+#: widgets/woocommerce/woo-category-grid.php:29
+msgid "Product Categories"
+msgstr ""
+
+#: widgets/woocommerce/woo-categories.php:15
+msgid "Product Categories 2"
+msgstr ""
+
+#: widgets/woocommerce/product/product-data-tabs.php:13
+msgid "Product Data Tabs"
+msgstr ""
+
+#: widgets/woocommerce/product/product-images.php:13
+msgid "Product Images"
+msgstr ""
+
+#: widgets/woocommerce/product/product-meta.php:13
+msgid "Product Meta"
+msgstr ""
+
+#: widgets/woocommerce/product/product-price.php:13
+msgid "Product Price"
+msgstr ""
+
+#: widgets/woocommerce/product/product-rating.php:13
+msgid "Product Rating"
+msgstr ""
+
+#: widgets/woocommerce/product/product-related.php:13
+msgid "Product Related"
+msgstr ""
+
+#: widgets/woocommerce/product/product-stock.php:13
+msgid "Product Stock"
+msgstr ""
+
+#: widgets/woocommerce/woo-slider.php:272
+msgid "PRODUCT STYLE"
+msgstr ""
+
+#: widgets/woocommerce/product/product-title.php:13
+msgid "Product Title"
+msgstr ""
+
+#: widgets/woocommerce/woo-categories.php:165
+#: widgets/woocommerce/woo-category-grid.php:652
+msgid "Products"
+msgstr ""
+
+#: widgets/woocommerce/product/product-related.php:37
+msgid "Products Per Page"
+msgstr ""
+
+#: widgets/animated-headline.php:67
+msgid "push"
+msgstr ""
+
+#: widgets/woocommerce/product/product-add-to-cart.php:210
+msgid "Quantity"
+msgstr ""
+
+#: widgets/posts-base.php:29 widgets/woocommerce/woo-tab-slider.php:34
+#: widgets/woocommerce/woo-grid.php:29
+#: widgets/woocommerce/woo-categories.php:65
+#: widgets/woocommerce/woo-gallery.php:29
+#: widgets/woocommerce/woo-product-item.php:29
+#: widgets/woocommerce/woo-slider.php:33 widgets/woocommerce/woo-list.php:26
+msgid "Query"
+msgstr ""
+
+#: widgets/woocommerce/product-search/class-ajax-product-search.php:264
+msgid "Quick Links:"
+msgstr ""
+
+#: classes/class-quick-view.php:45
+msgid "Quick View"
+msgstr ""
+
+#: widgets/testimonials-slider.php:88
+msgid "Quote"
+msgstr ""
+
+#: classes/class-helpers-functions.php:264 widgets/sidebar-widgets.php:258
+#: widgets/woocommerce/woo-tab-slider.php:85
+#: widgets/woocommerce/woo-grid.php:186 widgets/woocommerce/woo-brands.php:107
+#: widgets/woocommerce/woo-gallery.php:124
+#: widgets/woocommerce/woo-slider.php:159
+#: widgets/woocommerce/woo-category-grid.php:104
+#: widgets/woocommerce/woo-list.php:129
+#: widgets/woocommerce/product/product-upsell.php:59
+#: widgets/woocommerce/product/product-related.php:72
+msgid "Random"
+msgstr ""
+
+#: classes/class-compare.php:370 widgets/woocommerce/woo-grid.php:187
+#: widgets/woocommerce/product/product-upsell.php:58
+#: widgets/woocommerce/product/single-elements.php:41
+#: widgets/woocommerce/product/product-related.php:71
+msgid "Rating"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:40
+msgid "Recent Post"
+msgstr ""
+
+#: widgets/woocommerce/woo-header-actions.php:45
+msgid "Redirect URL"
+msgstr ""
+
+#: widgets/woocommerce/woo-mini-cart.php:167
+msgid "Register"
+msgstr ""
+
+#: widgets/post-data.php:46
+msgid "Related Post"
+msgstr ""
+
+#: widgets/woocommerce/product/product-related.php:30
+msgid "Related Products"
+msgstr ""
+
+#: widgets/vegas-template.php:85
+msgid "relative"
+msgstr ""
+
+#: classes/class-swatches.php:136
+msgid "Remove image"
+msgstr ""
+
+#: classes/class-wishlist.php:377
+msgid "Removed from wishlist!"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:175
+#: classes/class-custom-elementor-section.php:424
+msgid "Reset"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:696
+msgid "Reveal Effects"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-hero-slider.php:57
+msgid "Reverse Column"
+msgstr ""
+
+#: widgets/slide-show.php:127 widgets/slide-show.php:150
+#: widgets/slide-show.php:337 widgets/slide-show.php:360
+#: widgets/vegas-template.php:396 widgets/vegas-template.php:483
+#: widgets/vegas-template.php:589 widgets/vegas-slider.php:165
+#: widgets/vegas-slider.php:497 widgets/vegas-slider.php:584
+#: widgets/vegas-slider.php:690 widgets/animated-headline.php:178
+#: widgets/gallery.php:333 widgets/gallery.php:437 widgets/gallery.php:705
+#: widgets/gallery.php:767 widgets/gallery.php:813 widgets/image-slider.php:304
+#: widgets/post-data.php:414 widgets/breadcrumbs.php:99
+#: widgets/posts-base.php:142 widgets/posts-base.php:166
+#: widgets/posts-base.php:189 widgets/posts-base.php:686 widgets/timer.php:90
+#: widgets/instagram-slider.php:309 widgets/testimonials-slider.php:61
+#: widgets/testimonials-slider.php:400 widgets/menu-vertical.php:234
+#: widgets/menu-vertical.php:345 widgets/button.php:189 widgets/button.php:279
+#: widgets/swiper-template.php:158 widgets/home-slider.php:180
+#: widgets/home-slider.php:203 widgets/home-slider.php:453
+#: widgets/home-slider.php:476 widgets/home-slider.php:772
+#: widgets/woocommerce/woo-tab-slider.php:213
+#: widgets/woocommerce/woo-tab-slider.php:541
+#: widgets/woocommerce/woo-brands.php:451
+#: widgets/woocommerce/woo-categories.php:209
+#: widgets/woocommerce/woo-gallery.php:160
+#: widgets/woocommerce/woo-banner-hero-slider.php:146
+#: widgets/woocommerce/woo-banner-hero-slider.php:177
+#: widgets/woocommerce/woo-banner-hero-slider.php:230
+#: widgets/woocommerce/woo-banner-hero-slider.php:654
+#: widgets/woocommerce/woo-slider.php:400
+#: widgets/woocommerce/woo-page-title.php:69
+#: widgets/woocommerce/woo-category-grid.php:163
+#: widgets/woocommerce/woo-category-grid.php:190
+#: widgets/woocommerce/woo-category-grid.php:499
+#: widgets/woocommerce/woo-archive-description.php:53
+#: widgets/woocommerce/woo-banner-slider.php:477
+#: widgets/woocommerce/woo-banner-slider.php:899
+#: widgets/woocommerce/woo-banner.php:494
+#: widgets/woocommerce/product/product-upsell.php:141
+#: widgets/woocommerce/product/product-rating.php:141
+#: widgets/woocommerce/product/product-related.php:154
+#: widgets/woocommerce/product/product-add-to-cart.php:47
+#: widgets/woocommerce/product/product-price.php:51
+#: widgets/woocommerce/product/breadcrumb.php:83
+#: widgets/woocommerce/product/product-short-description.php:50
+msgid "Right"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:644
+#: classes/class-customizing-default-widgets.php:715
+msgid "right"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:69
+#: classes/class-customizing-default-widgets.php:323
+msgid "Rotate"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:258
+msgid "rotate"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:331
+msgid "Rotate 2D ( X,Y )"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:340
+msgid "Rotate 3D ( X,Y,Z )"
+msgstr ""
+
+#: widgets/animated-headline.php:58
+msgid "rotate-1"
+msgstr ""
+
+#: widgets/woocommerce/product/single-elements.php:46
+#: widgets/woocommerce/product/product-images.php:45
+msgid "Sale Flash"
+msgstr ""
+
+#: widgets/woocommerce/product/product-price.php:83
+msgid "Sale Price"
+msgstr ""
+
+#: widgets/woocommerce/woo-list.php:374
+msgid "Save Price Color"
+msgstr ""
+
+#: templates/admin/admin-template.php:267
+msgid "Save Settings"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:129
+#: classes/class-customizing-default-widgets.php:295
+#: classes/class-customizing-default-widgets.php:657
+#: classes/class-custom-elementor-section.php:378
+msgid "Scale"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:257
+msgid "scale"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:303
+msgid "Scale 2D ( X,Y )"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:312
+msgid "Scale 3D ( X,Y,Z )"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:128
+msgid "Scroll"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:129
+msgid "Scroll with Opacity"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:38 templates/template-library/templates.php:103
+msgid "Search"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:38
+msgid "Search Brands"
+msgstr ""
+
+#: widgets/woocommerce/product-search/class-ajax-product-search.php:266
+msgid "Search for product..."
+msgstr "Tên sản phẩm"
+
+#: classes/class-popup-builder.php:47
+msgid "Search Popups"
+msgstr ""
+
+#: widgets/woocommerce/ajax-search/class-ajax-search.php:73
+msgid "Search products..."
+msgstr ""
+
+#: widgets/sidebar-widgets.php:420
+msgid "SEARCH STYLE"
+msgstr ""
+
+#: templates/template-library/templates.php:102
+msgid "Search Templates:"
+msgstr ""
+
+#: widgets/woocommerce/woo-ajax-search.php:36
+msgid "Search Type"
+msgstr ""
+
+#: styler-elementor-addons.php:707
+msgid "sec"
+msgstr ""
+
+#: widgets/timer.php:60
+msgid "Second"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:620
+msgid "Section Indent"
+msgstr ""
+
+#: widgets/woocommerce/product/single-elements.php:38
+msgid "Select"
+msgstr ""
+
+#: widgets/woocommerce/product-search/class-ajax-product-search.php:265
+msgid "Select a category"
+msgstr "Danh Mục"
+
+#: widgets/woocommerce/woo-grid.php:98
+msgid "Select Attribute"
+msgstr ""
+
+#: widgets/woocommerce/woo-grid.php:108
+msgid "Select Attribute Terms"
+msgstr ""
+
+#: widgets/woocommerce/woo-tab-slider.php:53
+#: widgets/woocommerce/woo-banner-slider.php:33
+#: widgets/woocommerce/woo-banner.php:32
+msgid "Select Category"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-hero-slider.php:52
+msgid "Select category(s) to show for this product"
+msgstr ""
+
+#: widgets/woocommerce/product/product-add-to-cart.php:452
+msgid "Select field"
+msgstr ""
+
+#: classes/class-customizing-page-settings.php:78
+msgid "Select Footer Template"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:79 widgets/contact-form-7.php:30
+msgid "Select Form"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:83 widgets/contact-form-7.php:34
+msgid "Select Form to Embed"
+msgstr ""
+
+#: classes/class-customizing-page-settings.php:62 widgets/vegas-template.php:56
+msgid "Select Header Template"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:353
+#: widgets/woocommerce/woo-banner.php:380
+msgid "Select Item Position"
+msgstr ""
+
+#: widgets/header-menu-simple.php:32 widgets/menu-vertical.php:43
+msgid "Select Menu"
+msgstr ""
+
+#: classes/class-helpers-functions.php:242 widgets/sidebar-widgets.php:235
+#: widgets/woocommerce/woo-tab-slider.php:69
+#: widgets/woocommerce/woo-grid.php:169 widgets/woocommerce/woo-brands.php:91
+#: widgets/woocommerce/woo-gallery.php:108
+#: widgets/woocommerce/woo-slider.php:143
+#: widgets/woocommerce/woo-category-grid.php:88
+#: widgets/woocommerce/woo-list.php:113
+msgid "Select Order"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:56
+msgid "Select Popup Template"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-hero-slider.php:40
+msgid "Select Post"
+msgstr ""
+
+#: widgets/woocommerce/woo-slider.php:39 widgets/woocommerce/woo-list.php:32
+msgid "Select Scenario"
+msgstr ""
+
+#: widgets/woocommerce/woo-grid.php:70
+msgid "Select Scenerio"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:40
+msgid "Separate brand with commas"
+msgstr ""
+
+#: widgets/breadcrumbs.php:63
+msgid "Separator Color"
+msgstr ""
+
+#: widgets/timer.php:130
+msgid "Seperator"
+msgstr ""
+
+#: widgets/timer.php:139
+msgid "Seperator Color"
+msgstr ""
+
+#: widgets/timer.php:148
+msgid "Seperator Size"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:155
+#: classes/class-custom-elementor-section.php:404
+msgid "Set a transition on enter/exit."
+msgstr ""
+
+#: widgets/button.php:325
+msgid "Shadow"
+msgstr ""
+
+#: widgets/slide-show.php:387
+msgid "Shape Color"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:728
+msgid "Shape Type"
+msgstr ""
+
+#: styler-elementor-addons.php:659
+msgid "Share"
+msgstr ""
+
+#: widgets/woocommerce/product/single-elements.php:45
+msgid "Sharing"
+msgstr ""
+
+#: widgets/woocommerce/woo-checkout.php:49
+msgid "Shipping Form"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:89 widgets/fetatures-item.php:94
+#: widgets/woocommerce/woo-banner-slider.php:222
+#: widgets/woocommerce/woo-banner.php:284
+#: widgets/woocommerce/product/product-short-description.php:13
+msgid "Short Description"
+msgstr ""
+
+#: templates/admin/admin-template.php:125
+msgid "Shortcode Creator"
+msgstr ""
+
+#: widgets/woocommerce/product/product-upsell.php:94
+#: widgets/woocommerce/product/product-related.php:107
+#: widgets/woocommerce/product/product-additional-information.php:34
+#: widgets/woocommerce/product/product-images.php:47
+msgid "Show"
+msgstr ""
+
+#: widgets/woocommerce/woo-categories.php:76
+msgid "Show All"
+msgstr ""
+
+#: widgets/woocommerce/woo-grid.php:211
+msgid "Show Empty Categories"
+msgstr ""
+
+#: widgets/gallery.php:218
+msgid "Show Filter"
+msgstr ""
+
+#: widgets/vegas-template.php:38
+msgid "Show Header"
+msgstr ""
+
+#: widgets/header-menu-simple.php:48
+msgid "Show Mega submenu for edit?"
+msgstr ""
+
+#: widgets/woocommerce/woo-product-item.php:35
+msgid "Show Product By"
+msgstr ""
+
+#: widgets/header-menu-simple.php:55
+msgid "Show submenu for edit?"
+msgstr ""
+
+#: widgets/vegas-template.php:234 widgets/vegas-slider.php:335
+msgid "Shuffle"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:29
+msgid "Sidebar Widgets"
+msgstr ""
+
+#: widgets/woocommerce/woo-header-actions.php:403
+#: widgets/woocommerce/woo-mini-cart.php:165
+msgid "Sign in"
+msgstr ""
+
+#: widgets/woocommerce/woo-ajax-search.php:41
+msgid "Simple Ajax Form"
+msgstr ""
+
+#: widgets/button.php:44
+msgid "Single Image"
+msgstr ""
+
+#: widgets/woocommerce/product/product-meta.php:273
+#: widgets/woocommerce/product/product-meta.php:300
+msgid "Singular"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:770
+#: widgets/vegas-template.php:297 widgets/vegas-slider.php:398
+#: widgets/animated-headline.php:223 widgets/image-slider.php:244
+#: widgets/image-slider.php:315 widgets/post-data.php:218
+#: widgets/fetatures-item.php:138 widgets/posts-base.php:611
+#: widgets/posts-base.php:697 widgets/posts-base.php:817
+#: widgets/instagram-slider.php:249 widgets/instagram-slider.php:320
+#: widgets/testimonials-slider.php:411 widgets/swiper-template.php:169
+#: widgets/swiper-template.php:266 widgets/home-slider.php:783
+#: widgets/woocommerce/woo-tab-slider.php:366
+#: widgets/woocommerce/woo-tab-slider.php:552
+#: widgets/woocommerce/woo-brands.php:391
+#: widgets/woocommerce/woo-brands.php:462
+#: widgets/woocommerce/woo-banner-hero-slider.php:679
+#: widgets/woocommerce/woo-slider.php:339
+#: widgets/woocommerce/woo-slider.php:411
+#: widgets/woocommerce/woo-category-grid.php:510
+#: widgets/woocommerce/woo-banner-slider.php:910
+msgid "Size"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:351
+msgid "Skew"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:259
+msgid "skew"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:359
+msgid "Skew 2D ( X,Y )"
+msgstr ""
+
+#: classes/class-compare.php:352 widgets/woocommerce/woo-product-item.php:41
+#: widgets/woocommerce/product/product-meta.php:318
+#: widgets/woocommerce/product/product-meta.php:327
+#: widgets/woocommerce/product/product-meta.php:329
+#: widgets/woocommerce/product/product-meta.php:361
+msgid "SKU"
+msgstr ""
+
+#: classes/class-quick-view.php:124
+msgid "SKU:"
+msgstr ""
+
+#: widgets/image-slider.php:166 widgets/posts-base.php:578
+#: widgets/instagram-slider.php:171
+msgid "Slide"
+msgstr ""
+
+#: widgets/animated-headline.php:62
+msgid "slide"
+msgstr ""
+
+#: widgets/vegas-slider.php:146
+msgid "Slide Background Color"
+msgstr ""
+
+#: widgets/swiper-template.php:41
+msgid "Slide Item Container Max Width"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-hero-slider.php:303
+msgid "Slide Item Padding"
+msgstr ""
+
+#: widgets/slide-show.php:28 widgets/vegas-slider.php:198
+#: widgets/home-slider.php:28
+msgid "Slide Items"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:847
+#: widgets/vegas-template.php:173 widgets/vegas-slider.php:274
+msgid "slideDown"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:848
+#: widgets/vegas-template.php:174 widgets/vegas-slider.php:275
+msgid "slideDown2"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:841
+#: widgets/vegas-template.php:167 widgets/vegas-slider.php:268
+msgid "slideLeft"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:842
+#: widgets/vegas-template.php:168 widgets/vegas-slider.php:269
+msgid "slideLeft2"
+msgstr ""
+
+#: widgets/posts-base.php:52 widgets/woocommerce/woo-brands.php:40
+#: widgets/woocommerce/woo-category-grid.php:39
+msgid "Slider"
+msgstr ""
+
+#: widgets/gallery.php:68
+msgid "slider"
+msgstr ""
+
+#: widgets/gallery.php:83
+msgid "Slider Dots"
+msgstr ""
+
+#: widgets/image-slider.php:274 widgets/posts-base.php:642
+#: widgets/instagram-slider.php:279 widgets/testimonials-slider.php:370
+#: widgets/swiper-template.php:128 widgets/home-slider.php:738
+#: widgets/woocommerce/woo-tab-slider.php:511
+#: widgets/woocommerce/woo-brands.php:421
+#: widgets/woocommerce/woo-banner-hero-slider.php:624
+#: widgets/woocommerce/woo-slider.php:370
+#: widgets/woocommerce/woo-category-grid.php:455
+#: widgets/woocommerce/woo-banner-slider.php:869
+msgid "SLIDER DOTS STYLE"
+msgstr ""
+
+#: widgets/home-slider.php:326
+msgid "Slider Heading Tag ( for SEO )"
+msgstr ""
+
+#: widgets/slide-show.php:250 widgets/swiper-template.php:52
+#: widgets/home-slider.php:303 widgets/home-slider.php:657
+msgid "Slider Height"
+msgstr ""
+
+#: widgets/image-slider.php:237 widgets/posts-base.php:590
+#: widgets/instagram-slider.php:242 widgets/swiper-template.php:259
+#: widgets/home-slider.php:650 widgets/woocommerce/woo-brands.php:384
+#: widgets/woocommerce/woo-slider.php:332
+msgid "SLIDER NAV STYLE"
+msgstr ""
+
+#: widgets/gallery.php:75
+msgid "Slider Navigation"
+msgstr ""
+
+#: widgets/image-slider.php:59 widgets/posts-base.php:482
+#: widgets/instagram-slider.php:64 widgets/testimonials-slider.php:160
+#: widgets/home-slider.php:347 widgets/woocommerce/woo-brands.php:132
+#: widgets/woocommerce/woo-banner-hero-slider.php:591
+#: widgets/woocommerce/woo-slider.php:178
+#: widgets/woocommerce/woo-category-grid.php:370
+#: widgets/woocommerce/woo-banner-slider.php:782
+msgid "SLIDER OPTIONS"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:806
+#: widgets/vegas-template.php:135 widgets/vegas-slider.php:236
+#: widgets/woocommerce/woo-tab-slider.php:113
+msgid "Slider Options"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:843
+#: widgets/vegas-template.php:169 widgets/vegas-slider.php:270
+msgid "slideRight"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:844
+#: widgets/vegas-template.php:170 widgets/vegas-slider.php:271
+msgid "slideRight2"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:845
+#: widgets/vegas-template.php:171 widgets/vegas-slider.php:272
+msgid "slideUp"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:846
+#: widgets/vegas-template.php:172 widgets/vegas-slider.php:273
+msgid "slideUp2"
+msgstr ""
+
+#: classes/class-helpers-functions.php:260 widgets/woocommerce/woo-grid.php:203
+#: widgets/woocommerce/woo-categories.php:140
+msgid "Slug"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:713
+msgid "snow"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:44
+msgid "Social Icons"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:157
+msgid "Social Name"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:166
+msgid "Socials"
+msgstr ""
+
+#: widgets/woocommerce/product/product-meta.php:93
+msgid "Solid"
+msgstr ""
+
+#: classes/class-wishlist.php:55
+msgid ""
+"Sorry, you've reached the max product limit.You can't add more products."
+msgstr ""
+
+#: widgets/woocommerce/woo-categories.php:73
+msgid "Source"
+msgstr ""
+
+#: widgets/image-slider.php:326 widgets/posts-base.php:708
+#: widgets/instagram-slider.php:331 widgets/testimonials-slider.php:422
+#: widgets/swiper-template.php:180 widgets/home-slider.php:798
+#: widgets/woocommerce/woo-tab-slider.php:242
+#: widgets/woocommerce/woo-tab-slider.php:563
+#: widgets/woocommerce/woo-brands.php:473
+#: widgets/woocommerce/woo-slider.php:422
+#: widgets/woocommerce/woo-category-grid.php:521
+#: widgets/woocommerce/woo-banner-slider.php:921
+msgid "Space"
+msgstr ""
+
+#: widgets/woocommerce/product/product-meta.php:54
+#: widgets/woocommerce/product/product-rating.php:101
+#: widgets/woocommerce/product/product-add-to-cart.php:413
+msgid "Space Between"
+msgstr ""
+
+#: widgets/posts-base.php:115 widgets/woocommerce/woo-brands.php:67
+#: widgets/woocommerce/woo-category-grid.php:66
+msgid "Space Between Column"
+msgstr ""
+
+#: widgets/image-slider.php:112 widgets/breadcrumbs.php:71
+#: widgets/posts-base.php:524 widgets/timer.php:182
+#: widgets/instagram-slider.php:117 widgets/woocommerce/woo-tab-slider.php:181
+#: widgets/woocommerce/woo-brands.php:178
+#: widgets/woocommerce/woo-slider.php:219
+#: widgets/woocommerce/woo-category-grid.php:377
+#: widgets/woocommerce/woo-banner-slider.php:788
+msgid "Space Between Items"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-hero-slider.php:334
+msgid "Space Between Text Content Item"
+msgstr ""
+
+#: widgets/woocommerce/woo-gallery.php:182
+msgid "Space filter items"
+msgstr ""
+
+#: widgets/header-menu-simple.php:86
+msgid "space-around"
+msgstr ""
+
+#: widgets/header-menu-simple.php:87
+msgid "space-between"
+msgstr ""
+
+#: widgets/header-menu-simple.php:88
+msgid "space-evenly"
+msgstr ""
+
+#: widgets/contact-form-7.php:87 widgets/gallery.php:823
+#: widgets/posts-base.php:828 widgets/button.php:305
+#: widgets/woocommerce/woo-categories.php:249
+#: widgets/woocommerce/product/product-upsell.php:157
+#: widgets/woocommerce/product/product-related.php:170
+#: widgets/woocommerce/product/product-add-to-cart.php:218
+#: widgets/woocommerce/product/product-add-to-cart.php:402
+#: widgets/woocommerce/product/product-price.php:121
+#: widgets/woocommerce/product/product-images.php:82
+#: widgets/woocommerce/product/product-images.php:123
+msgid "Spacing"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:73 widgets/slide-show.php:292
+#: widgets/post-data.php:68 widgets/home-slider.php:338
+msgid "span"
+msgstr ""
+
+#: widgets/woocommerce/woo-grid.php:78 widgets/woocommerce/woo-slider.php:46
+#: widgets/woocommerce/woo-list.php:38
+msgid "Specific Categories"
+msgstr ""
+
+#: widgets/woocommerce/woo-product-item.php:56
+#: widgets/woocommerce/woo-slider.php:117 widgets/woocommerce/woo-list.php:87
+msgid "Specific Post(s)"
+msgstr ""
+
+#: widgets/woocommerce/woo-product-item.php:67
+msgid "Specific SKU"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:141
+#: classes/class-custom-elementor-section.php:390 widgets/image-slider.php:122
+#: widgets/post-data.php:146 widgets/posts-base.php:534
+#: widgets/instagram-slider.php:127 widgets/testimonials-slider.php:195
+#: widgets/home-slider.php:391 widgets/woocommerce/woo-tab-slider.php:149
+#: widgets/woocommerce/woo-brands.php:188
+#: widgets/woocommerce/woo-banner-hero-slider.php:611
+#: widgets/woocommerce/woo-slider.php:229
+#: widgets/woocommerce/woo-category-grid.php:412
+#: widgets/woocommerce/woo-banner-slider.php:816
+msgid "Speed"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:147
+#: classes/class-custom-elementor-section.php:396
+msgid "Speed of the enter/exit transition."
+msgstr ""
+
+#: widgets/woocommerce/product/product-meta.php:44
+#: widgets/woocommerce/product/product-price.php:111
+msgid "Stacked"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:736
+msgid "star"
+msgstr ""
+
+#: widgets/woocommerce/woo-slider.php:312
+#: widgets/woocommerce/product/product-rating.php:39
+msgid "Star Color"
+msgstr ""
+
+#: widgets/woocommerce/woo-slider.php:320
+msgid "Star Rated Color"
+msgstr ""
+
+#: widgets/woocommerce/product/product-rating.php:80
+msgid "Star Size"
+msgstr ""
+
+#: widgets/woocommerce/woo-list.php:342
+msgid "STARS"
+msgstr ""
+
+#: classes/class-wishlist.php:103 classes/class-wishlist.php:137
+#: classes/class-wishlist.php:176 classes/class-wishlist.php:387
+#: classes/class-wishlist.php:396 classes/class-wishlist.php:440
+#: classes/class-compare.php:112 classes/class-compare.php:144
+#: classes/class-compare.php:439 classes/class-compare.php:446
+msgid "Start Shopping"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:231
+msgid "Start Time"
+msgstr ""
+
+#: widgets/header-menu-simple.php:41
+msgid "Sticky?"
+msgstr ""
+
+#: classes/class-compare.php:361
+#: widgets/woocommerce/product/single-elements.php:49
+msgid "Stock Status"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:453
+msgid "Stroke Color"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:402
+msgid "Stroke Type"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:438
+msgid "Stroke Width"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:277 widgets/slide-show.php:318
+#: widgets/contact-form-7.php:43 widgets/animated-headline.php:127
+#: widgets/gallery.php:412 widgets/fetatures-item.php:117
+#: widgets/posts-base.php:260 widgets/timer.php:70
+#: widgets/testimonials-slider.php:238 widgets/menu-vertical.php:215
+#: widgets/home-slider.php:434 widgets/woocommerce/woo-gallery.php:136
+#: widgets/woocommerce/woo-header-actions.php:70
+#: widgets/woocommerce/woo-banner-hero-slider.php:348
+#: widgets/woocommerce/woo-category-grid.php:139
+#: widgets/woocommerce/woo-banner-slider.php:388
+#: widgets/woocommerce/woo-list.php:196 widgets/woocommerce/woo-banner.php:345
+msgid "STYLE"
+msgstr ""
+
+#: widgets/breadcrumbs.php:25 widgets/posts-base.php:58
+#: widgets/woocommerce/woo-mini-cart.php:54
+#: widgets/woocommerce/woo-ajax-search.php:30
+#: widgets/woocommerce/woo-ajax-search.php:50
+#: widgets/woocommerce/woo-page-title.php:33
+#: widgets/woocommerce/woo-archive-description.php:33
+#: widgets/woocommerce/product/product-stock.php:31
+#: widgets/woocommerce/product/product-meta.php:31
+#: widgets/woocommerce/product/product-meta.php:90
+#: widgets/woocommerce/product/product-rating.php:31
+#: widgets/woocommerce/product/breadcrumb.php:33
+#: widgets/woocommerce/product/product-short-description.php:31
+#: widgets/woocommerce/product/product-images.php:37
+msgid "Style"
+msgstr ""
+
+#: templates/admin/admin.php:23 templates/admin/admin.php:24
+#: templates/admin/admin-template.php:12
+msgid "Styler Addons"
+msgstr ""
+
+#: styler-elementor-addons.php:391
+msgid "Styler Basic"
+msgstr ""
+
+#: templates/admin/admin-template.php:141
+#: widgets/woocommerce/brands/brands.php:49
+msgid "Styler Brands"
+msgstr ""
+
+#: templates/admin/admin-template.php:173
+msgid "Styler Compare"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:479
+msgid "Styler CSS Marquee"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:389
+msgid "Styler CSS Stroke"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:246
+msgid "Styler CSS Transform"
+msgstr ""
+
+#. Name of the plugin
+#: styler-elementor-addons.php:331 styler-elementor-addons.php:354
+#: styler-elementor-addons.php:378
+msgid "Styler Elementor Addons"
+msgstr ""
+
+#: styler-elementor-addons.php:598
+msgid "Styler Icons"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:39
+#: classes/class-custom-elementor-section.php:67
+msgid "Styler LazyLoad Background"
+msgstr ""
+
+#: templates/template-library/library-source.php:38
+msgid "Styler Library"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:669
+msgid "Styler Overlay Height"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:642
+msgid "Styler Overlay Width"
+msgstr ""
+
+#: classes/class-customizing-page-settings.php:956
+msgid "STYLER PAGE CUSTOM CSS"
+msgstr ""
+
+#: classes/class-customizing-page-settings.php:71
+msgid "STYLER PAGE FOOTER"
+msgstr ""
+
+#: classes/class-customizing-page-settings.php:41
+msgid "STYLER PAGE HEADER"
+msgstr ""
+
+#: classes/class-customizing-page-settings.php:35
+msgid "STYLER PAGE HEADER-FOOTER"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:618
+#: classes/class-custom-elementor-section.php:102
+msgid "Styler Parallax"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:699
+msgid "Styler Particles Effect"
+msgstr ""
+
+#: templates/admin/admin-template.php:237
+msgid "Styler Popup Builder"
+msgstr ""
+
+#: classes/class-popup-builder.php:54
+msgid "Styler Popups"
+msgstr ""
+
+#: styler-elementor-addons.php:392
+msgid "Styler Post"
+msgstr ""
+
+#: templates/admin/admin-template.php:253
+msgid "Styler Product 360 Degree"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:286
+msgid "Styler Product Brands"
+msgstr ""
+
+#: widgets/woocommerce/wp-widgets/widget-product-categories.php:150
+msgid "Styler Product Categories"
+msgstr ""
+
+#: widgets/woocommerce/wp-widgets/widget-product-status.php:9
+msgid "Styler Product Status"
+msgstr ""
+
+#: templates/admin/admin-template.php:205
+msgid "Styler Quick View"
+msgstr ""
+
+#: templates/admin/admin-template.php:189
+msgid "Styler Swatches"
+msgstr ""
+
+#: styler-elementor-addons.php:246
+msgid "Styler Templates"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:85
+#: classes/class-custom-elementor-section.php:333
+msgid "Styler Tilt Effect"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:786
+msgid "Styler Vegas Slider"
+msgstr ""
+
+#: templates/admin/admin-template.php:221
+msgid "Styler WC Ajax Search"
+msgstr ""
+
+#: templates/admin/admin-template.php:157
+msgid "Styler Wishlist"
+msgstr ""
+
+#: styler-elementor-addons.php:393
+msgid "Styler WooCommerce"
+msgstr ""
+
+#: styler-elementor-addons.php:394
+msgid "Styler WooCommerce Product"
+msgstr ""
+
+#: widgets/header-menu-simple.php:62
+msgid "SubMenu Top Offset"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:491
+msgid "Submit Background"
+msgstr ""
+
+#: widgets/woocommerce/woo-ajax-search.php:140
+msgid "Submit Background Color"
+msgstr ""
+
+#: widgets/contact-form-7.php:197
+msgid "SUBMIT BUTTON"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:473
+msgid "Submit Color"
+msgstr ""
+
+#: widgets/woocommerce/woo-ajax-search.php:148
+msgid "Submit Icon Color"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:853
+#: widgets/vegas-template.php:179 widgets/vegas-slider.php:280
+msgid "swirlLeft"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:854
+#: widgets/vegas-template.php:180 widgets/vegas-slider.php:281
+msgid "swirlLeft2"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:855
+#: widgets/vegas-template.php:181 widgets/vegas-slider.php:282
+msgid "swirlRight"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:856
+#: widgets/vegas-template.php:182 widgets/vegas-slider.php:283
+msgid "swirlRight2"
+msgstr ""
+
+#: templates/template-library/templates.php:45
+#: templates/template-library/templates.php:46
+msgid "Sync Library"
+msgstr ""
+
+#: widgets/woocommerce/woo-tab-slider.php:194
+msgid "Tab Style"
+msgstr ""
+
+#: widgets/woocommerce/woo-tab-slider.php:41
+msgid "Tab Title"
+msgstr ""
+
+#: templates/template-library/templates.php:34
+#: templates/template-library/templates.php:35
+msgid "Tab view"
+msgstr ""
+
+#: widgets/woocommerce/product/product-meta.php:43
+msgid "Table"
+msgstr ""
+
+#: widgets/gallery.php:191
+msgid "Tablet Column"
+msgstr ""
+
+#: widgets/woocommerce/woo-tab-slider.php:94
+#: widgets/woocommerce/product/product-data-tabs.php:31
+msgid "Tabs"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:61 widgets/animated-headline.php:37
+#: widgets/post-data.php:56 widgets/woocommerce/woo-slider.php:100
+#: widgets/woocommerce/product/product-meta.php:291
+#: widgets/woocommerce/product/product-meta.php:302
+#: widgets/woocommerce/product/product-meta.php:365
+msgid "Tag"
+msgstr ""
+
+#: widgets/woocommerce/woo-slider.php:88
+msgid "Tag Filter Type"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:42 widgets/post-data.php:43
+#: widgets/woocommerce/product/product-meta.php:311
+#: widgets/woocommerce/product/product-meta.php:366
+msgid "Tags"
+msgstr ""
+
+#: widgets/woocommerce/woo-grid.php:154
+msgid "Tags Operator"
+msgstr ""
+
+#: templates/template-library/library-source.php:211
+msgid "Template does not have any content"
+msgstr ""
+
+#: templates/template-library/library-manager.php:122
+msgid "Template id missing"
+msgstr ""
+
+#: widgets/testimonials-slider.php:31
+msgid "Testimonials Items"
+msgstr ""
+
+#: widgets/testimonials-slider.php:329
+msgid "TEXT"
+msgstr ""
+
+#: widgets/fetatures-item.php:25
+#: widgets/woocommerce/product/product-meta.php:199
+msgid "Text"
+msgstr ""
+
+#: widgets/animated-headline.php:81
+msgid "Text After"
+msgstr ""
+
+#: widgets/woocommerce/product/product-upsell.php:129
+#: widgets/woocommerce/product/product-related.php:142
+msgid "Text Align"
+msgstr ""
+
+#: widgets/vegas-slider.php:153 widgets/post-data.php:401
+#: widgets/posts-base.php:154
+#: widgets/woocommerce/woo-banner-hero-slider.php:134
+#: widgets/woocommerce/woo-category-grid.php:151
+#: widgets/woocommerce/woo-banner-slider.php:464
+#: widgets/woocommerce/woo-banner.php:481
+msgid "Text Alignment"
+msgstr ""
+
+#: widgets/animated-headline.php:73
+msgid "Text Before"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:437 widgets/woocommerce/woo-page-title.php:84
+#: widgets/woocommerce/woo-archive-description.php:68
+#: widgets/woocommerce/product/product-data-tabs.php:47
+#: widgets/woocommerce/product/product-data-tabs.php:90
+#: widgets/woocommerce/product/product-data-tabs.php:168
+#: widgets/woocommerce/product/product-data-tabs.php:197
+#: widgets/woocommerce/product/product-stock.php:38
+#: widgets/woocommerce/product/product-add-to-cart.php:110
+#: widgets/woocommerce/product/product-add-to-cart.php:151
+#: widgets/woocommerce/product/product-add-to-cart.php:279
+#: widgets/woocommerce/product/product-add-to-cart.php:320
+#: widgets/woocommerce/product/breadcrumb.php:41
+#: widgets/woocommerce/product/product-short-description.php:67
+msgid "Text Color"
+msgstr ""
+
+#: widgets/posts-base.php:310 widgets/woocommerce/woo-category-grid.php:246
+msgid "TEXT CONTENT"
+msgstr ""
+
+#: widgets/gallery.php:604
+msgid "Text Content Background Color"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-hero-slider.php:157
+msgid "Text Content Padding"
+msgstr ""
+
+#: widgets/testimonials-slider.php:336
+msgid "Text Content Spacing"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:675
+#: classes/class-customizing-default-widgets.php:730
+msgid "the delay is in second"
+msgstr ""
+
+#: classes/class-wishlist.php:393
+msgid "The product does not exist on the wishlist!"
+msgstr ""
+
+#: classes/class-compare.php:38
+msgid "There are no products on the compare!"
+msgstr ""
+
+#: classes/class-wishlist.php:102 classes/class-wishlist.php:136
+#: classes/class-wishlist.php:175 classes/class-wishlist.php:384
+#: classes/class-wishlist.php:437
+msgid "There are no products on the wishlist!"
+msgstr ""
+
+#: widgets/woocommerce/product/product-images.php:94
+msgid "Thumbnails"
+msgstr ""
+
+#: widgets/timer.php:38
+msgid "Time"
+msgstr ""
+
+#: widgets/vegas-template.php:253 widgets/vegas-slider.php:354
+msgid "Timer"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:947
+#: widgets/vegas-template.php:272 widgets/vegas-slider.php:373
+msgid "Timer Color"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:921
+#: widgets/vegas-template.php:260 widgets/vegas-slider.php:361
+msgid "Timer Height"
+msgstr ""
+
+#: widgets/slide-show.php:395 widgets/gallery.php:639
+#: widgets/fetatures-item.php:177 widgets/posts-base.php:362
+#: widgets/home-slider.php:503 widgets/woocommerce/woo-tab-slider.php:302
+#: widgets/woocommerce/woo-grid.php:270 widgets/woocommerce/woo-gallery.php:267
+#: widgets/woocommerce/woo-banner-hero-slider.php:393
+#: widgets/woocommerce/woo-category-grid.php:275
+#: widgets/woocommerce/woo-banner-slider.php:611
+#: widgets/woocommerce/woo-list.php:257 widgets/woocommerce/woo-banner.php:628
+msgid "TITLE"
+msgstr ""
+
+#: classes/class-helpers-functions.php:259 widgets/sidebar-widgets.php:52
+#: widgets/sidebar-widgets.php:260 widgets/slide-show.php:42
+#: widgets/vegas-slider.php:84 widgets/post-data.php:35
+#: widgets/fetatures-item.php:69 widgets/menu-vertical.php:83
+#: widgets/menu-vertical.php:159 widgets/home-slider.php:95
+#: widgets/woocommerce/woo-tab-slider.php:87
+#: widgets/woocommerce/woo-grid.php:189 widgets/woocommerce/woo-brands.php:109
+#: widgets/woocommerce/woo-categories.php:259
+#: widgets/woocommerce/woo-gallery.php:126
+#: widgets/woocommerce/woo-product-item.php:40
+#: widgets/woocommerce/woo-slider.php:161
+#: widgets/woocommerce/woo-category-grid.php:106
+#: widgets/woocommerce/woo-banner-slider.php:343
+#: widgets/woocommerce/woo-list.php:131 widgets/woocommerce/woo-list.php:165
+#: widgets/woocommerce/woo-banner.php:370
+#: widgets/woocommerce/product/product-upsell.php:55
+#: widgets/woocommerce/product/single-elements.php:40
+#: widgets/woocommerce/product/product-related.php:68
+msgid "Title"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:351 widgets/slide-show.php:177
+#: widgets/vegas-slider.php:93 widgets/home-slider.php:230
+#: widgets/woocommerce/woo-banner-hero-slider.php:100
+#: widgets/woocommerce/woo-slider.php:278
+msgid "Title Color"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:336
+msgid "TITLE STYLE"
+msgstr ""
+
+#: widgets/fetatures-item.php:77 widgets/posts-base.php:369
+#: widgets/woocommerce/woo-category-grid.php:282
+#: widgets/woocommerce/woo-banner-slider.php:274
+#: widgets/woocommerce/woo-banner.php:267
+msgid "Title Tag"
+msgstr ""
+
+#: widgets/slide-show.php:280
+#: widgets/woocommerce/woo-banner-hero-slider.php:286
+#: widgets/woocommerce/woo-page-title.php:39
+msgid "Title Tag for SEO"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:345 widgets/menu-vertical.php:284
+msgid "Title Typography"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:387
+#: widgets/woocommerce/wp-widgets/widget-product-status.php:250
+#: widgets/woocommerce/wp-widgets/widget-product-categories.php:233
+msgid "Title:"
+msgstr ""
+
+#: classes/class-swatches.php:123 classes/class-swatches.php:145
+#: classes/class-swatches.php:227
+msgid "Tooltip"
+msgstr ""
+
+#: widgets/woocommerce/woo-mini-cart.php:114
+msgid "Tooltip Background Color"
+msgstr ""
+
+#: widgets/woocommerce/woo-mini-cart.php:125
+msgid "Tooltip Color"
+msgstr ""
+
+#: widgets/button.php:274
+msgid "Tooltip Position"
+msgstr ""
+
+#: widgets/button.php:297
+msgid "TOOLTIP STYLE"
+msgstr ""
+
+#: widgets/button.php:288
+msgid "Tooltip Text"
+msgstr ""
+
+#: widgets/button.php:266
+msgid "Tooltips"
+msgstr ""
+
+#: widgets/vegas-template.php:432 widgets/vegas-template.php:519
+#: widgets/vegas-template.php:625 widgets/vegas-slider.php:180
+#: widgets/vegas-slider.php:533 widgets/vegas-slider.php:620
+#: widgets/vegas-slider.php:726 widgets/button.php:278
+#: widgets/woocommerce/woo-banner-hero-slider.php:192
+#: widgets/woocommerce/woo-banner-hero-slider.php:245
+#: widgets/woocommerce/woo-banner-slider.php:357
+#: widgets/woocommerce/woo-banner.php:384
+msgid "Top"
+msgstr ""
+
+#. %s: post type label
+#: classes/class-helpers-functions.php:44
+msgid "TOP FILTER"
+msgstr ""
+
+#: widgets/image-slider.php:281 widgets/posts-base.php:663
+#: widgets/instagram-slider.php:286 widgets/testimonials-slider.php:377
+#: widgets/menu-vertical.php:372 widgets/woocommerce/woo-tab-slider.php:518
+#: widgets/woocommerce/woo-brands.php:428
+#: widgets/woocommerce/woo-slider.php:377
+#: widgets/woocommerce/woo-category-grid.php:476
+#: widgets/woocommerce/woo-banner-slider.php:876
+msgid "Top Offset"
+msgstr ""
+
+#: widgets/contact-form-7.php:211
+msgid "Top Spacing ( px )"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:377
+msgid "Transform"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:114
+#: classes/class-custom-elementor-section.php:363
+msgid "Transform perspective, the lower the more extreme the tilt gets."
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:252
+msgid "Transform Type"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:153
+#: classes/class-custom-elementor-section.php:402
+msgid "Transition"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:898
+#: widgets/woocommerce/product/product-add-to-cart.php:184
+#: widgets/woocommerce/product/product-add-to-cart.php:353
+msgid "Transition Duration"
+msgstr ""
+
+#: widgets/vegas-template.php:220 widgets/vegas-slider.php:321
+msgid "Transition Duration ( ms )"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:834
+#: widgets/vegas-template.php:160 widgets/vegas-slider.php:261
+msgid "Transition Type"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:267
+msgid "Translate"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:256
+msgid "translate"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:275
+msgid "Translate 2D ( X,Y )"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:284
+msgid "Translate 3D ( X,Y,Z )"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:734
+msgid "triangle"
+msgstr ""
+
+#: templates/template-library/library-manager.php:60
+msgid "Try different category or sync for new templates."
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:122
+#: classes/class-custom-elementor-section.php:705
+#: widgets/sidebar-widgets.php:221 widgets/animated-headline.php:54
+#: widgets/posts-base.php:47 widgets/testimonials-slider.php:37
+#: widgets/woocommerce/woo-brands.php:35
+#: widgets/woocommerce/woo-category-grid.php:34
+msgid "Type"
+msgstr ""
+
+#: widgets/testimonials-slider.php:41
+msgid "Type 1"
+msgstr ""
+
+#: widgets/testimonials-slider.php:42
+msgid "Type 2"
+msgstr ""
+
+#: widgets/testimonials-slider.php:43
+msgid "Type 3"
+msgstr ""
+
+#: widgets/animated-headline.php:90
+msgid "Typed Text"
+msgstr ""
+
+#: widgets/animated-headline.php:31
+msgid "Typed Title Settings"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:395 widgets/slide-show.php:412
+#: widgets/slide-show.php:435 widgets/slide-show.php:450
+#: widgets/slide-show.php:559 widgets/contact-form-7.php:205
+#: widgets/vegas-template.php:575 widgets/vegas-slider.php:676
+#: widgets/animated-headline.php:141 widgets/animated-headline.php:198
+#: widgets/gallery.php:449 widgets/gallery.php:656 widgets/gallery.php:679
+#: widgets/post-data.php:301 widgets/post-data.php:395
+#: widgets/breadcrumbs.php:33 widgets/fetatures-item.php:202
+#: widgets/fetatures-item.php:233 widgets/posts-base.php:404
+#: widgets/posts-base.php:427 widgets/posts-base.php:450
+#: widgets/posts-base.php:473 widgets/timer.php:101
+#: widgets/testimonials-slider.php:300 widgets/testimonials-slider.php:323
+#: widgets/testimonials-slider.php:361 widgets/menu-vertical.php:447
+#: widgets/button.php:359 widgets/home-slider.php:520
+#: widgets/home-slider.php:543 widgets/home-slider.php:558
+#: widgets/woocommerce/woo-tab-slider.php:255
+#: widgets/woocommerce/woo-tab-slider.php:311
+#: widgets/woocommerce/woo-tab-slider.php:350
+#: widgets/woocommerce/woo-grid.php:279 widgets/woocommerce/woo-grid.php:318
+#: widgets/woocommerce/woo-gallery.php:198
+#: widgets/woocommerce/woo-gallery.php:276
+#: widgets/woocommerce/woo-banner-hero-slider.php:371
+#: widgets/woocommerce/woo-banner-hero-slider.php:410
+#: widgets/woocommerce/woo-banner-hero-slider.php:449
+#: widgets/woocommerce/woo-banner-hero-slider.php:488
+#: widgets/woocommerce/woo-banner-hero-slider.php:551
+#: widgets/woocommerce/woo-page-title.php:94
+#: widgets/woocommerce/woo-category-grid.php:309
+#: widgets/woocommerce/woo-category-grid.php:334
+#: widgets/woocommerce/woo-category-grid.php:360
+#: widgets/woocommerce/woo-archive-description.php:78
+#: widgets/woocommerce/woo-banner-slider.php:512
+#: widgets/woocommerce/woo-banner-slider.php:574
+#: widgets/woocommerce/woo-banner-slider.php:628
+#: widgets/woocommerce/woo-banner-slider.php:667
+#: widgets/woocommerce/woo-banner-slider.php:730
+#: widgets/woocommerce/woo-list.php:274 widgets/woocommerce/woo-list.php:305
+#: widgets/woocommerce/woo-list.php:336 widgets/woocommerce/woo-banner.php:529
+#: widgets/woocommerce/woo-banner.php:591
+#: widgets/woocommerce/woo-banner.php:645
+#: widgets/woocommerce/woo-banner.php:684
+#: widgets/woocommerce/woo-banner.php:747
+#: widgets/woocommerce/product/product-data-tabs.php:139
+#: widgets/woocommerce/product/product-data-tabs.php:180
+#: widgets/woocommerce/product/product-data-tabs.php:209
+#: widgets/woocommerce/product/product-stock.php:50
+#: widgets/woocommerce/product/product-additional-information.php:61
+#: widgets/woocommerce/product/product-additional-information.php:85
+#: widgets/woocommerce/product/product-short-description.php:79
+msgid "Typography"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:643
+#: classes/class-customizing-default-widgets.php:714
+msgid "up"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:647
+msgid "up left"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:648
+msgid "up right"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:33
+msgid "Update Brand name"
+msgstr ""
+
+#: classes/class-swatches.php:135
+msgid "Upload/Add image"
+msgstr ""
+
+#: widgets/woocommerce/product/single-elements.php:48
+msgid "Upsell"
+msgstr ""
+
+#: widgets/woocommerce/product/product-upsell.php:13
+#: widgets/woocommerce/product/product-upsell.php:31
+msgid "Upsells"
+msgstr ""
+
+#: widgets/timer.php:40
+msgid "Usage : 2030/01/01"
+msgstr ""
+
+#: templates/template-library/library-manager.php:58
+#, php-format
+msgid ""
+"Use %s widget with other exclusive pro widgets and 100% unique features to "
+"extend your toolbox and build sites faster and better."
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:170
+#: widgets/woocommerce/woo-banner-slider.php:48
+#: widgets/woocommerce/woo-banner.php:47
+msgid "Use Background Video"
+msgstr ""
+
+#: widgets/button.php:199
+msgid "Use Icon"
+msgstr ""
+
+#: classes/class-swatches.php:226
+msgid "Value"
+msgstr ""
+
+#: widgets/woocommerce/product/product-add-to-cart.php:379
+msgid "Variations"
+msgstr ""
+
+#: widgets/vegas-slider.php:176
+#: widgets/woocommerce/woo-banner-hero-slider.php:188
+#: widgets/woocommerce/woo-banner-hero-slider.php:241
+msgid "Vertical Alignment"
+msgstr ""
+
+#: widgets/gallery.php:154
+msgid "Vertical Gap"
+msgstr ""
+
+#: widgets/vegas-template.php:446 widgets/vegas-template.php:533
+#: widgets/vegas-template.php:639 widgets/vegas-slider.php:547
+#: widgets/vegas-slider.php:634 widgets/vegas-slider.php:740
+msgid "Vertical Position"
+msgstr ""
+
+#: widgets/woocommerce/woo-tab-slider.php:468
+#: widgets/woocommerce/woo-tab-slider.php:497
+msgid "Vertical Position ( % )"
+msgstr ""
+
+#: widgets/slide-show.php:137 widgets/slide-show.php:347
+#: widgets/home-slider.php:190 widgets/home-slider.php:463
+msgid "Vertical Text Alignment"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner.php:190
+msgid "Video Box Height"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:178
+msgid "Video Format"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:99
+#: widgets/woocommerce/woo-banner.php:98
+msgid "Video ID"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:317
+msgid "Video Loop"
+msgstr ""
+
+#: widgets/vegas-slider.php:67
+msgid "Video Mute"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:55
+#: widgets/woocommerce/woo-banner.php:54
+msgid "Video Source"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:115
+#: widgets/woocommerce/woo-banner-slider.php:132
+#: widgets/woocommerce/woo-banner.php:128
+#: widgets/woocommerce/woo-banner.php:145
+msgid "Video Start"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:207
+msgid "Video URL"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:277
+msgid "Video Volume"
+msgstr ""
+
+#: widgets/woocommerce/product/product-meta.php:39
+msgid "View"
+msgstr ""
+
+#: widgets/woocommerce/brands/brands.php:32
+msgid "View Brand"
+msgstr ""
+
+#: classes/class-popup-builder.php:45
+msgid "View Popup"
+msgstr ""
+
+#: classes/class-popup-builder.php:46
+msgid "View Popups"
+msgstr ""
+
+#: widgets/button.php:46 widgets/woocommerce/woo-banner-slider.php:60
+#: widgets/woocommerce/woo-banner.php:59
+msgid "Vimeo"
+msgstr ""
+
+#: widgets/button.php:122
+msgid "Vimeo Video URL"
+msgstr ""
+
+#: templates/template-library/templates.php:140
+msgid "Want to learn more about the Styler Library?"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:226
+msgid "weekly"
+msgstr ""
+
+#: classes/class-quick-view.php:152 classes/class-compare.php:397
+#: widgets/woocommerce/product/product-meta.php:112
+msgid "Weight"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:162
+#: classes/class-custom-elementor-section.php:411
+msgid "What axis should be disabled. Can be X or Y."
+msgstr ""
+
+#: classes/class-custom-kit-settings.php:96
+msgid "Wide Column Padding"
+msgstr ""
+
+#: classes/class-custom-kit-settings.php:110
+msgid "Wider Column Padding"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:312
+msgid "Widget Background Color"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:304
+msgid "Widget Padding"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:283
+msgid "WIDGET STYLE"
+msgstr ""
+
+#: templates/admin/admin-template.php:21
+msgid "Widgets"
+msgstr ""
+
+#: widgets/woocommerce/product/product-meta.php:136
+#: widgets/woocommerce/product/product-add-to-cart.php:387
+msgid "Width"
+msgstr ""
+
+#: widgets/contact-form-7.php:222
+msgid "Width ( px )"
+msgstr ""
+
+#: widgets/woocommerce/woo-mini-cart.php:190
+msgid "Wishlist"
+msgstr ""
+
+#: classes/class-wishlist.php:94
+msgid "Wishlist link:"
+msgstr ""
+
+#: widgets/woocommerce/woo-header-actions.php:37
+msgid "Wishlist Popup"
+msgstr ""
+
+#: widgets/woocommerce/product/single-elements.php:13
+msgid "Woo - Single Elements"
+msgstr ""
+
+#: widgets/woocommerce/woo-page-title.php:13
+msgid "Woo Archive Title"
+msgstr ""
+
+#: widgets/woocommerce/product/breadcrumb.php:13
+msgid "WooCommerce Breadcrumbs"
+msgstr ""
+
+#: widgets/menu-vertical.php:36
+msgid "Wp Menu"
+msgstr ""
+
+#: widgets/vegas-template.php:291 widgets/vegas-slider.php:392
+msgid "Wrap Container"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:167
+#: classes/class-custom-elementor-section.php:416
+msgid "X Axis"
+msgstr ""
+
+#: widgets/gallery.php:171
+msgid "X-Large Device Column"
+msgstr ""
+
+#: classes/class-customizing-default-widgets.php:168
+#: classes/class-custom-elementor-section.php:417
+msgid "Y Axis"
+msgstr ""
+
+#: widgets/sidebar-widgets.php:228
+msgid "yearly"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:305
+#: widgets/woocommerce/woo-grid.php:213
+msgid "Yes"
+msgstr ""
+
+#: classes/class-compare.php:37
+msgid "You can add a maximum of {max_limit} products to the compare table."
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:341
+msgid ""
+"You can use this option if you want to use tilt effect for the elementor "
+"heading and image in the column when the mouse is over the column."
+msgstr ""
+
+#: widgets/woocommerce/popup-cart-notices/popup-cart-notices.php:38
+#, php-format
+msgid "Your cart: %s"
+msgstr ""
+
+#: classes/class-compare.php:102 classes/class-compare.php:136
+msgid "Your compared products"
+msgstr ""
+
+#: classes/class-wishlist.php:128 classes/class-wishlist.php:166
+msgid "Your Wishlist"
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:59
+#: widgets/woocommerce/woo-banner.php:58
+msgid "YouTube"
+msgstr ""
+
+#: widgets/button.php:45
+msgid "Youtube"
+msgstr ""
+
+#: widgets/button.php:113
+msgid "Youtube Video URL"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:211
+msgid "YouTube/Vimeo link, or link to video file (mp4 is recommended)."
+msgstr ""
+
+#: widgets/woocommerce/woo-banner-slider.php:101
+#: widgets/woocommerce/woo-banner.php:100
+msgid "YouTube/Vimeo video ID."
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:131
+msgid "Zoom"
+msgstr ""
+
+#: widgets/animated-headline.php:64
+msgid "zoom"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:132
+msgid "Zoom with Fade"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:849
+#: widgets/vegas-template.php:175 widgets/vegas-slider.php:276
+msgid "zoomIn"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:850
+#: widgets/vegas-template.php:176 widgets/vegas-slider.php:277
+msgid "zoomIn2"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:851
+#: widgets/vegas-template.php:177 widgets/vegas-slider.php:278
+msgid "zoomOut"
+msgstr ""
+
+#: classes/class-custom-elementor-section.php:852
+#: widgets/vegas-template.php:178 widgets/vegas-slider.php:279
+msgid "zoomOut2"
+msgstr ""
+
+#: classes/class-compare.php:40
+msgid "{name} has been added to Compare list."
+msgstr ""
+
+#: classes/class-compare.php:41
+msgid "{name} has been removed from the Compare list."
+msgstr ""
+
+#: classes/class-compare.php:39
+msgid "{name} is already in the Compare list."
+msgstr ""
